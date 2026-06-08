@@ -117,6 +117,14 @@
   .chip{border:1px solid var(--line-strong);border-radius:999px;padding:9px 18px;font-size:14px;color:var(--ink);font-weight:500;background:rgba(255,255,255,.02)}
   .chip b{color:var(--gold-soft)}
 
+  /* letter (reserved) */
+  .letter-card{border:1px dashed var(--line-strong);border-radius:18px;background:var(--surface);
+    padding:36px 40px;display:flex;align-items:center;gap:24px;flex-wrap:wrap}
+  .letter-soon{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold-soft);
+    border:1px solid rgba(216,189,134,.4);border-radius:999px;padding:8px 16px;white-space:nowrap}
+  .letter-desc{font-size:16px;color:var(--ink-2);flex:1;min-width:220px}
+  .letter-btn{padding:12px 20px;font-size:14px}
+
   /* steps */
   .steps{display:flex;flex-direction:column;border-top:1px solid var(--line)}
   .step{display:grid;grid-template-columns:64px 1fr;gap:24px;padding:26px 0;border-bottom:1px solid var(--line);align-items:start}
@@ -161,6 +169,7 @@
       <a href="#core">자산배분</a>
       <a href="#assets">자산군 · 사례</a>
       <a href="#research">리서치</a>
+      <a href="#letter">레터</a>
       <a href="#about">약력</a>
     </div>
     <a class="nav-cta" href="#contact">상담 문의</a>
@@ -174,7 +183,7 @@
     <span class="eyebrow">신한투자증권 · Private Banker</span>
     <h1>황인철<span class="g">.</span></h1>
     <p class="role"><b>Private Banker</b> · 신한투자증권 을지로 리테일</p>
-    <p class="lede">상품을 파는 게 아니라, <em>자산배분 자체를 운용합니다.</em><br />주식 · 채권 · 대체상품을 사이클에 맞춰 능동적으로 굴립니다.</p>
+    <p class="lede">종목 하나가 아니라, <em>자산배분 전체를 함께 설계합니다.</em><br />주식 · 채권 · 대체상품을 시장 국면에 맞춰 균형 있게 관리합니다.</p>
     <div class="hero-cta">
       <a class="btn btn-primary" href="#contact">상담 문의 →</a>
       <a class="btn btn-ghost" href="#assets">자산군 · 사례 보기</a>
@@ -193,12 +202,12 @@
   <div class="wrap">
     <div class="sec-head reveal">
       <span class="eyebrow">The Core</span>
-      <h2>자산관리의 핵심은 종목이 아니라<br />배분(allocation)입니다.</h2>
+      <h2>자산관리의 출발점은 종목 선택이 아니라<br />자산배분(allocation)이라고 생각합니다.</h2>
     </div>
     <div class="core-card reveal">
       <span class="core-tag">Active Asset Allocation</span>
-      <p class="quote">사서 묻어두지 않습니다. <span class="hl">사이클을 읽고, 자산군 비중을 갈아탑니다.</span></p>
-      <p class="desc">대부분의 PB는 상품을 추천하고 보유하게 합니다. 저는 그 위 단계 — 주식·채권·대체상품 사이의 <b>비중 자체</b>를 시장 국면에 맞춰 능동적으로 조정합니다. 각 자산군 안에서도 정적 보유가 아니라 사이클에 맞춰 회전시킵니다.</p>
+      <p class="quote">시장은 한자리에 머물지 않습니다. <span class="hl">사이클에 맞춰 자산군 비중을 점검하고 조정합니다.</span></p>
+      <p class="desc">개별 상품을 고르는 일만큼이나, 주식·채권·대체상품 사이의 <b>비중</b>을 어떻게 가져가느냐가 장기 성과를 좌우한다고 봅니다. 시장 국면에 따라 배분을 점검하고, 각 자산군 안에서도 상황 변화에 맞춰 차분히 대응합니다.</p>
       <div class="alloc-bar" aria-label="자산배분 예시">
         <div class="alloc-seg eq">주식</div>
         <div class="alloc-seg fi">채권</div>
@@ -260,7 +269,7 @@
       </div>
       <div class="asset-grid">
         <div class="asset-method" style="color:var(--fi)">
-          <p style="color:var(--ink-2)">사이클 액티브 트레이딩. 금리 국면에 따라 국가·만기·통화를 회전시킵니다. Buy-and-hold가 아닙니다.</p>
+          <p style="color:var(--ink-2)">금리 사이클에 따라 국가·만기·통화를 조정합니다. 한 번 매수해 두고 방치하기보다, 국면 변화에 맞춰 차분히 대응합니다.</p>
           <ul>
             <li>실질금리 · 캐리 · 환 동시 판단</li>
             <li>국채 · 신흥국채 · 크레딧 횡단</li>
@@ -313,8 +322,8 @@
   <div class="wrap">
     <div class="sec-head reveal">
       <span class="eyebrow">Research Depth</span>
-      <h2>모든 배분 판단의 근거는 직접 만든 리서치입니다</h2>
-      <p>외부 리포트를 옮기지 않습니다. 산업 구조와 사이클을 스스로 분해합니다.</p>
+      <h2>배분 판단의 근거는 직접 만든 리서치에 둡니다</h2>
+      <p>외부 리포트에 의존하기보다, 산업 구조와 사이클을 직접 분석해 근거를 세웁니다.</p>
     </div>
     <div class="chips reveal">
       <span class="chip"><b>반도체</b> P1~P5 프레임</span>
@@ -330,6 +339,22 @@
   </div>
 </section>
 
+<!-- LETTER (자리만 예약) -->
+<section id="letter">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <span class="eyebrow">Market Letter</span>
+      <h2>황인철의 시황 레터</h2>
+      <p>시장 국면과 자산배분에 대한 생각을 정기적으로 정리해 전해 드릴 예정입니다.</p>
+    </div>
+    <div class="letter-card reveal">
+      <span class="letter-soon">준비 중</span>
+      <p class="letter-desc">곧 이곳에서 지난 레터를 보거나 받아보실 수 있습니다.</p>
+      <a class="btn btn-ghost letter-btn" href="#contact">미리 알림 신청 →</a>
+    </div>
+  </div>
+</section>
+
 <!-- PROCESS -->
 <section id="process" style="background:var(--bg-2)">
   <div class="wrap">
@@ -341,7 +366,7 @@
       <div class="step"><span class="sn">01</span><div><h4>현황 진단</h4><p>현재 자산 구성, 위험 성향, 목표 시계를 짧고 정확하게 파악합니다.</p></div></div>
       <div class="step"><span class="sn">02</span><div><h4>배분 설계</h4><p>지금 사이클의 위치를 기준으로 주식·채권·대체상품의 비중을 제안합니다.</p></div></div>
       <div class="step"><span class="sn">03</span><div><h4>자산군 실행</h4><p>주식은 두 트랙으로, 채권은 사이클 회전으로, 기타는 테마 선별로 채웁니다.</p></div></div>
-      <div class="step"><span class="sn">04</span><div><h4>주기적 리밸런싱</h4><p>사이클이 바뀌면 비중을 갈아탑니다. 발행 리서치로 근거를 투명하게 공유합니다.</p></div></div>
+      <div class="step"><span class="sn">04</span><div><h4>주기적 리밸런싱</h4><p>사이클이 바뀌면 비중을 다시 조정합니다. 판단의 근거는 리서치로 투명하게 공유합니다.</p></div></div>
     </div>
   </div>
 </section>
@@ -356,8 +381,8 @@
     <div class="about-grid">
       <div class="about-body reveal">
         <p><b>황인철</b>은 신한투자증권의 프라이빗 뱅커입니다. 을지로 리테일 지점에서 개인 고객의 자산을 운용합니다.</p>
-        <p>다른 PB와의 차이는 운용의 층위입니다. 개별 상품을 권하는 데서 멈추지 않고, <b>자산배분 자체를 능동적으로 운용</b>합니다. 채권은 사이클로 거래하고, 주식은 구조적 성장으로 압축하며, 모든 판단의 근거를 <b>직접 매크로 리서치</b>로 만듭니다.</p>
-        <p>군더더기 없는 소통을 지향합니다 — 과장된 홍보 문구가 아니라, 검증된 숫자와 명확한 논거로 이야기합니다.</p>
+        <p>개별 상품을 권하는 데서 멈추지 않고, <b>자산배분부터 함께 설계</b>하는 것을 중요하게 생각합니다. 채권은 금리 사이클에 맞춰 관리하고, 주식은 구조적 성장에 집중하며, 판단의 근거는 <b>직접 만든 매크로 리서치</b>에 둡니다.</p>
+        <p>소통은 담백하게 합니다. 과장된 표현보다, 검증된 숫자와 분명한 논거로 말씀드리는 편입니다.</p>
       </div>
       <div class="about-facts reveal">
         <div class="fact"><div class="fk">소속</div><div class="fv">신한투자증권 PB</div></div>
