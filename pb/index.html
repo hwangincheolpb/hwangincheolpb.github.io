@@ -143,6 +143,20 @@
   .fact:last-child{border-bottom:0;padding-bottom:0}.fact:first-child{padding-top:0}
   .fact .fk{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);margin-bottom:5px}
   .fact .fv{font-size:16px;color:var(--ink);font-weight:600}
+  .cred-block{padding-bottom:20px;border-bottom:1px solid var(--line);margin-bottom:20px}
+  .cred-label{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);margin-bottom:14px}
+  .cred-timeline{list-style:none;display:flex;flex-direction:column;gap:15px}
+  .cred-timeline li{display:flex;flex-direction:column;gap:2px;padding-left:17px;position:relative}
+  .cred-timeline li::before{content:"";position:absolute;left:0;top:6px;width:7px;height:7px;border-radius:50%;background:var(--gold);z-index:1}
+  .cred-timeline li:not(:last-child)::after{content:"";position:absolute;left:3px;top:11px;width:1px;height:calc(100% + 6px);background:var(--line-strong)}
+  .ct-when{font-family:var(--mono);font-size:11px;color:var(--gold-soft);letter-spacing:.03em}
+  .ct-what{font-size:15px;color:var(--ink);font-weight:600;line-height:1.35}
+  .cred-row{display:flex;gap:24px;flex-wrap:wrap}
+  .cred-mini{flex:1;min-width:120px}
+  .cred-val{font-size:15px;color:var(--ink);font-weight:600;margin-top:5px}
+  .contact-detail{margin-top:28px;font-family:var(--mono);font-size:13px;letter-spacing:.03em;color:var(--ink-3)}
+  .contact-detail a{color:var(--ink-2)}
+  .contact-detail a:hover{color:var(--gold-soft)}
 
   #contact{text-align:center;padding:120px 0}
   #contact h2{font-size:clamp(30px,5vw,52px);font-weight:800;letter-spacing:-.035em;line-height:1.1}
@@ -182,7 +196,7 @@
   <div class="wrap">
     <span class="eyebrow">신한투자증권 · Private Banker</span>
     <h1>황인철<span class="g">.</span></h1>
-    <p class="role"><b>Private Banker</b> · 신한투자증권 을지로 리테일</p>
+    <p class="role"><b>Private Banker</b> · 신한투자증권 서울금융센터</p>
     <p class="lede">종목 하나가 아니라, <em>자산배분 전체를 함께 설계합니다.</em><br />주식 · 채권 · 대체상품을 시장 국면에 맞춰 균형 있게 관리합니다.</p>
     <div class="hero-cta">
       <a class="btn btn-primary" href="#contact">상담 문의 →</a>
@@ -380,16 +394,23 @@
     </div>
     <div class="about-grid">
       <div class="about-body reveal">
-        <p><b>황인철</b>은 신한투자증권의 프라이빗 뱅커입니다. 을지로 리테일 지점에서 개인 고객의 자산을 운용합니다.</p>
+        <p><b>황인철</b>은 신한투자증권의 프라이빗 뱅커입니다. 서울금융센터에서 개인 고객의 자산을 운용합니다.</p>
         <p>개별 상품을 권하는 데서 멈추지 않고, <b>자산배분부터 함께 설계</b>하는 것을 중요하게 생각합니다. 채권은 금리 사이클에 맞춰 관리하고, 주식은 구조적 성장에 집중하며, 판단의 근거는 <b>직접 만든 매크로 리서치</b>에 둡니다.</p>
         <p>소통은 담백하게 합니다. 과장된 표현보다, 검증된 숫자와 분명한 논거로 말씀드리는 편입니다.</p>
       </div>
       <div class="about-facts reveal">
-        <div class="fact"><div class="fk">소속</div><div class="fv">신한투자증권 PB</div></div>
-        <div class="fact"><div class="fk">지점</div><div class="fv">을지로 리테일</div></div>
-        <div class="fact"><div class="fk">핵심</div><div class="fv">능동적 자산배분</div></div>
-        <div class="fact"><div class="fk">리서치</div><div class="fv">반도체 · 메모리 · SMR · 그리드</div></div>
-        <div class="fact"><div class="fk">부가 활동</div><div class="fv">xResearch 독립 리서치</div></div>
+        <div class="cred-block">
+          <div class="cred-label">경력</div>
+          <ul class="cred-timeline">
+            <li><span class="ct-when">2025.01 — 현재</span><span class="ct-what">신한투자증권 서울금융센터 PB</span></li>
+            <li><span class="ct-when">2021.11 — 2024.12</span><span class="ct-what">신한투자증권 의정부지점</span></li>
+            <li><span class="ct-when">2021.03 — 2021.10</span><span class="ct-what">KB증권</span></li>
+          </ul>
+        </div>
+        <div class="cred-row">
+          <div class="cred-mini"><div class="cred-label">학력</div><div class="cred-val">중앙대학교 사회학과</div></div>
+          <div class="cred-mini"><div class="cred-label">자격</div><div class="cred-val">투자자산운용사 · AFPK</div></div>
+        </div>
       </div>
     </div>
   </div>
@@ -405,6 +426,7 @@
       <a class="btn btn-primary" href="mailto:spfe0225@gmail.com">이메일 문의 →</a>
       <a class="btn btn-ghost" href="#assets">사례 다시 보기</a>
     </div>
+    <p class="contact-detail reveal"><a href="mailto:spfe0225@gmail.com">spfe0225@gmail.com</a> &nbsp;·&nbsp; 전화 등록 예정</p>
   </div>
 </section>
 
@@ -413,7 +435,7 @@
     <div class="foot-grid">
       <div>
         <div class="foot-brand">황인철<span>.</span> · Private Banker</div>
-        <div style="color:var(--ink-3);font-size:13px;margin-top:8px">신한투자증권 · 을지로 리테일</div>
+        <div style="color:var(--ink-3);font-size:13px;margin-top:8px">신한투자증권 · 서울금융센터</div>
       </div>
       <div class="foot-links">
         <a href="../">← 전체 프로필</a>
