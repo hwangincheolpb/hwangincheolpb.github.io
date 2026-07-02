@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "date_kr": "2026년 7월 2일",
-  "generated_at": "2026-07-02T14:21:27.027960+09:00",
+  "generated_at": "2026-07-02T16:10:21.128454+09:00",
   "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 7월 2일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 메타(META, +8.81%)의 신규 AI 클라우드 사업 기대감은 컸지만, 잉여 AI 연산력 판매 이슈가 반도체 투자 수요 둔화 우려로 번지며 시장은 약세였습니다.  \n② 마이크론(MU, -10.57%), 샌디스크(SNDK, -10.62%), 엔비디아(NVDA, -1.25%)가 부진했고, 나이키(NKE, +4.90%)는 실적 기대감으로 반등했습니다.  \n③ 10년물 금리 상승과 달러 강세가 부담이지만, AI 인프라 장기 수요 자체가 꺾였다고 보기보다는 단기 과열 점검 구간으로 판단됩니다.\n\n📊 주요 지수\n\n- 다우 52,305.24 (-0.03%)\n- 나스닥 26,040.03 (-0.66%)\n- S&P500 7,483.23 (-0.22%)\n- MSCI 한국 ETF(EWY) 185.50 (-8.12%)\n- 달러인덱스 101.40 (+0.21%)\n- WTI 68.09달러 (-2.03%)\n- 미국 10년물 금리 4.47%\n- VIX 16.59 (+0.85%)\n\n감사합니다.",
   "sihwang_status": "ok",
   "sector_line": "섹터 1M 상위: Health Care +8.4%, Financials +6.9%, Industrials +6.6% / 하위: Communication -4.8%, Technology -5.1%, Energy -7.2%",
@@ -16,37 +16,6 @@
       "중동 정세 협상 진행 및 유가 하락은 긍정적이었으나, 금리 부담과 기술주 내 순환매로 3대 지수는 모두 하락 마감함"
     ]
   },
-  "news": [
-    {
-      "title": "Russia launches massive strike on Ukraine as Poland scrambles jets, Finland restricts airspace",
-      "link": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html",
-      "source": "CNBC"
-    },
-    {
-      "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report",
-      "link": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
-      "source": "CNBC"
-    },
-    {
-      "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
-      "link": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
-      "source": "CNBC"
-    },
-    {
-      "title": "Jobless claims fall to lowest level since mid-May",
-      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
-      "source": "MarketWatch"
-    },
-    {
-      "title": "Jobless claims stay low in latest week",
-      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
-      "source": "MarketWatch"
-    },
-    {
-      "title": "Consumer credit growth soars in December",
-      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
-      "source": "MarketWatch"
-    }
-  ],
+  "news": [],
   "view": "메타 관련 내용을 자세히 보면, 저번 실적 발표 때 '컴퓨팅 자원이 남는다면' 클라우드 사업을 하겠다고 한 것이라 CapEx 축소로 보는 것은 무리가 있어 보입니다. 이번 실적발표(7월 말) 내용이 중요할 듯 하나, 단기간에는 시장에 영향을 줄 수 있습니다. 개인적으로는 이럴 때가 기회라고 봅니다."
 }
