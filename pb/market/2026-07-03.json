@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "date_kr": "2026년 7월 3일",
-  "generated_at": "2026-07-03T08:07:12.742455+09:00",
+  "generated_at": "2026-07-03T11:10:03.894692+09:00",
   "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 핵심은 반도체 약세에도 다우가 사상 최고치를 새로 쓰며 순환매가 이어졌다는 점입니다.  \n② 애플(AAPL, +4.84%)·마이크로소프트(MSFT, +1.62%)는 강했고, 마이크론(MU, -5.49%)·샌디스크(SNDK, -14.13%)·엔비디아(NVDA, -1.39%)는 조정받았습니다.  \n③ 한국은 EWY(-2.89%) 급락처럼 단기 리밸런싱 부담이 커졌지만, 메모리 펀더멘털 뷰는 훼손보다 변동성 점검 국면으로 보입니다.\n\n📊 주요 지수  \n- 다우 52,900.07 (+1.14%)  \n- 나스닥 25,832.67 (-0.80%)  \n- S&P500 7,483.24 (+0.00%)  \n- MSCI 한국(EWY) 180.14 (-2.89%)  \n- 달러인덱스 100.86 (-0.52%)  \n- WTI 68.46달러 (-0.17%)  \n- 미국 10년물 금리 4.48%  \n- VIX 16.15 (-2.65%)",
   "sihwang_status": "ok",
   "sector_line": "섹터 1M 상위: Health Care +12.3%, Financials +8.5%, Industrials +5.8% / 하위: Communication -3.2%, Energy -7.5%, Technology -8.8%",
@@ -28,8 +28,8 @@
       "source": "CNBC"
     },
     {
-      "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-      "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
+      "title": "Nvidia offers start-up customers chance to swap compute power for revenue share",
+      "link": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
       "source": "CNBC"
     },
     {
@@ -48,5 +48,34 @@
       "source": "MarketWatch"
     }
   ],
+  "memval": {
+    "date": "2026-07-03",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 4.78,
+        "delta": null,
+        "price": 299500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 5.12,
+        "delta": null,
+        "price": 2259000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.52,
+        "delta": null,
+        "price": 975.56,
+        "currency": "USD"
+      }
+    ]
+  },
   "view": "반도체 조정이 이틀째 이어지고 있지만, 결론은 삼성전자·SK하이닉스 실적과 하이퍼스케일러들의 어닝콜까지 확인하고 내려도 늦지 않다고 봅니다. 펀더멘털 신호는 아직 견조합니다 — 씨티는 서버 DRAM 가격 랠리를 근거로 삼성전자 목표주가를 46만원에서 53만원으로 올렸고, BofA 공급망 조사에서는 '메타 메모리 주문 감산' 루머가 사실무근으로 확인됐습니다. 밸류에이션도 12개월 선행 P/E 기준 삼성전자 5.1배, SK하이닉스 5.6배, 마이크론 7.1배로 부담스러운 구간이 아닙니다. 에너지 같은 대안 업종도 검토하고 있으나 반도체보다 밸류에이션이 비싸고 투자 회수까지의 리드타임이 깁니다. 아직 반도체보다 좋은 투자처를 찾지 못했습니다."
 }
