@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>반도체 다음 — SMR 투자 인사이트 (BBTT 2026.07)</title>
+<style>
+  :root{--navy:#0E2238;--amber:#E0A23B;--mute:#8B98A5}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#0A1826;color:#E8EEF4;font-family:-apple-system,'Malgun Gothic','Apple SD Gothic Neo',sans-serif}
+  header{position:sticky;top:0;z-index:10;background:rgba(10,24,38,.92);backdrop-filter:blur(8px);
+    padding:.7rem 1rem;display:flex;align-items:center;gap:.8rem;border-bottom:1px solid #1E3048}
+  header h1{font-size:.95rem;font-weight:700;letter-spacing:.02em;flex:1}
+  header a{color:var(--amber);font-size:.8rem;text-decoration:none;white-space:nowrap}
+  #counter{color:var(--mute);font-size:.8rem;white-space:nowrap}
+  main{max-width:1100px;margin:0 auto;padding:.8rem}
+  .slide{margin:0 0 .8rem}
+  .slide img{width:100%;display:block;border-radius:8px;background:#fff}
+  .slide .n{color:var(--mute);font-size:.7rem;text-align:right;padding:.15rem .2rem 0}
+  footer{color:var(--mute);font-size:.75rem;text-align:center;padding:1.2rem 1rem 2.5rem}
+</style>
+</head>
+<body>
+<header>
+  <h1>반도체 다음 — SMR 투자 인사이트</h1>
+  <span id="counter"></span>
+  <a href="deck.pdf">PDF</a>
+  <a href="index.html">홈</a>
+</header>
+<main id="deck"></main>
+<footer>BBTT 주식스터디 · 황인철 · 2026.07 — 본 자료는 스터디용이며 투자 권유가 아닙니다.</footer>
+<script>
+const N = 28, deck = document.getElementById('deck');
+for (let i = 1; i <= N; i++) {
+  const pad = String(i).padStart(2, '0');
+  const d = document.createElement('div');
+  d.className = 'slide'; d.id = 'p' + i;
+  d.innerHTML = `<img src="slides/s-${pad}.jpg" loading="lazy" alt="slide ${i}"><div class="n">${i} / ${N}</div>`;
+  deck.appendChild(d);
+}
+const counter = document.getElementById('counter');
+const obs = new IntersectionObserver(es => {
+  es.forEach(e => { if (e.isIntersecting) counter.textContent = e.target.id.slice(1) + ' / ' + N; });
+}, { threshold: .5 });
+document.querySelectorAll('.slide').forEach(s => obs.observe(s));
+document.addEventListener('keydown', e => {
+  const cur = parseInt(counter.textContent) || 1;
+  if (e.key === 'ArrowRight' || e.key === 'ArrowDown' || e.key === ' ') { e.preventDefault(); document.getElementById('p' + Math.min(N, cur + 1))?.scrollIntoView({behavior:'smooth'}); }
+  if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { e.preventDefault(); document.getElementById('p' + Math.max(1, cur - 1))?.scrollIntoView({behavior:'smooth'}); }
+});
+</script>
+</body>
+</html>
