@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Market Chart Book</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <meta name="description" content="신한투자증권 PB용 시장 차트북 — S&P500, KOSPI, 밸류에이션, 섹터 퍼포먼스" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="css/style.css?v=9" />
+</head>
+<body>
+
+<!-- ============================================================
+     STICKY HEADER
+     ============================================================ -->
+<header id="site-header">
+  <div class="header-inner">
+    <div class="header-title">Market&nbsp;Chart&nbsp;Book</div>
+
+    <!-- View tabs: 데일리(아침 검증 세트) / 전체(접이식 섹션) -->
+    <div id="view-tabs" role="tablist" aria-label="뷰 전환">
+      <button class="view-tab" data-view="daily" role="tab" aria-selected="true">데일리</button>
+      <button class="view-tab" data-view="full" role="tab" aria-selected="false">전체</button>
+    </div>
+
+    <!-- Section quick-nav (mini TOC) — 전체 뷰 전용 -->
+    <nav class="header-nav" id="header-nav" aria-label="Section navigation">
+      <!-- populated by JS -->
+    </nav>
+
+    <div class="header-meta">
+      Updated <strong id="header-updated">—</strong>
+    </div>
+
+    <!-- Intake widget mount point (js/intake.js, separate module) -->
+    <div id="intake-root"></div>
+
+    <button id="theme-toggle" aria-label="Toggle dark/light mode" title="Toggle theme">
+      <!-- icon set by JS -->
+    </button>
+  </div>
+</header>
+
+<!-- ============================================================
+     MAIN CONTENT
+     ============================================================ -->
+<main id="main" role="main">
+  <!-- 아침 스냅샷 보드 (data/snapshot.json → charts.js가 렌더; 없으면 숨김) -->
+  <section id="snapshot-board" aria-label="Morning snapshot"></section>
+
+  <!-- 📅 이번 주 일정+실적 카드 (data/calendar.json → charts.js; 파일 없으면 숨김.
+       데일리 뷰 = 스냅샷 보드 바로 아래 / 전체 뷰 = 맨 위 — 둘 다 이 위치 하나로 충족) -->
+  <section id="calendar-card" aria-label="이번 주 일정"></section>
+
+  <!-- 데일리 뷰 컨테이너 — 데일리 차트 카드가 여기로 이동 (charts.js) -->
+  <div id="daily-view" aria-label="데일리 차트"></div>
+
+  <!-- Loading state -->
+  <div id="loading" aria-live="polite">
+    <div class="spinner"></div>
+    <span>차트 데이터 불러오는 중…</span>
+  </div>
+
+  <!-- Error state -->
+  <div id="error-msg" role="alert"></div>
+
+  <!-- Charts are injected here by charts.js -->
+</main>
+
+<!-- ============================================================
+     SCRIPTS
+     ============================================================ -->
+<!-- ECharts via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<!-- Chart Book JS -->
+<script src="js/charts.js?v=12"></script>
+<!-- Intake widget (optional module; renders into #intake-root if present) -->
+<script src="js/intake.js" defer></script>
+
+</body>
+</html>

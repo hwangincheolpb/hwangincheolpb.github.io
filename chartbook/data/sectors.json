@@ -1,0 +1,149 @@
+{
+  "id": "sectors",
+  "type": "heatmap_perf",
+  "title": "섹터 퍼포먼스",
+  "source": "Yahoo Finance (SPDR ETFs)",
+  "updated": "2026-07-07T06:30:08+09:00",
+  "periods": [
+    "1D",
+    "1W",
+    "1M",
+    "3M",
+    "YTD",
+    "1Y"
+  ],
+  "items": [
+    {
+      "name": "Technology",
+      "ticker": "XLK",
+      "perf": {
+        "1D": 1.65,
+        "1W": -0.99,
+        "1M": 1.94,
+        "3M": 34.37,
+        "YTD": 27.82,
+        "1Y": 43.63
+      }
+    },
+    {
+      "name": "Financials",
+      "ticker": "XLF",
+      "perf": {
+        "1D": 0.93,
+        "1W": 4.5,
+        "1M": 7.72,
+        "3M": 12.94,
+        "YTD": 3.39,
+        "1Y": 7.18
+      }
+    },
+    {
+      "name": "Health Care",
+      "ticker": "XLV",
+      "perf": {
+        "1D": -1.09,
+        "1W": 0.76,
+        "1M": 6.32,
+        "3M": 11.21,
+        "YTD": 5.52,
+        "1Y": 21.62
+      }
+    },
+    {
+      "name": "Energy",
+      "ticker": "XLE",
+      "perf": {
+        "1D": -0.17,
+        "1W": -0.84,
+        "1M": -7.21,
+        "3M": -10.33,
+        "YTD": 20.47,
+        "1Y": 25.9
+      }
+    },
+    {
+      "name": "Industrials",
+      "ticker": "XLI",
+      "perf": {
+        "1D": 0.9,
+        "1W": 1.53,
+        "1M": 6.8,
+        "3M": 13.0,
+        "YTD": 20.25,
+        "1Y": 25.79
+      }
+    },
+    {
+      "name": "Consumer Disc.",
+      "ticker": "XLY",
+      "perf": {
+        "1D": 0.76,
+        "1W": 0.76,
+        "1M": 2.95,
+        "3M": 8.44,
+        "YTD": -0.78,
+        "1Y": 7.52
+      }
+    },
+    {
+      "name": "Consumer Staples",
+      "ticker": "XLP",
+      "perf": {
+        "1D": -1.05,
+        "1W": -0.32,
+        "1M": 1.49,
+        "3M": 2.45,
+        "YTD": 9.63,
+        "1Y": 5.17
+      }
+    },
+    {
+      "name": "Utilities",
+      "ticker": "XLU",
+      "perf": {
+        "1D": -1.01,
+        "1W": -1.56,
+        "1M": 2.79,
+        "3M": -1.26,
+        "YTD": 7.54,
+        "1Y": 13.79
+      }
+    },
+    {
+      "name": "Materials",
+      "ticker": "XLB",
+      "perf": {
+        "1D": -0.06,
+        "1W": 2.61,
+        "1M": 3.05,
+        "3M": 3.89,
+        "YTD": 15.56,
+        "1Y": 15.85
+      }
+    },
+    {
+      "name": "Real Estate",
+      "ticker": "XLRE",
+      "perf": {
+        "1D": -0.87,
+        "1W": -1.4,
+        "1M": -0.05,
+        "3M": 6.99,
+        "YTD": 11.47,
+        "1Y": 9.61
+      }
+    },
+    {
+      "name": "Communication",
+      "ticker": "XLC",
+      "perf": {
+        "1D": 0.56,
+        "1W": 2.16,
+        "1M": -1.05,
+        "3M": -1.13,
+        "YTD": -5.84,
+        "1Y": 3.29
+      }
+    }
+  ]
+}

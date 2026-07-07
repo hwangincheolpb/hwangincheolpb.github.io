@@ -1,0 +1,24 @@
+{
+  "updated": "2026-07-07T06:30:03+09:00",
+  "events": [
+    {
+      "date": "2026-07-14",
+      "type": "지표",
+      "label": "미 CPI (6월분)",
+      "importance": "high"
+    },
+    {
+      "date": "2026-07-16",
+      "type": "회의",
+      "label": "한은 금통위 (기준금리)",
+      "importance": "high"
+    },
+    {
+      "date": "2026-07-16",
+      "type": "실적",
+      "label": "TSMC 실적",
+      "ticker": "TSM",
+      "importance": "high"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "updated": "2026-07-07T06:30:03+09:00",
+  "overall": {
+    "red": 0,
+    "warn": 1,
+    "judged": 5,
+    "total": 5,
+    "label": "정점 근접도 0/5"
+  },
+  "items": [
+    {
+      "chart": "margin_debt",
+      "label": "신용매수",
+      "state": "warn",
+      "emoji": "🟡",
+      "value": 77.6,
+      "unit": "%",
+      "caption": "margin debt 2년 저점 대비 +77.6% (기준 +50/+80 · 과거 정점 +90~100%)"
+    },
+    {
+      "chart": "ipo_rs",
+      "label": "IPO 붐",
+      "state": "good",
+      "emoji": "🟢",
+      "value": 13.6,
+      "unit": "%",
+      "caption": "IPO/S&P500 상대강도 6개월 +13.6% (기준 +20/+40)"
+    },
+    {
+      "chart": "arkk_rs",
+      "label": "투기 강세",
+      "state": "good",
+      "emoji": "🟢",
+      "value": 1,
+      "unit": "개월",
+      "caption": "ARKK/S&P500 월간 연속 아웃퍼폼 1개월 · 6개월 -2.8% (6개월↑=🟡 / 10개월↑+급등 40%↑=🔴)"
+    },
+    {
+      "chart": "fed_funds",
+      "label": "긴축 전환",
+      "state": "good",
+      "emoji": "🟢",
+      "value": 3.63,
+      "unit": "%",
+      "caption": "FEDFUNDS 3.63% · 24개월 바닥 3.63% — 인하/동결 지속"
+    },
+    {
+      "chart": "capex_margin",
+      "label": "공급과잉",
+      "state": "good",
+      "emoji": "🟢",
+      "value": 12.4,
+      "unit": "%",
+      "caption": "Capex YoY +10.4% · CP/GDP 12.40% — 마진 유지"
+    }
+  ]
+}

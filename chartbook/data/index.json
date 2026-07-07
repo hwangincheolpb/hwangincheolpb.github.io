@@ -1,0 +1,390 @@
+{
+  "updated": "2026-07-07T06:30:03+09:00",
+  "charts": [
+    {
+      "id": "sp500",
+      "file": "sp500.json",
+      "type": "timeseries",
+      "section": "주식시장",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 3
+    },
+    {
+      "id": "kospi",
+      "file": "kospi.json",
+      "type": "timeseries",
+      "section": "한국",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "kr_foreign_flow",
+      "file": "kr_foreign_flow.json",
+      "type": "timeseries",
+      "section": "수급",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 11
+    },
+    {
+      "id": "kr_rotation_check",
+      "file": "kr_rotation_check.json",
+      "type": "timeseries",
+      "section": "수급",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "kr_fear_greed",
+      "file": "kr_fear_greed.json",
+      "type": "timeseries",
+      "section": "수급",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "vix",
+      "file": "vix.json",
+      "type": "timeseries",
+      "section": "리스크",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 4
+    },
+    {
+      "id": "sectors",
+      "file": "sectors.json",
+      "type": "heatmap_perf",
+      "section": "섹터",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "valuation_pe",
+      "file": "valuation_pe.json",
+      "type": "timeseries",
+      "section": "밸류에이션",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "sp500_eps",
+      "file": "sp500_eps.json",
+      "type": "timeseries",
+      "section": "밸류에이션",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "margin_debt",
+      "file": "margin_debt.json",
+      "type": "timeseries",
+      "section": "버블 체크리스트",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "ipo_rs",
+      "file": "ipo_rs.json",
+      "type": "timeseries",
+      "section": "버블 체크리스트",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "arkk_rs",
+      "file": "arkk_rs.json",
+      "type": "timeseries",
+      "section": "버블 체크리스트",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "fed_funds",
+      "file": "fed_funds.json",
+      "type": "timeseries",
+      "section": "버블 체크리스트",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "capex_margin",
+      "file": "capex_margin.json",
+      "type": "timeseries",
+      "section": "버블 체크리스트",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "ls_rate_peak",
+      "file": "ls_rate_peak.json",
+      "type": "timeseries",
+      "section": "이선엽 체인",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 1
+    },
+    {
+      "id": "ls_semi_vs_power",
+      "file": "ls_semi_vs_power.json",
+      "type": "timeseries",
+      "section": "이선엽 체인",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 6
+    },
+    {
+      "id": "ls_memory_cycle",
+      "file": "ls_memory_cycle.json",
+      "type": "timeseries",
+      "section": "이선엽 체인",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 5
+    },
+    {
+      "id": "ls_taiwan_hedge",
+      "file": "ls_taiwan_hedge.json",
+      "type": "timeseries",
+      "section": "이선엽 체인",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 7
+    },
+    {
+      "id": "ls_ship_defense",
+      "file": "ls_ship_defense.json",
+      "type": "timeseries",
+      "section": "이선엽 체인",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 8
+    },
+    {
+      "id": "move_index",
+      "file": "move_index.json",
+      "type": "timeseries",
+      "section": "이선엽 체인",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 9
+    },
+    {
+      "id": "ust_yields",
+      "file": "ust_yields.json",
+      "type": "timeseries",
+      "section": "채권/금리",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "yield_spread",
+      "file": "yield_spread.json",
+      "type": "timeseries",
+      "section": "채권/금리",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 2
+    },
+    {
+      "id": "yield_curve",
+      "file": "yield_curve.json",
+      "type": "curve_snapshot",
+      "section": "채권/금리",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "credit_proxy",
+      "file": "credit_proxy.json",
+      "type": "timeseries",
+      "section": "채권/금리",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "credit_hy_oas",
+      "file": "credit_hy_oas.json",
+      "type": "timeseries",
+      "section": "채권/금리",
+      "ready": false,
+      "daily": false
+    },
+    {
+      "id": "usdkrw",
+      "file": "usdkrw.json",
+      "type": "timeseries",
+      "section": "환율",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "dxy",
+      "file": "dxy.json",
+      "type": "timeseries",
+      "section": "환율",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "gold",
+      "file": "gold.json",
+      "type": "timeseries",
+      "section": "원자재",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "wti",
+      "file": "wti.json",
+      "type": "timeseries",
+      "section": "원자재",
+      "ready": true,
+      "daily": true,
+      "dailyOrder": 10
+    },
+    {
+      "id": "copper",
+      "file": "copper.json",
+      "type": "timeseries",
+      "section": "원자재",
+      "ready": true,
+      "daily": false
+    },
+    {
+      "id": "megaprojects_reconstructed",
+      "file": "megaprojects_reconstructed.json",
+      "type": "timeseries",
+      "section": "테마",
+      "ready": true
+    },
+    {
+      "id": "peer_valuation_link",
+      "type": "link",
+      "section": "밸류에이션",
+      "title": "피어 밸류에이션 모니터",
+      "subtitle": "190종목·48카테고리 일별 스냅샷·변동률·시계열",
+      "url": "http://localhost:8770/peer-valuation-monitor/",
+      "live": true,
+      "preview": "embed",
+      "source": "GitHub Pages",
+      "note": "로컬 서버(serve.sh) 필요"
+    },
+    {
+      "id": "active_etf_link",
+      "type": "link",
+      "section": "자금흐름",
+      "title": "액티브 ETF 트래커",
+      "subtitle": "액티브 ETF 자금/구성 모니터",
+      "url": "http://localhost:8770/active-etf-tracker/web/",
+      "live": true,
+      "source": "로컬 전용",
+      "note": "로컬 경로 ~/workspace/dev/active-etf-tracker | serve.sh 필요"
+    },
+    {
+      "id": "money_flow_link",
+      "type": "link",
+      "section": "자금흐름",
+      "title": "머니 플로우",
+      "subtitle": "자금흐름 대시보드",
+      "url": "http://localhost:8770/money-flow/money-flow-2026.html",
+      "live": true,
+      "source": "로컬 전용",
+      "note": "로컬 경로 ~/workspace/dev/money-flow | serve.sh 필요"
+    },
+    {
+      "id": "structural_shortage_link",
+      "type": "link",
+      "section": "테마",
+      "title": "구조적 쇼티지 대시보드",
+      "subtitle": "구조적 공급부족 테마 모니터",
+      "url": "http://localhost:8770/structural-shortage-dashboard/",
+      "live": true,
+      "source": "Netlify",
+      "note": "serve.sh 필요"
+    },
+    {
+      "id": "financial_products_link",
+      "type": "link",
+      "section": "상품/포트폴리오",
+      "title": "금융상품 / 포트폴리오 제안",
+      "subtitle": "2026 자산배분 전략·상품 제안",
+      "url": "http://localhost:8770/financial-products/",
+      "live": true,
+      "source": "GitHub Pages",
+      "note": "serve.sh 필요"
+    },
+    {
+      "id": "brazil_bond_link",
+      "type": "link",
+      "section": "상품/포트폴리오",
+      "title": "브라질 국채 교체매매",
+      "subtitle": "27Y/29Y → 37Y 교체매매 전략",
+      "url": "http://localhost:8770/financial-products/brazil-bond/",
+      "live": true,
+      "source": "GitHub Pages",
+      "note": "serve.sh 필요"
+    },
+    {
+      "id": "valley_buffett_link",
+      "type": "link",
+      "section": "밸류에이션",
+      "title": "버핏지수·자산군 밸류에이션",
+      "subtitle": "시총/GDP 버핏지수 + 자산군별 밸류에이션 대시보드",
+      "url": "https://www.valley.town/economy/asset-valuation/stock/buffett",
+      "live": true,
+      "source": "Valley AI (로그인 필요)"
+    },
+    {
+      "id": "valley_cycle_heatmap_link",
+      "type": "link",
+      "section": "매크로",
+      "title": "사이클 히트맵",
+      "subtitle": "경기 사이클 국면 히트맵",
+      "url": "https://www.valley.town/economy/business-cycles/heatmap",
+      "live": true,
+      "source": "Valley AI (로그인 필요)"
+    },
+    {
+      "id": "valley_econ_calendar_link",
+      "type": "link",
+      "section": "매크로",
+      "title": "경제지표 캘린더",
+      "subtitle": "경제지표·실적 발표 실시간 캘린더",
+      "url": "https://www.valley.town/economy/economic-calendar",
+      "live": true,
+      "source": "Valley AI (로그인 필요)"
+    },
+    {
+      "id": "valley_indicators_link",
+      "type": "link",
+      "section": "매크로",
+      "title": "경제지표 열람",
+      "subtitle": "FRED류 경제지표 커스텀 차트 시트",
+      "url": "https://www.valley.town/economy/indicators",
+      "live": true,
+      "source": "Valley AI (로그인 필요)"
+    },
+    {
+      "id": "valley_guru_13f_link",
+      "type": "link",
+      "section": "자금흐름",
+      "title": "거장 매매 (13F)",
+      "subtitle": "거장 포트폴리오·13F 매매 내역 추적",
+      "url": "https://www.valley.town/guru/transactions",
+      "live": true,
+      "source": "Valley AI (로그인 필요)"
+    },
+    {
+      "id": "valley_wsaj_column_link",
+      "type": "link",
+      "section": "주식시장",
+      "title": "월가아재 시황칼럼",
+      "subtitle": "출근길·퇴근길 시황 + 월가소식 기관뷰 요약",
+      "url": "https://www.valley.town/premium/wsaj-column",
+      "live": true,
+      "source": "Valley AI (로그인 필요)"
+    }
+  ]
+}

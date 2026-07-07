@@ -1,0 +1,137 @@
+{
+  "updated": "2026-07-07T06:30:03+09:00",
+  "cards": [
+    {
+      "id": "us10y",
+      "label": "미국채 10Y",
+      "value": 4.479,
+      "unit": "%",
+      "d1": -0.13,
+      "state": "good",
+      "badge": "여유",
+      "caption": "CTA 손절선 4.85%까지 +0.37%p",
+      "link": "#card-ls_rate_peak"
+    },
+    {
+      "id": "rate_scenario",
+      "label": "금리 시나리오 A/B",
+      "value": 4.479,
+      "unit": "%",
+      "d1": -0.13,
+      "state": "alert",
+      "badge": "A 매파 재프라이싱",
+      "caption": "4.40 상향 안착(종가 3영업일 연속) · A선 4.40까지 -8bp·B선 4.30까지 -18bp → A 확정 시 분할 진입·전제 깨지면 기계적 손절, B 확정 시 되돌림 포지션 유지",
+      "link": "#card-ls_rate_peak"
+    },
+    {
+      "id": "spx_band",
+      "label": "S&P500 / 21x 밴드",
+      "value": 1.49,
+      "unit": "x",
+      "d1": 0.72,
+      "state": "warn",
+      "badge": "드림장",
+      "caption": "지수 7,537 = 21x 밴드 상단(5,072)의 1.49배 — 1.0 초과=드림장",
+      "link": "#card-sp500"
+    },
+    {
+      "id": "vix",
+      "label": "VIX",
+      "value": 15.57,
+      "unit": "",
+      "d1": -3.59,
+      "state": "neutral",
+      "badge": "보통",
+      "caption": "15~30 정상 범위 (15 미만이 공포역설 경계)",
+      "link": "#card-vix"
+    },
+    {
+      "id": "move",
+      "label": "MOVE",
+      "value": 65.8,
+      "unit": "",
+      "d1": 0.56,
+      "state": "good",
+      "badge": "정온",
+      "caption": "낮음 = 채권시장 정온 (금리 변동성)",
+      "link": "#card-move_index"
+    },
+    {
+      "id": "dxy",
+      "label": "달러 인덱스",
+      "value": 100.87,
+      "unit": "",
+      "d1": 0.01,
+      "state": "neutral",
+      "badge": "",
+      "caption": "DXY — 달러 강세=신흥국·원자재 역풍",
+      "link": "#card-dxy"
+    },
+    {
+      "id": "usdkrw",
+      "label": "USD/KRW",
+      "value": 1528.1,
+      "unit": "원",
+      "d1": -0.91,
+      "state": "neutral",
+      "badge": "",
+      "caption": "원/달러 환율",
+      "link": "#card-usdkrw"
+    },
+    {
+      "id": "copper_gold",
+      "label": "구리/금 비율",
+      "value": 1.486,
+      "unit": "",
+      "d1": -0.02,
+      "state": "neutral",
+      "badge": "↑",
+      "caption": "3개월 ↑ +24.9% — 상승=성장·금리 상방 (건들락)",
+      "link": "#card-copper"
+    },
+    {
+      "id": "credit",
+      "label": "크레딧 HYG/LQD",
+      "value": 0.735,
+      "unit": "",
+      "d1": 0.18,
+      "state": "good",
+      "badge": "정온",
+      "caption": "3개월 → +0.8% — 하락=크레딧 스트레스",
+      "link": "#card-credit_proxy"
+    },
+    {
+      "id": "rotation",
+      "label": "로테이션 신호",
+      "value": 3,
+      "unit": "주",
+      "d1": null,
+      "state": "good",
+      "badge": "유지",
+      "caption": "외인 순매도 3주 연속(기준 4주) · 50일선 상회·거래량 보통 — 충족 0개 (1개=주의/2개+=끝)",
+      "link": "#card-kr_foreign_flow"
+    },
+    {
+      "id": "kr_fear_greed",
+      "label": "공포·탐욕",
+      "value": 20.4,
+      "unit": "pt",
+      "d1": -0.97,
+      "state": "warn",
+      "badge": "극공포",
+      "caption": "극공포(20) — 수급 가중 KOSPI 심리(외인35%·기관20%) · 극공포<25/극탐욕>75 · 매수 후보 점검 · VIX(미국 심리)와 상보",
+      "link": "#card-kr_fear_greed"
+    },
+    {
+      "id": "bubble",
+      "label": "버블 체크리스트",
+      "value": 0,
+      "unit": "/5",
+      "d1": null,
+      "state": "good",
+      "badge": "정점 근접도 0/5",
+      "caption": "🟡신용매수 🟢IPO 붐 🟢투기 강세 🟢긴축 전환 🟢공급과잉 — 🔴 2개 이상=정점 경보 (김성환 버블 템플릿)",
+      "link": "#card-margin_debt"
+    }
+  ]
+}
