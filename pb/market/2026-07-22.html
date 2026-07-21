@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>오늘의 시황 · 2026년 7월 22일 | 황인철 PB</title>
+<meta name="description" content="오늘의 미국 마감시황과 PB 코멘트" />
+<meta property="og:title" content="오늘의 시황 · 2026년 7월 22일" />
+<meta property="og:description" content="오늘의 미국 마감시황과 PB 코멘트" />
+<link rel="preconnect" href="https://cdn.jsdelivr.net" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+<style>
+  :root{
+    --bg:#08090b; --bg-2:#0c0e11; --surface:#13161b; --line:rgba(255,255,255,.09);--line-strong:rgba(255,255,255,.18);
+    --ink:#eef1f5; --ink-2:#a7afba; --ink-3:#6b7480; --gold:#2f6bff; --gold-soft:#6b93ff;
+    --up:#e5484d; --down:#3b9eff;
+    --mono:"SFMono-Regular",ui-monospace,Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);min-height:100vh;
+    font-family:"Pretendard Variable",Pretendard,-apple-system,system-ui,"Apple SD Gothic Neo",sans-serif;
+    letter-spacing:-.01em;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  a{color:inherit}
+  .bg{position:fixed;inset:0;z-index:0;
+    background:radial-gradient(620px 420px at 82% 4%,rgba(47,107,255,.16),transparent 70%),
+      radial-gradient(680px 500px at 3% 100%,rgba(107,147,255,.07),transparent 70%)}
+  .wrap{position:relative;z-index:1;width:100%;max-width:760px;margin:0 auto;padding:0 24px}
+  .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:600}
+  header{padding:64px 0 26px}
+  header h1{font-size:clamp(30px,6vw,46px);font-weight:800;letter-spacing:-.03em;margin:14px 0 8px;line-height:1.05}
+  header .date{font-family:var(--mono);font-size:13px;color:var(--ink-3);letter-spacing:.06em}
+  .divider{height:1px;background:var(--line);margin:0 0 34px}
+
+  .dash{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:34px}
+  @media(max-width:640px){.dash{grid-template-columns:repeat(2,1fr)}}
+  .cell{border:1px solid var(--line);border-radius:13px;background:var(--surface);padding:14px 15px;display:flex;flex-direction:column;gap:5px}
+  .cell .nm{font-size:12px;color:var(--ink-3);font-weight:600;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .cell .vl{font-family:var(--mono);font-size:17px;font-weight:600;color:var(--ink)}
+  .cell .ch{font-family:var(--mono);font-size:12px;font-weight:600}
+  .up{color:#e5484d} .down{color:#3b9eff} .flat{color:var(--ink-3)}
+
+  .view{border:1px solid rgba(107,147,255,.38);border-radius:16px;background:linear-gradient(180deg,rgba(47,107,255,.09),transparent);
+    padding:24px 26px;margin-bottom:34px;position:relative}
+  .view::before{content:"";position:absolute;top:0;left:0;width:3px;height:100%;background:linear-gradient(180deg,var(--gold),transparent);border-radius:3px 0 0 3px}
+  .view .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:12px}
+  .view p{font-size:16.5px;line-height:1.7;color:var(--ink);white-space:pre-wrap}
+
+  .mkt{border:1px solid var(--line);border-radius:16px;background:var(--surface);padding:26px 28px;margin-bottom:30px}
+  .mkt .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3);margin-bottom:16px}
+  .mkt p{font-size:15.5px;line-height:1.72;color:var(--ink-2);margin:0 0 12px}
+  .mkt h3.mkt-h{font-size:14px;color:var(--gold-soft);margin:20px 0 8px;font-weight:700}
+  .mkt ul{list-style:none;margin:4px 0 8px}
+  .mkt li{font-size:15px;color:var(--ink-2);padding:5px 0 5px 16px;position:relative;line-height:1.5}
+  .mkt li::before{content:"—";position:absolute;left:0;color:var(--gold)}
+
+  .summary{border:1px solid var(--line-strong);border-radius:16px;background:var(--bg-2);padding:22px 24px;margin-bottom:14px}
+  .summary .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:14px}
+  .summary p{font-size:16px;line-height:1.65;color:var(--ink);margin:0 0 10px}
+  .summary p:last-child{margin-bottom:0}
+  .full{margin-bottom:34px}
+  .full p{font-size:15px;line-height:1.75;color:var(--ink-2);margin:0 0 16px}
+  .full h3.fh{font-size:13px;font-family:var(--mono);letter-spacing:.08em;color:var(--gold-soft);margin:0 0 7px;font-weight:700}
+  .issues h3.fh{font-family:"Pretendard Variable",Pretendard,sans-serif;font-size:17px;letter-spacing:-.02em;
+    color:var(--ink);margin:26px 0 10px;padding-left:12px;border-left:3px solid var(--gold)}
+  .issues h3.fh:first-child{margin-top:0}
+  .issues p b{color:var(--ink);font-weight:700}
+  .issues ul{list-style:none;margin:0 0 16px}
+  .issues li{font-size:14.5px;color:var(--ink-2);padding:4px 0 4px 16px;position:relative;line-height:1.6}
+  .issues li::before{content:"—";position:absolute;left:0;color:var(--gold)}
+
+  .kc{border:1px solid var(--line);border-radius:14px;background:var(--surface);padding:16px 16px 12px}
+  .kc-cap{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-top:8px;font-size:12.5px;color:var(--ink-3)}
+  .kc-cap b{color:var(--ink)}
+  .kc-trend{font-family:var(--mono);font-size:12px;font-weight:700}
+  .kc-events{display:flex;gap:12px;margin-top:12px;flex-wrap:wrap}
+  .kc-ev{flex:1;min-width:140px;padding:10px 12px;border-radius:8px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08)}
+  .kc-ev .ev-time{font-size:11px;color:var(--ink-2);margin-bottom:2px}
+  .kc-ev .ev-label{font-weight:700;font-size:13px;margin-bottom:4px}
+  .kc-ev .ev-detail{font-size:12px;color:var(--ink-2);line-height:1.5}
+  .pt-head{font-size:15px;color:var(--ink);line-height:1.5;margin:0 0 14px;font-weight:600}
+  .pts{display:flex;flex-direction:column;gap:10px}
+  .pt{display:flex;gap:12px;align-items:flex-start;border:1px solid var(--line);border-radius:12px;background:var(--surface);padding:14px 16px}
+  .pt .pn{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--gold);flex-shrink:0;width:18px}
+  .pt p{font-size:14.5px;color:var(--ink-2);line-height:1.55;margin:0}
+
+  .ctx{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:34px}
+  .chip{font-family:var(--mono);font-size:12px;color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:8px 14px;background:var(--bg-2)}
+
+  .sec-lbl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3);margin:0 0 14px}
+  .sec{margin-bottom:34px}
+  .treemap{display:flex;flex-wrap:wrap;gap:5px;align-content:stretch}
+  .tmtile{border-radius:8px;padding:11px 12px;display:flex;flex-direction:column;justify-content:center;gap:3px;
+    border:1px solid rgba(255,255,255,.06);min-height:66px;overflow:hidden}
+  .tmtile.tmbig{min-height:104px}
+  .tmtile .tn{font-size:12px;font-weight:700;color:var(--ink);line-height:1.15;word-break:keep-all}
+  .tmtile.tmbig .tn{font-size:15px}
+  .tmtile .tp{font-family:var(--mono);font-size:13px;font-weight:700}
+  .tmtile.tmbig .tp{font-size:16px}
+
+  .usmap{position:relative;width:100%;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--bg-2)}
+  .usbox{position:absolute;border:1.5px solid var(--bg)}
+  .usstk{position:absolute;border:1px solid rgba(8,9,11,.55);display:flex;flex-direction:column;
+    justify-content:center;align-items:center;overflow:hidden;text-align:center}
+  .usstk .usn{font-size:14px;font-weight:800;color:#fff;line-height:1;text-shadow:0 1px 2px rgba(0,0,0,.6)}
+  .usstk .usn.sm{font-size:11px;font-weight:700}
+  .usstk .usp{font-family:var(--mono);font-size:12.5px;font-weight:700;color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.6);margin-top:2px}
+  .ushead{position:absolute;top:0;left:0;display:flex;align-items:center;gap:6px;padding:2px 7px;
+    background:rgba(8,9,11,.72);border-radius:0 0 7px 0;pointer-events:none}
+  .ushead .ush-n{font-size:12.5px;font-weight:800;color:var(--ink);letter-spacing:-.01em}
+  .ushead .usret{font-family:var(--mono);font-size:12px;font-weight:700}
+
+  .bond{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:12px}
+  .brow{border:1px solid var(--line);border-radius:11px;background:var(--surface);padding:12px;text-align:center}
+  .brow .bm{font-family:var(--mono);font-size:12px;color:var(--ink-3)}
+  .brow .by{font-family:var(--mono);font-size:17px;font-weight:700;color:var(--ink);margin:3px 0}
+  .brow .bd{font-family:var(--mono);font-size:11px}
+  .bsig{font-size:13px;color:var(--ink-2);background:var(--bg-2);border:1px solid var(--line);border-radius:10px;padding:11px 14px;margin-top:10px}
+  .bsig b{color:var(--gold-soft)}
+  .qtable{width:100%;border-collapse:collapse;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .qtable th{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);text-align:right;padding:9px 14px;background:var(--bg-2);font-weight:600}
+  .qtable th:first-child{text-align:left}
+  .qtable td{font-family:var(--mono);font-size:14px;padding:10px 14px;text-align:right;border-top:1px solid var(--line);color:var(--ink)}
+  .qtable td:first-child{text-align:left;font-weight:600;color:var(--ink-2)}
+  .qtable .ty{font-weight:700}
+  .qtable .td .up{color:var(--up)} .qtable .td .down{color:var(--down)} .qtable .td .flat{color:var(--ink-3)}
+  .qtable .en{text-align:left;font-family:"Pretendard Variable",Pretendard,sans-serif}
+  .qtable .en b{color:var(--ink);font-weight:700;font-size:13.5px}
+  .qtable .en .et{font-family:var(--mono);font-size:10.5px;color:var(--ink-3);margin-left:7px}
+  .qtable .ew{white-space:nowrap;font-family:"Pretendard Variable",Pretendard,sans-serif;font-size:13px;color:var(--ink-2)}
+  .bond-table th,.bond-table td{padding:6px 8px;font-size:13px}
+  .bond-table .td{white-space:nowrap}
+  @media(max-width:640px){.bond-table th,.bond-table td{padding:5px 5px;font-size:11.5px}}
+  .qgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+  .qgrid .qtable th,.qgrid .qtable td{padding:8px 9px}
+  .qgrid .qtable td{font-size:13px}
+  .qgrid .qtable td:first-child,.qgrid .qtable th:first-child{white-space:nowrap}
+  @media(max-width:640px){.qgrid{grid-template-columns:1fr}
+    .qgrid .qtable th,.qgrid .qtable td{padding:10px 14px}.qgrid .qtable td{font-size:14px}}
+
+  .news{list-style:none}
+  .news li{border-bottom:1px solid var(--line);padding:13px 0}
+  .news li:last-child{border-bottom:none}
+  .news a{display:flex;gap:10px;align-items:baseline;font-size:14.5px;color:var(--ink-2);line-height:1.5;transition:.15s}
+  .news a:hover{color:var(--ink)}
+  .news .src{font-family:var(--mono);font-size:10.5px;color:var(--gold);flex-shrink:0;letter-spacing:.04em}
+
+  .disc{font-size:12.5px;color:var(--ink-3);line-height:1.6;border-top:1px solid var(--line);padding-top:22px;margin-top:10px}
+  footer{padding:30px 0 60px;text-align:center;font-size:13px;color:var(--ink-3)}
+  footer a.home{color:var(--gold);text-decoration:none}
+  .reveal{opacity:0;transform:translateY(16px);animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes rise{to{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<div class="bg"></div>
+<div class="wrap">
+  <header class="reveal">
+    <span class="eyebrow">Market View · 황인철 PB</span>
+    <h1>오늘의 시황</h1>
+    <span class="date">2026년 7월 22일 · 신한투자증권 서울금융센터</span>
+  </header>
+  <div class="divider"></div>
+  
+  <div class="sec reveal"><div class="sec-lbl">오늘의 키 차트 · S&amp;P 500</div><div class="kc"><svg viewBox="0 0 700 200" preserveAspectRatio="none" style="width:100%;height:170px;display:block"><polyline fill="none" stroke="var(--ink-3)" stroke-width="1.4" stroke-dasharray="4 3" points="8.0,192.0 10.7,191.7 13.5,191.4 16.2,191.1 18.9,190.7 21.6,190.4 24.4,190.0 27.1,189.7 29.8,189.4 32.5,189.1 35.3,188.8 38.0,188.6 40.7,188.3 43.4,188.1 46.2,187.8 48.9,187.5 51.6,187.3 54.3,186.9 57.1,186.6 59.8,186.2 62.5,185.9 65.2,185.6 68.0,185.3 70.7,185.0 73.4,184.6 76.1,184.2 78.9,183.8 81.6,183.5 84.3,183.2 87.0,182.9 89.8,182.7 92.5,182.4 95.2,182.2 97.9,181.9 100.7,181.6 103.4,181.3 106.1,181.0 108.8,180.6 111.6,180.3 114.3,180.0 117.0,179.6 119.7,179.3 122.5,179.0 125.2,178.6 127.9,178.3 130.6,178.0 133.4,177.6 136.1,177.4 138.8,177.1 141.5,176.8 144.3,176.5 147.0,176.1 149.7,175.8 152.4,175.4 155.2,175.1 157.9,174.7 160.6,174.4 163.3,173.9 166.1,173.5 168.8,173.1 171.5,172.8 174.2,172.4 177.0,172.1 179.7,171.8 182.4,171.4 185.1,170.9 187.9,170.4 190.6,170.0 193.3,169.6 196.0,169.2 198.8,168.7 201.5,168.1 204.2,167.5 206.9,167.0 209.7,166.6 212.4,166.1 215.1,165.7 217.8,165.3 220.6,164.9 223.3,164.6 226.0,164.2 228.7,163.8 231.5,163.4 234.2,163.0 236.9,162.6 239.6,162.3 242.4,162.0 245.1,161.7 247.8,161.4 250.5,161.1 253.3,160.8 256.0,160.4 258.7,160.0 261.4,159.6 264.2,159.2 266.9,158.8 269.6,158.5 272.3,158.1 275.1,157.7 277.8,157.2 280.5,156.8 283.2,156.3 286.0,155.8 288.7,155.3 291.4,154.8 294.1,154.3 296.9,153.8 299.6,153.3 302.3,152.8 305.0,152.2 307.8,151.5 310.5,150.8 313.2,150.1 315.9,149.3 318.7,148.7 321.4,148.0 324.1,147.4 326.8,146.7 329.6,146.1 332.3,145.4 335.0,144.8 337.7,144.2 340.5,143.5 343.2,142.8 345.9,142.1 348.6,141.4 351.4,140.7 354.1,140.1 356.8,139.3 359.5,138.4 362.3,137.4 365.0,136.3 367.7,135.5 370.4,134.6 373.2,133.8 375.9,133.0 378.6,132.1 381.3,131.3 384.1,130.4 386.8,129.5 389.5,128.7 392.2,127.8 395.0,127.1 397.7,126.3 400.4,125.6 403.1,124.9 405.9,124.3 408.6,123.6 411.3,123.0 414.0,122.3 416.8,121.7 419.5,121.0 422.2,120.3 424.9,119.7 427.7,119.1 430.4,118.6 433.1,118.1 435.8,117.6 438.6,117.1 441.3,116.7 444.0,116.3 446.7,115.8 449.5,115.3 452.2,114.8 454.9,114.4 457.6,114.0 460.4,113.6 463.1,113.2 465.8,112.8 468.5,112.6 471.3,112.2 474.0,111.9 476.7,111.6 479.4,111.4 482.2,111.2 484.9,111.0 487.6,110.8 490.3,110.4 493.1,110.1 495.8,109.8 498.5,109.5 501.2,109.0 504.0,108.6 506.7,108.2 509.4,107.8 512.1,107.4 514.9,106.9 517.6,106.5 520.3,106.0 523.0,105.5 525.8,105.1 528.5,104.6 531.2,104.2 533.9,103.7 536.7,103.2 539.4,102.8 542.1,102.3 544.8,101.8 547.6,101.3 550.3,100.8 553.0,100.3 555.7,99.7 558.5,99.2 561.2,98.6 563.9,98.1 566.6,97.5 569.4,97.0 572.1,96.4 574.8,95.8 577.5,95.3 580.3,94.7 583.0,94.1 585.7,93.5 588.4,92.9 591.2,92.3 593.9,91.7 596.6,91.0 599.3,90.4 602.1,89.8 604.8,89.2 607.5,88.6 610.2,88.0 613.0,87.5 615.7,87.0 618.4,86.5 621.1,86.0 623.9,85.5 626.6,85.0 629.3,84.5 632.0,83.9 634.8,83.4 637.5,82.8 640.2,82.3 642.9,81.8 645.7,81.4 648.4,80.9 651.1,80.5 653.8,80.0 656.6,79.5 659.3,79.0 662.0,78.6 664.7,78.1 667.5,77.6 670.2,77.2 672.9,76.7 675.6,76.2 678.4,75.8 681.1,75.3 683.8,74.8 686.5,74.3 689.3,73.9 692.0,73.5"/><polyline fill="none" stroke="var(--gold)" stroke-width="2" points="8.0,147.0 10.7,146.0 13.5,145.6 16.2,140.4 18.9,139.9 21.6,137.2 24.4,137.1 27.1,139.1 29.8,140.0 32.5,142.4 35.3,153.2 38.0,143.4 40.7,146.7 43.4,141.8 46.2,142.4 48.9,137.1 51.6,138.8 54.3,131.2 57.1,129.0 59.8,128.8 62.5,130.8 65.2,130.8 68.0,134.8 70.7,136.5 73.4,139.2 76.1,128.9 78.9,131.9 81.6,129.1 84.3,127.4 87.0,125.2 89.8,129.7 92.5,134.4 95.2,130.9 97.9,125.2 100.7,127.4 103.4,126.0 106.1,124.1 108.8,122.1 111.6,116.2 114.3,116.5 117.0,113.2 119.7,114.1 122.5,114.8 125.2,111.5 127.9,108.1 130.6,104.9 133.4,108.8 136.1,110.8 138.8,114.4 141.5,110.2 144.3,108.4 147.0,105.5 149.7,103.1 152.4,102.7 155.2,102.6 157.9,100.0 160.6,102.7 163.3,98.6 166.1,100.6 168.8,119.9 171.5,109.1 174.2,110.2 177.0,107.3 179.7,111.8 182.4,108.1 185.1,100.6 187.9,100.5 190.6,104.3 193.3,100.2 196.0,94.6 198.8,85.7 201.5,84.1 204.2,84.1 206.9,91.3 209.7,89.4 212.4,88.2 215.1,96.7 217.8,94.1 220.6,102.1 223.3,101.2 226.0,90.3 228.7,88.8 231.5,88.3 234.2,100.3 236.9,100.7 239.6,107.2 242.4,113.0 245.1,110.4 247.8,121.3 250.5,114.5 253.3,103.7 256.0,97.3 258.7,92.4 261.4,88.5 264.2,92.4 266.9,90.6 269.6,88.4 272.3,87.7 275.1,86.2 277.8,88.8 280.5,89.4 283.2,84.5 286.0,83.0 288.7,90.8 291.4,92.0 294.1,93.7 296.9,102.0 299.6,96.4 302.3,90.0 305.0,85.4 307.8,82.1 310.5,79.7 313.2,79.9 315.9,82.5 318.7,83.5 321.4,88.9 324.1,87.5 326.8,82.9 329.6,78.4 332.3,80.9 335.0,80.8 337.7,76.1 340.5,74.9 343.2,76.4 345.9,80.3 348.6,78.4 351.4,78.9 354.1,94.0 356.8,85.7 359.5,81.7 362.3,81.5 365.0,77.8 367.7,74.8 370.4,74.9 373.2,75.8 375.9,79.0 378.6,75.0 381.3,81.2 384.1,84.9 386.8,93.9 389.5,79.7 392.2,76.3 395.0,78.7 397.7,78.7 400.4,90.2 403.1,89.9 405.9,89.1 408.6,85.1 411.3,87.1 414.0,82.1 416.8,89.7 419.5,84.2 422.2,78.2 424.9,82.2 427.7,85.4 430.4,85.1 433.1,91.9 435.8,86.3 438.6,90.4 441.3,100.0 444.0,94.1 446.7,95.7 449.5,96.3 452.2,107.2 454.9,111.5 457.6,104.3 460.4,102.6 463.1,112.2 465.8,114.2 468.5,124.8 471.3,116.9 474.0,119.5 476.7,115.7 479.4,127.9 482.2,139.3 484.9,142.0 487.6,122.4 490.3,117.5 493.1,116.7 495.8,113.6 498.5,113.1 501.2,95.5 504.0,91.1 506.7,91.9 509.4,84.6 512.1,76.0 514.9,70.1 517.6,68.2 520.3,59.2 523.0,61.0 525.8,65.8 528.5,57.9 531.2,61.1 533.9,55.1 536.7,54.1 539.4,57.8 542.1,58.1 544.8,50.4 547.6,48.2 550.3,51.3 553.0,45.1 555.7,33.9 558.5,36.9 561.2,30.3 563.9,28.8 566.6,30.1 569.4,25.5 572.1,19.5 574.8,29.3 577.5,29.9 580.3,35.1 583.0,26.7 585.7,25.4 588.4,22.4 591.2,17.6 593.9,17.5 596.6,12.9 599.3,11.1 602.1,9.0 604.8,8.0 607.5,13.9 610.2,10.7 613.0,31.9 615.7,29.6 618.4,31.6 621.1,44.3 623.9,30.8 626.6,26.9 629.3,13.9 632.0,18.4 634.8,28.1 637.5,19.6 640.2,22.5 642.9,33.9 645.7,34.6 648.4,34.7 651.1,35.1 653.8,25.9 656.6,19.7 659.3,21.4 662.0,21.4 664.7,15.7 667.5,19.2 670.2,21.4 672.9,15.0 675.6,11.6 678.4,18.0 681.1,15.0 683.8,12.0 686.5,16.0 689.3,24.1 692.0,25.6"/></svg><div class="kc-cap"><span>S&amp;P 500 <b>7,443</b> · 파란선=지수, 점선=200일 이동평균</span><span class="kc-trend up">200일선 위 (+6.5%)</span></div></div></div>
+  <div class="sec reveal"><div class="sec-lbl">오늘 일어난 일 · 핵심 3</div><p class="pt-head">2026년 7월 22일 미국 증시: 반도체 &#x27;컴백&#x27; 랠리에 3대 지수 동반 상승</p><div class="pts">
+    <div class="pt"><span class="pn">1</span><p>마이크론(+12%)·SK하이닉스 ADR(+13.75%)·샌디스크(+14%) 등 메모리 반도체가 급등하며 지수 상승을 이끌었습니다.</p></div>
+    <div class="pt"><span class="pn">2</span><p>실적 발표 기업의 약 90%가 예상치를 웃돌았고, 한국 반도체 수출도 181% 급증하며 업황 호조가 재확인됐습니다.</p></div>
+    <div class="pt"><span class="pn">3</span><p>중동 긴장과 유가 상승(WTI +2.01%)에도 VIX가 8.58% 내린 17.05를 기록하며 투자 심리가 빠르게 안정됐습니다.</p></div>
+  </div></div>
+  
+  <div class="sec reveal"><div class="sec-lbl">미국 업종별 수익률 · 전일 (크기=시총 비중)</div><div class="treemap">
+    <div class="tmtile tmbig" style="flex-grow:32;flex-basis:224px;background:rgba(229,72,77,0.62)"><span class="tn">기술</span><span class="tp up">+2.9%</span></div>
+    <div class="tmtile tmbig" style="flex-grow:13;flex-basis:91px;background:rgba(229,72,77,0.14)"><span class="tn">금융</span><span class="tp up">+0.1%</span></div>
+    <div class="tmtile tmbig" style="flex-grow:11;flex-basis:77px;background:rgba(229,72,77,0.23)"><span class="tn">헬스케어</span><span class="tp up">+0.6%</span></div>
+    <div class="tmtile tmbig" style="flex-grow:10;flex-basis:70px;background:rgba(229,72,77,0.16)"><span class="tn">경기소비</span><span class="tp up">+0.2%</span></div>
+    <div class="tmtile tmbig" style="flex-grow:9;flex-basis:63px;background:rgba(59,158,255,0.24)"><span class="tn">커뮤니케이션</span><span class="tp down">-0.7%</span></div>
+    <div class="tmtile tmbig" style="flex-grow:8;flex-basis:56px;background:rgba(229,72,77,0.17)"><span class="tn">산업재</span><span class="tp up">+0.3%</span></div>
+    <div class="tmtile" style="flex-grow:6;flex-basis:42px;background:rgba(59,158,255,0.28)"><span class="tn">필수소비</span><span class="tp down">-0.9%</span></div>
+    <div class="tmtile" style="flex-grow:4;flex-basis:28px;background:rgba(229,72,77,0.29)"><span class="tn">에너지</span><span class="tp up">+1.0%</span></div>
+    <div class="tmtile" style="flex-grow:2.5;flex-basis:17.5px;background:rgba(59,158,255,0.13)"><span class="tn">유틸리티</span><span class="tp down">-0.0%</span></div>
+    <div class="tmtile" style="flex-grow:2.5;flex-basis:17.5px;background:rgba(229,72,77,0.14)"><span class="tn">소재</span><span class="tp up">+0.1%</span></div>
+    <div class="tmtile" style="flex-grow:2;flex-basis:14px;background:rgba(59,158,255,0.13)"><span class="tn">부동산</span><span class="tp down">-0.1%</span></div>
+  </div></div>
+  
+  <div class="sec reveal"><div class="sec-lbl">미국 국채 금리</div><table class="qtable bond-table"><thead><tr><th>만기</th><th>금리</th><th>Δ1일</th><th>Δ1주</th><th>Δ1개월</th><th>Δ1년</th></tr></thead><tbody>
+    <tr><td>3M</td><td class="ty">3.73%</td><td class="td"><span class="up">+3</span></td><td class="td"><span class="up">+3</span></td><td class="td"><span class="up">+5</span></td><td class="td"><span class="down">-49</span></td></tr>
+    <tr><td>5Y</td><td class="ty">4.37%</td><td class="td"><span class="up">+4</span></td><td class="td"><span class="up">+5</span></td><td class="td"><span class="up">+8</span></td><td class="td"><span class="up">+46</span></td></tr>
+    <tr><td>10Y</td><td class="ty">4.63%</td><td class="td"><span class="up">+3</span></td><td class="td"><span class="up">+4</span></td><td class="td"><span class="up">+12</span></td><td class="td"><span class="up">+26</span></td></tr>
+    <tr><td>30Y</td><td class="ty">5.13%</td><td class="td"><span class="up">+1</span></td><td class="td"><span class="up">+4</span></td><td class="td"><span class="up">+18</span></td><td class="td"><span class="up">+19</span></td></tr>
+  </tbody></table><div class="bsig">10년-3개월 스프레드 <b>+90bp</b> · 정상 (장기&gt;단기)</div></div>
+  
+  <div class="sec full reveal"><div class="sec-lbl">상세 시황 · 전문</div><h3 class="fh">시장 총평</h3><p>나스닥(+1.29%)과 러셀2000(+1.53%)을 중심으로 3대 지수가 일제히 올랐습니다. 최근 급락했던 반도체주가 강하게 반등하며 지수를 끌어올렸고, 어닝 시즌에서 발표 기업 약 90%가 예상을 웃도는 실적을 내놓으며 위험 선호가 되살아났습니다. 다만 미국-이란 10일 휴전 제안 등 협상 기대와 홍해 봉쇄 우려·유가 상승이 엇갈리면서, 테크·에너지를 제외한 업종의 상승폭은 제한적이었습니다.</p>
+    <h3 class="fh">주요 종목</h3><p>헤지펀드의 숏커버링과 낙폭 과대 인식이 겹치며 마이크론(+12%), SK하이닉스 ADR(+13.75%), 샌디스크(+14%), 웨스턴디지털(+12%), AMD(+7%), 인텔(+9%)이 급등했습니다. TSMC는 2027년 첨단 제품 가격 10% 인상 보도에 강세를 보였고, 네비우스는 엔비디아의 지분 공개 소식에 급등했습니다. 대형주 중에서는 엔비디아·애플·테슬라가 오른 반면 마이크로소프트·아마존·알파벳·메타는 부진했으며, 3M과 GM은 예상을 웃돈 실적에 상승했습니다.</p>
+    <h3 class="fh">투자 심리</h3><p>실적상 악재가 없는데도 뉴스를 부정적으로 해석하며 밀렸던 흐름이, 낙폭 과대 인식으로 반전되면서 시장이 다시 저점 매수에 반응하기 시작한 점이 긍정적입니다. UBS는 S&amp;P500 목표치를 7,500에서 8,100으로 올렸고, JP모건(코스피 12,000p)·씨티(10,000p)도 낙관 전망을 유지했습니다. MSCI 한국지수가 +6.16%, 야간선물이 +4.38% 급등해 국내 증시의 강한 반등도 기대됩니다. 다만 여전히 삼성전자·SK하이닉스 쏠림에 기댄 장세여서 변동성은 불가피합니다.</p></div>
+  
+  <div class="disc">
+    본 자료는 시장 정보 제공을 목적으로 하며 특정 종목의 매매를 권유하는 것이 아닙니다.
+    투자의 최종 판단과 책임은 투자자 본인에게 있으며, 과거 성과가 미래 수익을 보장하지 않습니다.
+  </div>
+</div>
+<footer>
+  <a class="home" href="/pb/">← 황인철 · Private Banker</a>
+</footer>
+
+</body>
+</html>
