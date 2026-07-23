@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-24",
+  "date_kr": "2026년 7월 24일",
+  "generated_at": "2026-07-24T06:17:08.236467+09:00",
+  "sihwang_body": "📌 오늘 핵심: 유가 급등에 지수는 약세. 장 마감 후 알파벳은 클라우드 82% 성장의 서프라이즈를 내고도 인프라 투자 확대 우려에 시간외 5% 안팎 하락했습니다.\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① WTI가 86.48달러(+2.54%)까지 오르며 인플레·금리 부담이 다시 부각됐고, 미국 증시는 전반적으로 약세였습니다.  \n② 알파벳(GOOGL, -1.46%)은 매출 1,198억달러(+24%)·클라우드 +82%로 예상을 웃돌았지만, 올해 설비투자 가이던스를 150억달러 증액(1,950억~2,050억달러)하면서 시간외 5% 안팎 하락 — 실적이 아니라 투자비 우려가 주가를 눌렀습니다. 테슬라(TSLA, -1.30%)는 이익 미스.  \n③ 슈퍼마이크로(SMCI, +19.84%)는 600억달러 주문·마진 개선 기대에 급등해, AI 인프라 수요는 유효하되 종목별 선별이 더 중요해졌습니다.\n\n📊 주요 지수\n\n다우 52,218.58 (-0.01%)\n\n나스닥 25,690.90 (-0.57%)\n\nS&P500 7,498.96 (-0.14%)\n\nMSCI 한국 ETF(EWY) 170.43 (-1.43%)\n\n달러인덱스 101.13 (-0.04%)\n\nWTI 86.48달러 (+2.54%)\n\n미국 10년물 금리 4.66%\n\nVIX 16.64 (-2.40%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +9.5%, Health Care +6.2%, Financials +4.4% / 하위: Materials -1.6%, Industrials -1.6%, Technology -6.2%",
+  "valuation_line": "S&P500 Fwd P/E 41.0배 · 美10년 3.75% · VIX 16.6",
+  "full_narrative": "시장 총평: 후티 반군의 사우디 유조선 공격과 트럼프의 대규모 군사 대응 시사로 중동 긴장이 고조되며 WTI가 90달러를 넘어섰습니다. 유가발 인플레이션 우려는 국채 금리를 자극해 10년물이 4.7%까지 올랐습니다. 유가와 금리가 동반 급등하자 9월 금리 인상 확률이 80% 이상으로 치솟았고, VIX도 12% 넘게 뛰며 투자심리가 빠르게 위축됐습니다. 11개 업종 중 산업재·헬스케어 등 4개 업종만 상승해 방어적 흐름이 뚜렷했습니다.\n\n주요 종목: 알파벳과 테슬라는 설비투자 확대 부담에 잉여현금흐름 마이너스 전환 우려가 겹치며 급락했습니다. 특히 알파벳은 상장 후 처음으로 잉여현금흐름 마이너스 전환이 예고됐습니다. 반면 알파벳이 올해 설비투자를 1,850억 달러에서 2,000억 달러로 상향하면서 메모리 수요 기대가 커졌고, 이에 마이크론과 SK하이닉스 ADR은 강세를 보였습니다. 슈퍼마이크로는 대규모 수주잔고 공개에 19.8% 급등하며 델(+9%)까지 끌어올렸습니다. 장 마감 후 발표된 인텔 실적은 매출·이익 모두 예상을 크게 웃돌아 시간외에서 10% 급등했습니다.\n\n투자 심리: 유가와 금리라는 매크로 변수가 동시에 악화되며 위험 회피 심리가 강해졌습니다. 다만 AI 수요 자체가 훼손됐다는 뚜렷한 증거는 아직 없어, 조정을 매수 기회로 보는 시각도 공존합니다. 국내 증시는 SK하이닉스의 월간 낙폭이 금융위기 이후 최대를 기록하고 코스닥이 저점 기준 -40%를 넘길 만큼 과도하게 빠졌습니다. 이후 블랙록·메모리 ETF 등 낙폭을 겨냥한 자금이 유입되며 기계적 매도 고비는 넘긴 것으로 평가됩니다. 다만 야간선물이 하락한 데다 중동 정세가 악화되면 관련 매물이 나올 수 있습니다. 큰 변동성 이후 안정적 반전보다는 반등 시도가 반복되는 흐름에 대비하며, 기존 주도주와 오래 눌린 코스닥 실적주를 주목할 필요가 있습니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 7월 24일 미국 증시: 유가·금리 급등에 빅테크 급락, 3대 지수 일제히 하락",
+    "points": [
+      "후티 반군의 홍해 유조선 공격으로 WTI가 6% 넘게 뛰며 배럴당 92달러를 돌파했고, 위험자산 투자심리가 얼어붙었습니다.",
+      "알파벳과 테슬라가 대규모 설비투자 부담과 잉여현금흐름 마이너스 전환 우려에 동반 급락하며 나스닥을 2% 넘게 끌어내렸습니다.",
+      "반면 알파벳의 설비투자 상향으로 마이크론·SK하이닉스 ADR 등 메모리주는 강세를 보였고, 장 마감 후 인텔은 실적 서프라이즈에 시간외 10% 급등했습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
+      "link": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Intel's stock jumps 11% as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+      "link": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
+      "link": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jobless claims fall to lowest level since mid-May",
+      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Jobless claims stay low in latest week",
+      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Consumer credit growth soars in December",
+      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    }
+  ],
+  "memval": {
+    "date": "2026-07-24",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 4.14,
+        "delta": 0.15,
+        "price": 270000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 4.25,
+        "delta": 0.19,
+        "price": 1919000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.44,
+        "delta": 0.2,
+        "price": 990.21,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
