@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-28",
+  "date_kr": "2026년 7월 28일",
+  "generated_at": "2026-07-28T06:17:06.680610+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 7월 27일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n오늘 가장 중요한 한 줄: 반도체 차익실현으로 나스닥은 밀렸지만, 한국 메모리 큰 그림은 삼성전자·SK그룹의 9,500억달러 AI/반도체 협력 뉴스로 유지됩니다.\n\n① 하이퍼스케일러 CAPEX 부담에 마이크론(MU, -6.99%), 샌디스크(SNDK, -10.79%), 엔비디아(NVDA, -0.92%), AMD(AMD, -3.29%) 등 반도체가 약했습니다.  \n② 반면 애플(AAPL, +3.53%), 알파벳(GOOGL, +0.65%), 마이크로소프트(MSFT, +0.03%)는 버티며 기술주 내부에서도 차별화가 나타났습니다.  \n③ 이번 주 FOMC와 빅테크 실적을 앞두고 변동성은 이어질 수 있지만, 메모리 중심 AI 인프라 뷰를 꺾는 내용보다는 단기 차익실현 성격으로 보는 게 유효해 보입니다.\n\n📊 주요 지수\n\n다우 51,947.25 (+0.46%)\n\n나스닥 24,975.82 (-0.64%)\n\nS&P500 7,411.98 (+0.05%)\n\nMSCI 한국 ETF(EWY) 162.96 (-6.27%)\n\n달러인덱스 101.47 (보합)\n\nWTI 89.31달러\n\n미국 10년물 금리 4.681%\n\nVIX 18.58 (-0.64%)",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +11.3%, Health Care +6.0%, Financials +4.8% / 하위: Consumer Staples -0.4%, Technology -3.9%, Consumer Disc. -4.9%",
+  "valuation_line": "S&P500 Fwd P/E 40.5배 · 美10년 3.81% · VIX 18.6",
+  "full_narrative": "**시장 총평:** 다우(+0.51%)와 러셀2000(+0.62%)은 올랐으나 나스닥(-0.18%)은 반도체 약세에 밀리며 지수 간 방향이 엇갈렸습니다. 미국이 협상 여건 마련을 위해 이란 공격을 중단하면서 WTI 유가가 82달러대로 7.5% 급락했고, FOMC를 앞둔 금리 부담도 한숨 돌렸습니다. 다만 9월 금리인상 확률이 85%까지 오른 만큼, 유가 안도감에도 시장은 지출·금리 이슈에 신중한 모습입니다.\n\n**주요 종목:** 장중 디인포메이션이 중국의 DUV(EUV 직전 세대) 자체 생산 추진을 보도하자 ASML을 비롯한 반도체주가 일제히 약세로 돌아섰습니다. 강세로 출발했던 SK하이닉스 ADR과 마이크론도 하락 반전했고, SK하이닉스 ADR은 공모가를 밑돌았습니다. 반면 애플은 상승하며 엔비디아를 제치고 시총 1위를 되찾았는데, AI 투자 부담이 덜하다는 점에서 방어주로 인식됐습니다. 엔비디아는 오픈AI에 2500억달러 금융 보증을 제공한다는 소식에도 중국 DUV 이슈가 겹치며 하락했습니다.\n\n**투자 심리:** S&P500 기업의 3분의 1이 실적을 발표하는 주간입니다. 하이퍼스케일러들의 자본 지출 확대(MS 2380억달러 상향 전망)가 잉여현금흐름을 손익분기점 수준까지 끌어내릴 것이란 우려가 심리를 짓눌렀습니다. 국내 증시는 삼성전자·SK하이닉스에 쏠린 물량 부담으로 야간선물이 -5.1%, MSCI 한국지수가 -1.08%를 기록해 초반 매물 압력이 예상됩니다. 다만 7월 코스피 월간 낙폭이 2005년 이후 2위권에 이를 만큼 과도한 데다, 실적 하향 없는 조정인 만큼 저가 매수와 반등 시도 가능성도 함께 주목됩니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "",
+    "points": [
+      "미국·이란 교전 중단 소식에 WTI 유가가 82달러까지 7.5% 급락하며 금리 불안이 진정됐습니다.",
+      "중국의 노광장비 DUV 직접 생산 보도에 SK하이닉스 ADR이 공모가를 밑도는 등 반도체주가 전반적으로 약세를 보였습니다.",
+      "애플이 엔비디아를 제치고 시가총액 1위를 재탈환하며, AI 지출 부담 속 방어주로 부각됐습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Apple ends day as world's most valuable company, passing Nvidia",
+      "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
+      "link": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jobless claims fall to lowest level since mid-May",
+      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Jobless claims stay low in latest week",
+      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Consumer credit growth soars in December",
+      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    }
+  ],
+  "memval": {
+    "date": "2026-07-28",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.89,
+        "delta": 0.07,
+        "price": 254000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 4.03,
+        "delta": 0.13,
+        "price": 1816000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 5.86,
+        "delta": -0.13,
+        "price": 900.2,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
