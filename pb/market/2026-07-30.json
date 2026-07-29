@@ -1,7 +1,7 @@
 {
   "date": "2026-07-30",
   "date_kr": "2026년 7월 30일",
-  "generated_at": "2026-07-30T08:01:33.863849+09:00",
+  "generated_at": "2026-07-30T07:48:08.868454+09:00",
   "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 7월 30일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 가장 중요한 한 줄은 유가·금리·VIX가 동반 상승하면서 위험자산 심리가 꺾였고, 미국 3대 지수가 모두 하락했다는 점입니다.  \n② 반도체는 중국 DUV 국산화·CXMT 증설 우려가 겹치며 필라델피아반도체지수(-5.33%)가 급락했고, 마이크론(MU, -9.94%)·엔비디아(NVDA, -3.55%)·TSMC ADR(TSM, -4.50%) 약세가 두드러졌습니다.  \n③ 다만 알파벳(GOOGL, +0.90%)처럼 일부 대형주는 선별 반등했고, 오늘 시장은 AI 인프라 장기 수요보다 단기 수급·중국 공급 리스크를 먼저 반영한 흐름으로 보입니다.\n\n📊 주요 지수\n\n- 다우 51,594.14 (-2.19%)\n- 나스닥 24,442.94 (-1.74%)\n- S&P500 7,316.15 (-1.52%)\n- MSCI 한국 ETF(EWY) 144.21 (-4.78%)\n- 달러인덱스 100.85 (-0.56%)\n- 국제유가(WTI) 84.60달러 (+6.74%)\n- 미국 10년물 금리 4.687% (+0.083%p)\n- 변동성(VIX) 20.66 (+13.45%)\n\n감사합니다.",
   "sihwang_status": "ok",
   "sector_line": "섹터 1M 상위: Energy +9.5%, Financials +5.5%, Consumer Staples +3.5% / 하위: Industrials -3.3%, Consumer Disc. -4.7%, Technology -10.2%",
@@ -16,66 +16,10 @@
       "마이크론이 10% 급락하는 등 반도체가 다시 무너졌다. 장 마감 후 실적에서 MS는 예상을 웃돌았지만 메타는 이익이 기대에 못 미쳤다."
     ]
   },
-  "news": [
-    {
-      "title": "Meta's stock plunges almost 10% on disappointing guidance, dwindling free cash flow",
-      "link": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
-      "source": "CNBC"
-    },
-    {
-      "title": "Microsoft jumps 7% as it boosts capital spending plans, citing demand",
-      "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
-      "source": "CNBC"
-    },
-    {
-      "title": "Divided Fed holds interest rates steady, but three members voted to hike",
-      "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
-      "source": "CNBC"
-    },
-    {
-      "title": "Jobless claims fall to lowest level since mid-May",
-      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
-      "source": "MarketWatch"
-    },
-    {
-      "title": "Jobless claims stay low in latest week",
-      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
-      "source": "MarketWatch"
-    },
-    {
-      "title": "Consumer credit growth soars in December",
-      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
-      "source": "MarketWatch"
-    }
-  ],
+  "news": [],
   "memval": {
     "date": "2026-07-30",
-    "rows": [
-      {
-        "ticker": "005930.KS",
-        "name": "삼성전자",
-        "fpe": 3.19,
-        "delta": -0.18,
-        "price": 208500.0,
-        "currency": "KRW"
-      },
-      {
-        "ticker": "000660.KS",
-        "name": "SK하이닉스",
-        "fpe": 3.11,
-        "delta": -0.33,
-        "price": 1401000.0,
-        "currency": "KRW"
-      },
-      {
-        "ticker": "MU",
-        "name": "마이크론",
-        "fpe": 4.81,
-        "delta": -0.53,
-        "price": 739.0,
-        "currency": "USD"
-      }
-    ]
+    "rows": []
   },
   "view": ""
 }
