@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-31",
+  "date_kr": "2026년 7월 31일",
+  "generated_at": "2026-07-31T06:17:07.496989+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 7월 30일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 가장 중요한 한 줄은 유가·금리·VIX가 동반 상승하면서 위험자산 심리가 꺾였고, 미국 3대 지수가 모두 하락했다는 점입니다.  \n② 반도체는 중국 DUV 국산화·CXMT 증설 우려가 겹치며 필라델피아반도체지수(-5.33%)가 급락했고, 마이크론(MU, -9.94%)·엔비디아(NVDA, -3.55%)·TSMC ADR(TSM, -4.50%) 약세가 두드러졌습니다.  \n③ 다만 알파벳(GOOGL, +0.90%)처럼 일부 대형주는 선별 반등했고, 오늘 시장은 AI 인프라 장기 수요보다 단기 수급·중국 공급 리스크를 먼저 반영한 흐름으로 보입니다.\n\n📊 주요 지수\n\n- 다우 51,594.14 (-2.19%)\n- 나스닥 24,442.94 (-1.74%)\n- S&P500 7,316.15 (-1.52%)\n- MSCI 한국 ETF(EWY) 144.21 (-4.78%)\n- 달러인덱스 100.85 (-0.56%)\n- 국제유가(WTI) 84.60달러 (+6.74%)\n- 미국 10년물 금리 4.687% (+0.083%p)\n- 변동성(VIX) 20.66 (+13.45%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +9.5%, Financials +5.5%, Consumer Staples +3.5% / 하위: Industrials -3.3%, Consumer Disc. -4.7%, Technology -10.2%",
+  "valuation_line": "S&P500 Fwd P/E 40.6배 · 美10년 3.66% · VIX 20.7",
+  "full_narrative": "시장 총평: 나스닥이 2.78% 오르며 다우(+1.19%), S&P500(+1.66%)을 크게 앞서는 기술주 주도 랠리가 나타났습니다. 마이크로소프트 실적으로 그간 시장을 짓눌러온 'AI 수익화 회의론'이 상당 부분 해소됐고, 6월 근원 PCE가 전년 대비 3.3%로 예상에 부합하며 물가 부담도 완화됐습니다. VIX는 17.09로 하루 만에 17% 넘게 빠졌고, 유가(WTI $83.96)도 홍해 해상방위연합 출범 소식에 하락했습니다. 전날까지의 공포가 빠르게 정상화되는 흐름이었습니다.\n\n주요 종목: 마이크로소프트는 애저 매출 43% 성장(다음 분기 45% 전망)에 힘입어 16% 급등했고, 여러 하우스가 목표주가를 상향했습니다. 반도체는 대규모 레버리지 AI 펀드(Situational Awareness)의 마진콜성 급매물이 마무리됐다는 분석에 SK하이닉스ADR·마이크론이 각 18%, 램리서치·샌디스크가 20% 전후 급등했습니다. 반면 메타는 AI 수익성을 입증하지 못했다는 평가에 하락했습니다. 장 마감 후 아마존은 AWS 37% 성장에 시간외 상승, 애플은 서비스 부문 부진에 시간외 약세로 엇갈렸습니다.\n\n투자 심리: 최근 급락의 상당 부분이 실적 훼손이 아니라 헤지펀드 청산·신용 등 수급 요인이었다는 인식이 확산됐습니다. 그 매물 압박이 마무리됐다는 점이 심리 회복의 결정적 계기가 됐습니다. 이에 MSCI 한국지수가 11.79% 반등하고 야간선물이 8.0% 급등하며 상한가를 이끌었으며, 원/달러도 1,420원대로 하락했습니다. 리먼 사태에 육박했던 낙폭 뒤 미 증시 반도체 강세가 확인된 만큼, 실적이 훼손되지 않은 기존 대형 주도주와 코스닥 실적주에 관심을 높여볼 구간으로 판단됩니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 7월 31일 미국 증시: MS 실적이 살린 AI 랠리, 반도체 급등에 3대 지수 동반 상승",
+    "points": [
+      "마이크로소프트가 클라우드·자본지출 우려를 씻어낸 실적으로 16% 급등하며 AI 수익화 논란을 진정시켰습니다.",
+      "SK하이닉스ADR·마이크론이 각각 18%, 램리서치·샌디스크가 20% 안팎 뛰며 반도체 지수가 8% 치솟았습니다.",
+      "6월 PCE 물가가 예상에 부합하고 유가가 내리자 VIX가 17% 급락하며 위험선호가 빠르게 회복됐습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
+      "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Reddit shares sink 7% on 'choppy' search referrals even as results blow past estimates",
+      "link": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jobless claims fall to lowest level since mid-May",
+      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Jobless claims stay low in latest week",
+      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Consumer credit growth soars in December",
+      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    }
+  ],
+  "memval": {
+    "date": "2026-07-31",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.17,
+        "delta": -0.02,
+        "price": 207000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 2.93,
+        "delta": -0.18,
+        "price": 1322000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 5.69,
+        "delta": 0.88,
+        "price": 874.66,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
