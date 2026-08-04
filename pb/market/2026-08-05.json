@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-05",
+  "date_kr": "2026년 8월 5일",
+  "generated_at": "2026-08-05T06:17:08.983297+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 8월 4일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 핵심은 빅테크 실적과 AI 투자 수익화 확인입니다. 마이크로소프트(MSFT, +4.46%)와 아마존(AMZN, +4.99%)이 클라우드 성장 기대를 다시 끌어올렸습니다.  \n② 아마존은 시가총액 3조 달러 돌파 이슈가 부각됐고, 반도체는 램리서치(LRCX, +0.54%)가 버텼지만 마이크론(MU, -7.85%)은 약세로 차별화됐습니다.  \n③ 유가 급락과 10년물 금리 하락은 부담을 낮췄고, AI 인프라 장세는 유지되지만 메모리 쪽은 단기 선별이 필요해 보입니다.\n\n📊 주요 지수\n\n- 다우 53,178.41 (+1.32%)\n- 나스닥 25,913.90 (+2.13%)\n- S&P500 7,600.50 (+1.48%)\n- MSCI 한국 ETF(EWY) 160.24 (+2.00%)\n- 달러인덱스 99.96 (+0.05%)\n- WTI 80.06달러 (-5.44%)\n- 미국 10년물 금리 4.676%\n- VIX 15.86 (-0.81%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +10.5%, Financials +3.2%, Communication +1.6% / 하위: Technology -1.4%, Materials -1.9%, Utilities -3.1%",
+  "valuation_line": "S&P500 Fwd P/E 40.9배 · 美10년 3.70% · VIX 15.9",
+  "full_narrative": "시장 총평: 주요 기업의 연이은 호실적과 중동 정세에 대한 낙관론이 맞물려 미국 증시는 3일 연속 상승세를 기록했다. S&P 500 지수가 사상 최고치를 경신하는 등 기술주를 중심으로 강한 반등 흐름을 보였으며, 투자 심리 지표도 회복되는 양상이다.\n\n주요 종목: AI 플랫폼 기업인 팔란티어가 실적 호조로 시간 외 거래에서 급등하며 인공지능 수요에 대한 의구심을 해소했다. 아마존은 시총 3조 달러 돌파와 함께 AWS 부문의 강력한 성장세가 인정받았다. 반면 아마존의 자사주 매각 계획 공표나 스페이스X의 시간 외 약세 등 개별 종목의 수급 요인에 따른 일회성 조정도 나타났으나, 전체적인 기술주 및 반도체 섹터는 강세를 유지했다.\n\n투자 심리: 하이퍼스케일러의 막대한 AI 인프라 투자에 대한 우려가 실적 호조를 통해 상당 부분 해소되며 시장 참여자들의 신뢰가 회복되고 있다. 중동 정세 안정화와 함께 하락한 유가와 금리는 기업 자금 조달 비용 인하라는 긍정적 요인으로 작용하고 있다. 한국 증시 역시 외국인 및 기관의 매수세 유입으로 강한 반등세를 보이고 있어, 종목별 수급 흐름에 주목해야 할 시기이다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 8월 5일 미국 증시: AI 실증과 중동 협상 기대감에 S&P 500, 사상 최고치 경신하며 기술주 강세 지속",
+    "points": [
+      "팔란티어 등 AI 관련 종목의 호실적 발표로 인공지능 투자 타당성이 입증되며 나스닥 지수가 급등",
+      "이란과의 협상 재개 가능성과 중동 정세 안정화 기대감에 국제유가와 국채 금리가 동반 하락",
+      "아마존이 시총 3조 달러를 돌파하는 등 하이퍼스케일러의 자본 지출 우려가 해소되며 대형 기술주가 지수 상승을 견인"
+    ]
+  },
+  "news": [
+    {
+      "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down",
+      "link": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
+      "link": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "The stock market soars. 5 reasons behind the big surge Tuesday",
+      "link": "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jobless claims fall to lowest level since mid-May",
+      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Jobless claims stay low in latest week",
+      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Consumer credit growth soars in December",
+      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    }
+  ],
+  "memval": {
+    "date": "2026-08-05",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.59,
+        "delta": -0.02,
+        "price": 240000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.51,
+        "delta": 0.02,
+        "price": 1577000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 5.74,
+        "delta": 0.41,
+        "price": 892.67,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
