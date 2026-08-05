@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-06",
+  "date_kr": "2026년 8월 6일",
+  "generated_at": "2026-08-06T06:17:10.956834+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 8월 5일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 핵심은 AI 실적 확인입니다. 팔란티어(PLTR, +29.45%) 급등이 AI 투자 사이클에 대한 신뢰를 다시 키우며 기술주 전반을 끌어올렸습니다.  \n② 아마존(AMZN, -2.32%)은 3조달러 클럽 진입 뉴스에도 당일 주가는 쉬어갔고, 시장의 주도권은 하이퍼스케일러보다 AI 실적 확인 종목으로 더 집중됐습니다.  \n③ 중동 협상 기대감으로 WTI 유가가 급락하고 10년물 금리도 하락해, AI·성장주 중심의 위험자산 선호는 유효해 보입니다.\n\n📊 주요 지수\n\n- 다우 54,085.88 (+1.71%)\n- 나스닥 26,584.99 (+2.59%)\n- S&P500 7,736.52 (+1.79%)\n- MSCI 한국(EWY) 171.14 (+6.80%)\n- 달러인덱스 99.88 (-0.02%)\n- WTI 75.14달러 (-6.47%)\n- 미국 10년물 금리 4.62%\n- VIX 16.50 (+4.04%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +10.0%, Financials +4.1%, Technology +3.5% / 하위: Materials -0.0%, Health Care -1.0%, Utilities -3.6%",
+  "valuation_line": "S&P500 Fwd P/E 41.5배 · 美10년 3.73% · VIX 16.5",
+  "full_narrative": "시장 총평: 미국 증시는 중동 협상 기대감에 따른 유가 하락과 금리 안정세의 지지를 받았습니다. 다만, 개별 빅테크 기업의 실적과 전망이 상이해 지수별 마감 행보가 엇갈렸습니다. 다우존스는 사상 최고치를 경신하며 상승세를 유지한 반면, 나스닥은 알파벳의 AI 연구진 이탈 뉴스와 스페이스X의 막대한 자본 지출 우려로 하락했습니다. 투자자들은 AI 인프라 투자의 지속성에 확신을 얻고 있으나, 개별 기업의 실행 리스크에 경계심을 드러내고 있어 종목별 선택과 집중이 필요합니다.\n\n주요 종목: 팔란티어는 예상치를 크게 상회하는 실적을 발표하며 시간 외 거래에서 급등했습니다. 엔비디아는 테슬라 CEO의 AMD 칩 구매 중단 발언과 메모리 수요 폭증 언급에 힘입어 상승했습니다. 반면, 알파벳은 제프 딘 수석 과학자를 포함한 핵심 AI 연구진의 퇴사 소식으로 주가가 4% 이상 하락했습니다. 스페이스X는 2분기 자본 지출이 예상치의 6배인 184억 달러로 급증함에 따라 시간 외 거래에서 약세를 보였습니다. 마이크론은 생산 확대보다 수요 증가가 훨씬 빠르다는 전망에 힘입어 강보합을 유지하는 등 반도체 및 AI 관련 종목의 양극화된 반응이 두드러졌습니다.\n\n투자 심리: 중동 정세 진정 기조와 금리 인상 압박의 일시적 완화로 투자 심리는 안정화되었습니다. 다만, 변동성에 대한 경계심은 여전히 남아 있습니다. 한국 증시는 미국 시장의 혼조세 영향으로 엇갈린 흐름을 보였습니다. 코스닥 지수는 ETF 규제 이후 자금 분산 효과로 4일 연속 반등하며 20일선을 돌파하는 등 단기 반등 모멘텀이 유지되고 있습니다. 향후 급락 후의 반등 과정에서 나타나는 매물 소화 과정을 주의 깊게 관찰해야 합니다. 실적 기반의 주도주와 코스닥 내 섹터별 강세 종목에 집중하는 전략이 요구됩니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 8월 6일 미국 증시: 빅테크 실적 엇갈리며 혼조 마감, 중동 협상 기대감으로 유가 하락",
+    "points": [
+      "팔란티어·엔비디아 호실적 및 수요 확증에 AI 관련주 강세 지속",
+      "알파벳 핵심 연구진 이탈과 스페이스X 과도한 자본 지출 우려로 대형주 조정",
+      "중동 정세 진정 기조로 유가 하락하며 금리 및 변동성 지표 안정화"
+    ]
+  },
+  "news": [
+    {
+      "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+      "link": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Iran, Oman say Strait of Hormuz talks in final stages, as Trump again teases a deal being close",
+      "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+      "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jobless claims fall to lowest level since mid-May",
+      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Jobless claims stay low in latest week",
+      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Consumer credit growth soars in December",
+      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    }
+  ],
+  "memval": {
+    "date": "2026-08-06",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.68,
+        "delta": 0.09,
+        "price": 246000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.72,
+        "delta": 0.21,
+        "price": 1668000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 5.74,
+        "delta": 0.0,
+        "price": 893.19,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
