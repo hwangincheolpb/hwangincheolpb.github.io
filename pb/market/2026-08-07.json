@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-07",
+  "date_kr": "2026년 8월 7일",
+  "generated_at": "2026-08-07T06:17:06.846610+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 미국 증시는 AI 내부 로테이션이 뚜렷했습니다. 엔비디아(NVDA, +3.43%)는 강했지만, 알파벳(GOOGL, -4.03%)과 AMD(AMD, -7.04%)가 부담으로 작용했습니다.  \n② 팔란티어(PLTR, -2.60%)는 호실적 뉴스 이후 차익 매물이 나왔고, 마이크론(MU, +0.06%)은 AI 메모리 수요 기대가 유지되며 보합권을 지켰습니다.  \n③ 유가·금리·VIX가 모두 안정된 점은 긍정적이나, 빅테크 전반보다 AI 인프라·메모리 중심의 선별 접근이 유효해 보입니다.\n\n📊 주요 지수\n\n- 다우 54,349.12 (+0.49%)\n- 나스닥 26,363.44 (-0.83%)\n- S&P500 7,723.55 (-0.17%)\n- MSCI 한국(EWY) 169.14 (-1.17%)\n- 달러인덱스 99.68 (-0.18%)\n- WTI 75.08달러 (-0.91%)\n- 미국 10년물 금리 4.62%\n- VIX 15.81 (-4.18%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +7.7%, Financials +4.3%, Technology +3.0% / 하위: Consumer Staples +0.4%, Health Care +0.3%, Utilities -4.6%",
+  "valuation_line": "S&P500 Fwd P/E 42.3배 · 美10년 3.73% · VIX 15.8",
+  "full_narrative": "시장 총평: 고용 지표 발표를 앞두고 투자자들의 관망세가 작용하며 미국 주요 지수가 소폭 하락 마감했습니다. 중동 정세는 이란과 오만의 협상 진전 소식과 이스라엘의 선박 통행 금지 검토 보도가 공존하는 복잡한 양상을 보였으며, 이에 따라 국제유가가 3% 가까이 상승하며 시장의 경계 심리를 자극했습니다. 또한 금리 민감 종목들의 움직임이 두드러지며 시장 전체의 변동성이 다소 커진 상태로 마감되었습니다.\n\n주요 종목: 스토리지 반도체 부문에서 샌디스크와 웨스턴디지털이 보수적인 가이던스를 제시한 영향으로 각각 5%와 12% 가까이 큰 폭으로 하락했습니다. 반면, 엔비디아와 브로드컴, ASML 등 AI 인프라 핵심 종목들은 강세를 유지하며 반등하는 모습을 보였습니다. 알파벳은 회사채 발행을 통해 대규모 자금을 조달했다는 소식에 매물 부담이 발생해 약세였으며, SK하이닉스 ADR 역시 주주 환원 정책 기대감 약화에 힘입어 하락했습니다.\n\n투자 심리: 중동 리스크와 유가 상승으로 인한 금리 상승 우려는 한국 증시에도 부정적 영향을 미쳤으나, 특히 코스피의 시총 상위 대형주들이 과도하게 반응한 측면이 있습니다. 전문가들은 이번 하락이 악재에 대한 과장된 해석과 특정 위클리 만기일 영향 때문일 수 있다고 분석하며, 삼성전자와 SK하이닉스 등 대형주의 저점 확인 매수세 유입을 주목할 것이라고 전망합니다. 종목별 수급 흐름이 중요한 시기로, 외국인 및 기관의 매수세가 집중된 기존 주도주들과 실적 우량종목에 대한 관심이 지속될 것으로 보입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 8월 7일 미국 증시: 중동 정세 불확실성과 유가 상승에 주요 지수 소폭 하락",
+    "points": [
+      "중동 협상 진전 소식과 이스라엘의 통행 금지 검토 보도가 엇갈리며 유가가 급등했고, 이는 시장 변동성을 높이는 요인으로 작용함",
+      "샌디스크와 웨스턴디지털 등 스토리지 반도체주들이 보수적 가이던스 발표 후 실망감에 주가가 크게 하락했으나, 증권가 장기 성장 전망은 여전히 긍정적임",
+      "알파벳의 회사채 발행 소식과 아마존의 자금 조달 움직임이 국채 금리 상승을 부추겼으며, 엔비디아와 브로드컴 등 반도체주는 강세를 유지함"
+    ]
+  },
+  "news": [
+    {
+      "title": "Iran's Hormuz Strait plan reportedly blocks U.S., Israeli ships; U.S. rejects any 'impediments'",
+      "link": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Copper jumps to its highest level ever. What the metal is telling us",
+      "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
+      "link": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jobless claims fall to lowest level since mid-May",
+      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Jobless claims stay low in latest week",
+      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Consumer credit growth soars in December",
+      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    }
+  ],
+  "memval": {
+    "date": "2026-08-07",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.45,
+        "delta": -0.23,
+        "price": 230500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.33,
+        "delta": -0.39,
+        "price": 1495000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 5.67,
+        "delta": -0.07,
+        "price": 881.47,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
