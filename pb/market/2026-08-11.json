@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-11",
+  "date_kr": "2026년 8월 11일",
+  "generated_at": "2026-08-11T06:17:08.479203+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 미국 증시는 AI 실적 모멘텀과 금리 안정 기대가 이어지며 기술주 중심으로 상승 마감했습니다.  \n② 팔란티어(PLTR, +10.32%), 온세미콘덕터(ON, +3.63%), 엔비디아(NVDA, +2.27%)가 강했고, 알파벳(GOOGL, -0.96%)·AMD(AMD, -1.21%)는 약했습니다.  \n③ 큰 그림은 AI 인프라 수요가 반도체·전력·데이터센터로 확산되는 흐름이 유지되는 쪽입니다.\n\n📊 주요 지수\n\n- 다우 54,036.93 (+0.28%)\n- 나스닥 26,690.62 (+1.30%)\n- S&P500 7,757.64 (+0.62%)\n- MSCI 한국(EWY) 166.09 (+1.20%)\n- 달러인덱스 99.54\n- WTI 78.18달러\n- 미국 10년물 금리 4.65%\n- VIX 14.90 (-1.65%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +5.2%, Technology +4.9%, Financials +2.8% / 하위: Communication +0.2%, Real Estate +0.2%, Utilities -4.6%",
+  "valuation_line": "S&P500 Fwd P/E 42.4배 · 美10년 3.71% · VIX 14.9",
+  "full_narrative": "시장 총평: 중동 협상이 막바지 신경전 양상을 보이면서 합의 시점이 예상보다 늦어질 것이라는 우려가 확산했습니다. 이에 국제유가가 5% 이상 급등하며 인플레이션 재점화 우려를 부각시켰고, 미국 10년물 국채 금리 상승으로 이어졌습니다. 금리 상승과 엔비디아의 거액 자금 조달 소식, 애플에 대한 증권사의 부정적 평가가 겹치면서 대형주 중심의 매도세가 가속화되고 시장 심리가 위축되었습니다.\n\n주요 종목: 엔비디아는 500억 달러 규모의 AI 인프라 자금을 조달하기 위해 주요 금융기관과 협상 중이라는 보도가 나왔으나, 유가 급등 등 외부 리스크에 주가가 하락했습니다. 스페이스X는 상장 이후 첫 순매도 기록에도 불구하고 보호예수 해제 물량 부담을 이겨내고 강세를 유지했으며, 씨티와 도이치 등이 목표가를 상향하거나 유지하며 성장성을 긍정적으로 평가했습니다. 애플은 제프리스가 메모리 비용 증가와 제품 출시 지연 가능성을 지적하며 투자 의견을 ‘시장 수익률 하회’로 낮췄습니다. 인텔은 150억 달러 규모의 보통주 발행을 통한 자금 조달 준비 소식에 주가가 하락했습니다.\n\n투자 심리: 한국 증시는 코스피 대형주의 눌림세와 달리 코스닥 시장이 저점 대비 35% 반등하며 종목 장세가 전개되었습니다. 다만 과매수 구간 근접으로 향후 차별화 국면 진입이 예상됩니다. 미국 시장은 여전히 FOMO(놓칠까 봐 두려움) 심리에 따라 콜 옵션 매수가 강해져 콜대 풋 비율이 4년 만의 최고치를 기록했으나, 변동성 지수(VIX) 상승과 함께 리스크 회피 심리도 공존하고 있습니다. 한국 투자자들은 원화 강세와 코스피 부진에 따라 미국 주식으로 자금을 재배분하는 모습이 나타나고 있으며, 특히 실적 호재가 확인된 반도체 및 AI 관련 종목에 대한 선별적 접근이 필요합니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 8월 11일 미국 증시: 중동 협상 난항과 유가 급등으로 주요 지수 하락, 엔비디아 자금 조달 소식에도 대형주 조정",
+    "points": []
+  },
+  "news": [
+    {
+      "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
+      "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
+      "link": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
+      "link": "https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jobless claims fall to lowest level since mid-May",
+      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Jobless claims stay low in latest week",
+      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Consumer credit growth soars in December",
+      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    }
+  ],
+  "memval": {
+    "date": "2026-08-11",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.42,
+        "delta": -0.02,
+        "price": 230000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.12,
+        "delta": -0.01,
+        "price": 1420000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 5.56,
+        "delta": -0.1,
+        "price": 861.0,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
