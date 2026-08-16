@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-17",
+  "date_kr": "2026년 8월 17일",
+  "generated_at": "2026-08-17T06:17:10.892174+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 7월 PPI가 예상보다 낮게 나오며 금리 부담이 완화됐고, S&P500은 사상 최고치를 다시 경신했습니다.  \n② 메모리 반도체가 핵심입니다. 샌디스크(SNDK, +13.67%), 마이크론(MU, +4.23%)이 강했고, AI 데이터센터 수요 확인이 이어졌습니다.  \n③ 국내 증시에는 우호적인 흐름입니다. 다만 단기 급등 이후에는 메모리·AI 인프라 안에서도 실적과 수급이 확인되는 종목 중심의 선별 대응이 필요합니다.\n\n📊 주요 지수\n\n- 다우 53,839.99 (+0.13%)\n- 나스닥 26,803.03 (+0.81%)\n- S&P500 7,798.99 (+0.65%)\n- MSCI 한국 ETF(EWY) 178.62 (+1.56%)\n- 달러인덱스 99.96 (-0.05%)\n- WTI 81.21달러 (-2.47%)\n- 미국 10년물 금리 4.65%\n- VIX 14.63 (+0.55%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +8.7%, Health Care +5.7%, Materials +3.8% / 하위: Real Estate +1.8%, Communication +1.4%, Utilities -3.0%",
+  "valuation_line": "S&P500 Fwd P/E 42.6배 · 美10년 3.70% · VIX 14.2",
+  "full_narrative": "**시장 총평:** 7월 소매판매가 예상치(+0.1%)를 크게 하회하는 -0.6%를 기록했고, 미시건대 소비자심리지수도 51로 기대치(54.5)를 밑돌며 경기 둔화 우려가 투자 심리를 눌렀다. 다만 아마존 프라임 데이가 6월로 앞당겨진 영향으로 7월 비점포 판매가 부진했다는 분석도 나와, 소비의 구조적 꺾임으로 단정하기는 이르다는 시각이 공존했다. 9월 금리인상 확률이 33%까지 하락하는 역설적 효과가 나타났지만, 유가 상승이 겹치며 금리가 재반등해 지수 상단을 제약했다.\n\n**주요 종목:** 샌디스크는 골드만삭스·JP모건이 나란히 목표가 2,250달러를 제시하며 주주환원 기대가 이어진 가운데 +7.4% 급등했다. AMD +6.5%, 씨게이트 +5.6%, 마이크론 +2.3% 등 메모리·낸드 관련주도 일제히 강세를 보였다. 반면 브로드컴은 VMware 가상화 플랫폼 해킹 악재로 -5.9% 하락했고, 어플라이드머티리얼즈는 마진 전망 실망으로 -5%를 기록하며 같은 섹터 내 온도차가 극명하게 갈렸다. SK하이닉스 ADR은 테마섹 투자 검토·주주환원 기대와 함께 주간 강세 흐름을 이어가고 있다.\n\n**투자 심리:** VIX는 14.25로 낮은 수준을 유지하며 공포 심리는 안정적이다. 다만 경기 둔화 데이터와 유가 상승이 동시에 출현하면서 시장은 방향 탐색 국면에 진입한 모습이다. 원·달러 환율은 1,412원으로 소폭 강세를 보이는 가운데, 한국 증시는 이번 주 메모리·반도체 주도 랠리로 MSCI 한국지수가 주간 기준 큰 폭 상승했다. 다음 주는 외국인 수급 지속 여부와 대형주 차별화 장세 전환 여부가 핵심 관전 포인트다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 8월 15일 미국 증시: 경기 지표 부진·유가 재반등 부담에 대형주 소폭 하락, 메모리주는 역행 강세",
+    "points": [
+      "소매판매(-0.6%)·소비자심리지수(51) 동반 쇼크로 경기 둔화 우려가 부각되며 대형 기술주 중심으로 매물이 출회됐다.",
+      "중동 협상 교착과 후티 반군의 아람코 공격으로 유가가 재상승했고, 10년물 금리도 동반 반등하며 인플레 경계심이 재점화됐다.",
+      "샌디스크(+7.4%)·AMD(+6.5%)·씨게이트(+5.6%)는 AI 수요 기대에 급등한 반면, 브로드컴(-5.9%)·어플라이드머티리얼즈(-5%)는 개별 악재로 급락하며 반도체 섹터 내 극명한 차별화가 나타났다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+      "link": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+      "link": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "What the results of a Connecticut congressional primary race may mean for Social Security",
+      "link": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jobless claims fall to lowest level since mid-May",
+      "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Jobless claims stay low in latest week",
+      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Consumer credit growth soars in December",
+      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+      "source": "MarketWatch"
+    }
+  ],
+  "memval": {
+    "date": "2026-08-17",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 4.08,
+        "delta": 0.09,
+        "price": 274500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.62,
+        "delta": 0.12,
+        "price": 1645000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.27,
+        "delta": 0.14,
+        "price": 971.66,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
