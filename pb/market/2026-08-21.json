@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-21",
+  "date_kr": "2026년 8월 21일",
+  "generated_at": "2026-08-21T06:17:08.477815+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 8월 20일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 시장의 핵심은 재무부의 국채 바이백 확대 발표로 금리가 진정되며, 4거래일 만에 3대 지수가 반등했다는 점입니다.  \n② 모더나(MRNA, +176.97%)와 머크(MRK, +12.60%)가 흑색종 백신 임상 3상 기대감으로 급등했고, 마벨테크(MRVL, +9.85%)는 구글 맞춤형 AI 반도체 협력 이슈가 부각됐습니다.  \n③ 엔비디아(NVDA, -0.99%)는 약세였지만, 테슬라(TSLA, +4.23%)와 헬스케어·일부 AI 반도체주는 강해 시장 불안은 다소 완화되는 흐름입니다.\n\n📊 주요 지수\n\n- 다우 53,463.05 (+0.22%)\n- 나스닥 26,331.09 (+0.16%)\n- S&P500 7,707.98 (+0.21%)\n- MSCI 한국 ETF(EWY) 174.43 (+2.58%)\n- 달러인덱스 98.80 (-0.86%)\n- WTI 86.00달러 (+1.25%)\n- 미국 10년물 금리 4.64%\n- VIX 14.89 (-6.00%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +10.2%, Health Care +9.1%, Technology +4.6% / 하위: Communication +0.6%, Real Estate -0.9%, Utilities -2.5%",
+  "valuation_line": "S&P500 Fwd P/E 42.1배 · 美10년 3.70% · VIX 14.9",
+  "full_narrative": "시장 총평: 재무부 바이백으로 잠시 안정됐던 국채 금리가 다시 튀어오르며(10년물 4.7%, 30년물 5.24%) 투자 심리를 짓눌렀다. 트럼프 행정부가 24일 대이란 초강경 경제 압박을 예고하자 유가도 2.33% 오른 87.83달러까지 상승했다. 여기에 소비 대장주 월마트의 부진한 실적까지 겹치며 11개 업종 중 에너지와 부동산만 오르고 나머지는 일제히 밀렸다. 금리·유가·실적 삼중 악재가 한꺼번에 부각되면서 VIX는 7.52% 급등한 16선으로 올라섰다.\n\n주요 종목: 월마트는 매출이 예상을 넘겼지만 미국 내 동일점포 매출과 가이던스가 기대에 못 미쳤다. 관세 환급액을 가격 인하에 쓰겠다는 계획도 부담으로 작용해 9% 급락했다. 전일 피부암 백신 호재로 177% 폭등한 모더나는 23% 되밀렸고, 스페이스X도 3.2억 주 보호예수 해제로 약세였다. 반면 SK하이닉스ADR(+4.4%)과 마이크론(+3.9%)은 대규모 주주환원 기대와 100억 달러 규모 AI메모리 연구소 설립 발표에 힘입어 반도체 업종 강세를 이끌었다.\n\n투자 심리: 재무부가 반응하는 금리 상단이 확인됐고 반도체 주주환원 논란도 해소되며 구조적 하방 위험은 제한적이다. 다만 중동 사태 장기화와 셀온 매물로 단기 변동성은 불가피하다는 시각이 우세하다. 원/달러 환율이 1,394원으로 1.38% 하락하고 MSCI 한국지수가 2.13% 오르는 등 외국인 자금 유입은 이어지고 있어, 한국 증시는 상대적 견조함이 기대된다. SK하이닉스에 이어 삼성전자의 주주환원 정책도 대기 중인 만큼, 지수 전체보다 실적·정책·수급 모멘텀을 갖춘 종목별 차별화 장세에 집중할 국면이다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 8월 21일 미국 증시: 금리·중동·월마트 실적 3중고에 하락",
+    "points": [
+      "국채 금리가 다시 오르고 중동 긴장이 고조되면서 다우가 1.32% 밀렸고, 3대 지수가 동반 하락했다.",
+      "소비 바로미터인 월마트가 가이던스 실망에 9% 급락하며 2022년 5월 이후 최대 낙폭을 기록했다.",
+      "전일 폭등한 모더나는 차익 매물에 23% 되밀렸지만, 주주환원 기대가 실린 반도체주는 홀로 강세였다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
+      "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+      "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+      "link": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jim Cramer drops stunning take on the economy",
+      "link": "https://finance.yahoo.com/economy/articles/jim-cramer-drops-stunning-economy-230000219.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Freight Distress Report: More than 7,000 jobs cut in new wave of closures",
+      "link": "https://finance.yahoo.com/economy/articles/freight-distress-report-more-7-131619573.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-08-21",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 4.03,
+        "delta": 0.35,
+        "price": 271000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.69,
+        "delta": 0.39,
+        "price": 1691000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.26,
+        "delta": 0.21,
+        "price": 974.33,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
