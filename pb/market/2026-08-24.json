@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-24",
+  "date_kr": "2026년 8월 24일",
+  "generated_at": "2026-08-24T06:17:12.891261+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n오늘 가장 중요한 한 줄: 미국 증시는 금리 재상승, 유가 상승, 월마트 실적 실망이 겹치며 위험자산 선호가 약해졌습니다.\n\n① 월마트(WMT, -9.15%)가 가이던스 부담으로 급락하며 소비 둔화 우려를 키웠습니다.  \n② 모더나(MRNA, -23.55%)는 전일 급등 뒤 차익실현이 나왔고, 마이크론(MU, +3.97%)은 AI 메모리 기대감으로 상대적 강세였습니다.  \n③ 단기 변동성은 커졌지만, 한국 관련 자산은 EWY 강세가 이어져 반도체·정책 모멘텀 종목 중심 대응은 유효해 보입니다.\n\n📊 주요 지수\n\n- 다우 52,759.21 (-1.32%)\n- 나스닥 26,067.17 (-1.00%)\n- S&P500 7,641.16 (-0.87%)\n- MSCI 한국 ETF(EWY) 178.16 (+2.14%)\n- 달러인덱스 98.88 (+0.04%)\n- WTI 88.15달러 (+2.70%)\n- 미국 10년물 금리 4.71%\n- VIX 16.01 (+7.52%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Health Care +9.0%, Energy +8.8%, Materials +6.9% / 하위: Industrials +0.9%, Real Estate -0.3%, Utilities -4.8%",
+  "valuation_line": "S&P500 Fwd P/E 42.0배 · 美10년 3.71% · VIX 15.1",
+  "full_narrative": "시장 총평: 8월 S&P글로벌 서비스업 지수가 2년 만에, 종합 PMI가 4년 만에 최고치를 기록했다. 최근 지표 부진에서 비롯된 스태그플레이션 우려가 상당 부분 걷혔다. 여기에 UBS가 S&P500 연말 목표를 8,100p로 상향하고 톰 리가 이달 최고치 경신을 전망하는 등 월가의 낙관론이 투자 심리를 뒷받침했다. 금리는 재무부 바이백 증액을 둘러싼 베센트 장관 발언 이후 급락과 급반등을 반복하다 정체됐고, 일방적 상승은 어렵다는 시각이 힘을 얻었다.\n\n주요 종목: 테슬라가 로보택시 출시 기대에 큰 폭으로 올랐고, 트럼프의 암호화폐 법안 처리 촉구 속에 코인베이스 등 가상화폐 관련주가 강세를 보였다. 모더나·길리어드 등 제약주와 골드만삭스·모건스탠리 등 금융주도 지수를 견인했다. 반면 반도체는 인텔·엔비디아가 밀리고 AMD·마이크론이 오르는 등 종목별로 엇갈렸다. 안전자산인 금은 위험자산과 동반 강세를 보이며 3.64% 급등했다.\n\n투자 심리: 지표 호조와 낙관론에도 옵션 만기가 겹치며 전반적으로 조심스러운 흐름이었다. 양대 시장 모두 지난주로 단기 과열 구간은 통과했으나, 가격 매력이 부각될 위치는 아니라는 평가다. 국내 증시는 삼성전자 주주환원 공개 후 첫 정규장 반응이 관건이다. 다만 프리마켓·야간선물 반응이 다소 아쉬워 초반 관련 매물 소화 가능성이 있다. 엔비디아 실적과 잭슨홀, PCE, 금통위가 집중된 '슈퍼위크'로 변동성이 커질 수 있다. 실적·정책·수급이 확인된 주도주 중심의 종목별 차별화 대응이 유효하다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 8월 22일 미국 증시: 경제지표 호조에 3대 지수 동반 상승, '슈퍼위크' 앞두고 위험선호 회복",
+    "points": [
+      "8월 서비스업 PMI가 2년 만에 최고치를 기록하며 스태그플레이션 우려가 완화됐다. 다우 0.98% 등 3대 지수가 일제히 올랐다.",
+      "테슬라가 로보택시 출시 기대에 큰 폭으로 올랐고, 코인베이스 등 가상화폐 관련주도 위험자산 선호 회복에 강세를 나타냈다.",
+      "금이 3.64% 급등한 가운데, 엔비디아 실적·PCE·잭슨홀·금통위가 몰린 '슈퍼위크'를 앞두고 시장은 신중한 관망세를 유지했다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+      "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
+      "link": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-08-24",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 4.18,
+        "delta": 0.15,
+        "price": 281500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.8,
+        "delta": 0.11,
+        "price": 1730000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.24,
+        "delta": -0.02,
+        "price": 966.78,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
