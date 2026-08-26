@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-27",
+  "date_kr": "2026년 8월 27일",
+  "generated_at": "2026-08-27T06:17:11.875062+09:00",
+  "sihwang_body": "오늘 가장 중요한 한 줄: 금리와 유가가 동시에 꺾이면서 반도체·AI 관련주 중심으로 위험자산 선호가 회복됐습니다.\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 베센트 재무부의 TGA 활용 채권 매입 가능성 언급으로 10년물 금리가 4.62%대까지 내려오며 기술주 투자심리가 살아났습니다.  \n② 엔비디아(NVDA, +2.19%)가 8거래일 만에 반등했고, 마이크론(MU, +2.48%)·AMD(AMD, +4.91%)·마벨(MRVL, +4.84%)·슈퍼마이크로(SMCI, +9.35%) 등 AI 반도체 체인이 강했습니다.  \n③ WTI 유가가 4%대 급락하며 인플레 부담도 완화됐지만, PCE와 엔비디아 실적 확인 전까지는 종목별 차별화와 변동성 관리가 필요합니다.\n\n📊 주요 지수\n\n- 다우 53,577.40 (+0.30%)\n- 나스닥 26,151.30 (+0.66%)\n- S&P 500 7,677.28 (+0.32%)\n- MSCI 한국(EWY) 180.15 (+3.75%)\n- 달러인덱스 98.91 (-0.08%)\n- WTI 81.11달러 (-4.59%)\n- 미국 10년물 금리 4.62%\n- VIX 15.45 (-2.52%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Health Care +7.8%, Consumer Disc. +7.8%, Communication +6.5% / 하위: Real Estate -1.3%, Industrials -2.3%, Utilities -6.4%",
+  "valuation_line": "S&P500 Fwd P/E 42.0배 · 美10년 3.71% · VIX 15.4",
+  "full_narrative": "시장 총평: 이날 시장은 7월 PCE 발표와 장 마감 후 엔비디아 실적이라는 두 대형 이벤트를 앞두고 관망 심리 속에 혼조로 마감했다. 7월 PCE는 전년 대비 3.7%로 예상을 0.1%p 웃돌았고, 근원은 3.3%로 예상에 부합했다. 인플레이션 진정을 기대하던 일부 투자자에겐 아쉬운 결과였으나, 9월 금리 인상 확률은 36% 수준으로 큰 변화가 없었다. 유가와 금리는 중동 협상 진전 보도에 하락 흐름을 이어가려 했으나, 물가 지표가 어정쩡하게 나오며 10년물 국채 금리는 오히려 4.64%로 소폭 올랐다.\n\n주요 종목: 엔비디아는 실적 발표 직전까지 관망세가 이어지며 1.6% 하락했다. 그러나 마감 후 공개한 실적은 매출 962억달러·EPS 2.22달러로 예상(920억달러·2.01달러)을 넘어섰고, 다음 분기 가이던스도 1,080억달러로 전망치를 웃돌았다. 대형주 중에서는 애플·마이크로소프트·메타가 올랐다. 메타는 청소년 중독성 소송을 167억달러에 합의하며 불확실성을 덜어냈고, 애플은 9월 9일 신제품 출시 행사 예고가 호재로 작용했다. 솔라엣지는 UBS의 투자의견 상향에 급등하며 개별 종목 차별화 장세를 보여줬다.\n\n투자 심리: PCE와 엔비디아 실적 모두 수치 자체는 양호해, 해석의 여지는 있으나 일단 악재는 아니라는 평가다. 남은 잭슨홀·금통위는 상대적으로 단기 변수에 그칠 전망이다. 한국 증시는 삼성전자·SK하이닉스의 주주환원 논란이 이어지고 있으나, 하루 1.5조원 규모 자사주 매입과 3분기 실적 개선 기대가 하방을 지지하고 있다. MSCI 한국지수는 0.54% 하락했지만, 야간선물이 0.64% 오르며 반등 시도 기대를 남겼다. 안정적 우상향보다는 상승 시도와 매물 소화가 반복되는 변동성 장세다. 기존 주도주와 정책·투자 관련 종목에 대한 관심은 여전히 유효하다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 8월 27일 미국 증시: PCE·엔비디아 실적 앞두고 관망 속 혼조 마감",
+    "points": [
+      "7월 PCE 물가가 예상을 소폭 웃돌며 금리 인하 기대가 후퇴했다. 3대 지수는 강보합과 약보합이 엇갈리며 혼조로 마감했다.",
+      "최대 이벤트인 엔비디아는 장중 관망세에 1.6% 하락했다. 다만 마감 후 발표한 실적은 매출·이익·가이던스 모두 시장 전망치를 웃돌았다.",
+      "메타는 청소년 중독 소송을 167억달러에 합의했다는 소식에 올랐고, 애플은 9월 9일 신제품 행사 예고에 힘입었다. 대형 기술주가 지수를 떠받쳤다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Salesforce stock jumps 13% on AI growth and Anthropic investment gain",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Constellation Brands Stock: Is Wall Street Bullish or Bearish?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-brands-stock-wall-street-125532239.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Are Wall Street Analysts Bullish on Fox Corporation Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-fox-125325886.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Do Wall Street Analysts Like Equinix Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-equinix-stock-125049247.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
+      "link": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
+      "source": "CNBC Business"
+    }
+  ],
+  "memval": {
+    "date": "2026-08-27",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.81,
+        "delta": 0.07,
+        "price": 261500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.65,
+        "delta": 0.02,
+        "price": 1688000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.05,
+        "delta": 0.03,
+        "price": 938.4,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
