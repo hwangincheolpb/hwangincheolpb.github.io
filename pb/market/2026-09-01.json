@@ -1,13 +1,13 @@
 {
   "date": "2026-09-01",
   "date_kr": "2026년 9월 1일",
-  "generated_at": "2026-09-01T06:17:11.089558+09:00",
-  "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 8월 28일 미국 증시 기준\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 케빈 워시 Fed 의장의 잭슨홀 발언 이후 금리 경계감이 커지며 미국 증시는 반도체 중심으로 약세를 보였습니다.  \n② 엔비디아(NVDA, -4.58%)는 AI 클라우드 업체와의 수익공유·신용지원 중단 보도, 마벨테크(MRVL, -10.28%)는 구글 AI 계약 매출 인식 지연 우려로 크게 밀렸습니다.  \n③ 반면 갭(GAP, +12.94%), 아마존(AMZN, +3.97%), 애플(AAPL, +1.63%), 메타(META, +1.21%)는 강세를 보이며 시장 하락 폭을 일부 제한했습니다.\n\n📊 주요 지수\n\n- 다우: 53,559.99 (-0.02%)\n- 나스닥: 26,402.42 (-0.52%)\n- S&P500: 7,711.76 (-0.25%)\n- MSCI 한국 ETF(EWY): 180.20 (-1.07%)\n- 달러인덱스: 99.70 (0.00%)\n- WTI: 83.40달러 (0.00%)\n- 미국 10년물 금리: 4.73%\n- VIX: 14.43 (-0.55%)\n\n감사합니다.",
-  "sihwang_status": "stale",
-  "sector_line": "섹터 1M 상위: Technology +8.2%, Energy +6.7%, Health Care +5.0% / 하위: Industrials -2.4%, Real Estate -2.4%, Utilities -5.5%",
-  "valuation_line": "S&P500 Fwd P/E 42.2배 · 美10년 3.68% · VIX 14.5",
+  "generated_at": "2026-09-01T07:04:34.156992+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 중동 충돌 재확산으로 유가와 금리가 동시에 오르며 시장은 방어적으로 움직였습니다.  \n② 테슬라(TSLA, +5.51%), 마이크론(MU, +2.77%), 엔비디아(NVDA, +1.48%)가 반등하며 지수 낙폭을 일부 줄였습니다.  \n③ 다만 10년물 금리 4.75%대와 WTI 86달러대는 성장주·중소형주 부담 요인이라, 오늘은 반도체 반등 지속성과 유가 민감 업종을 같이 점검할 필요가 있습니다.\n\n📊 주요 지수\n\n다우 53,185.90 (-0.70%)\n\n나스닥 26,370.89 (-0.12%)\n\nS&P500 7,686.14 (-0.33%)\n\nMSCI 한국 ETF(EWY) 180.86 (+0.37%)\n\n달러인덱스 99.42 (-0.28%)\n\nWTI 86.31달러 (+3.49%)\n\n미국 10년물 금리 4.75%\n\nVIX 14.92 (+3.40%)\n\n감사합니다.",
+  "sihwang_status": "ok",
+  "sector_line": "섹터 1M 상위: Energy +7.4%, Technology +6.4%, Health Care +4.9% / 하위: Real Estate -2.1%, Industrials -2.6%, Utilities -4.8%",
+  "valuation_line": "S&P500 Fwd P/E 42.2배 · 美10년 3.73% · VIX 14.9",
   "full_narrative": "시장 총평: 미국의 이란 로켓 발사대 타격과 이란의 요르단 미군 기지 공격 보도가 겹치며 WTI 유가가 3.5% 급등해 86달러선에 올라섰습니다. 인플레이션 우려가 재점화되며 10년물 금리도 4.76%로 상승했습니다. 이 여파로 다우 0.72%, S&P500 0.58%, 나스닥 0.64% 하락했고, 러셀2000은 1.92% 밀리며 중소형주 부진이 두드러졌습니다. 11개 업종 중 에너지와 테크만 오르는 방어적 흐름이었습니다.\n\n주요 종목: 테슬라가 5%대 상승하며 대형주 중 가장 강한 흐름을 보였습니다. 미즈호가 메모리 공급 부족을 근거로 반도체주 저평가 분석을 내놓으며 엔비디아·마이크론이 반등해 지수 낙폭을 제한했습니다. 엔비디아는 대만 미디어텍에 35억달러 투자를 발표하며 AI 협력을 확대했습니다. 반면 애플은 팀 쿡 퇴임과 앱스토어 책임자 사임 소식에 하락했고, 아마존은 FTC 소송 제기 보도에 약세를 보였습니다.\n\n투자 심리: 9월 FOMC를 2주 앞두고 워시 의장 지명자의 매파적 발언과 중동발 유가 상승이 겹치며 금리 인상 경계감이 높아졌습니다. 다만 인베스코 등 일각에서는 9월 인상 신호가 아직 명확하지 않다며 향후 CPI와 고용 지표가 관건이라고 보고 있습니다. 한국 증시는 삼성전자·SK하이닉스의 하루 1.5조원 규모 자사주 매입이 수급을 받치고 있습니다. 9월 초 외국인 순매도 강도 완화 여부와 SK하이닉스 180만원 돌파 여부가 추세 전환의 핵심 체크포인트입니다.",
-  "issues_md": "",
+  "issues_md": "## 이슈 1 — 테슬라 +5.5%, 지수 하락일에 홀로 급등한 이유\n\n8월 31일(현지) 테슬라는 5.5% 오른 367.95달러에 마감했다. S&P500·나스닥이 중동발 유가·금리 부담으로 하락하고 리비안·루시드 등 전기차 동종주도 약세였던 날이라, 섹터 훈풍이 아닌 회사 고유 재료로 오른 것이다. 직접 촉매는 머스크의 주말 X 포스트다. 스페이스X가 데이터센터 전력 병목을 풀기 위해 가스터빈 블레이드를 자체 생산하겠다는 글에 답하며 \"스페이스X와 테슬라가 각각 연 100기가와트 규모의 태양광 생산능력을 구축 중\"이라고 밝혔고, 시장은 이를 테슬라를 AI 인프라(전력) 수혜주로 다시 보는 재료로 받아들였다. 여기에 옵티머스 휴머노이드가 프리몬트 공장에서 생산 단계에 들어갔다는 소식(기존 모델 S/X 라인 활용, 우선 자사 공장 내 투입해 학습시키는 'Optimus Academy' 방식)과 FSD·로보택시 규제 승인 기대가 겹쳤다.\n\n- 종가 367.95달러(+5.5%), 같은 날 S&P500·나스닥은 하락 — 시장 역행 급등\n- 머스크: 스페이스X·테슬라 각각 연 100GW 태양광 생산능력 구축 중 (주말 X 포스트)\n- 옵티머스, 프리몬트에서 생산 개시 — 초기 물량은 자사 공장 투입(외부 판매 아님)\n- 주가 맥락: 연초 대비 여전히 약 16% 하락, 52주 고점(489.88달러) 대비 25% 아래. 최근 1년간 5% 이상 변동일이 16번일 만큼 원래 변동성 큰 종목\n\n- 확인 포인트: 100GW 태양광이 공장·설비투자 공시 등 구체 숫자로 이어지는지, 옵티머스 외부 판매 시점이 언급되는지\n- 판단: 실적 재료가 아니라 머스크발 내러티브(에너지+로봇) 랠리다. 연초 대비 낙폭이 큰 상태에서 나온 수급 반등 성격이 강해, 추격 매수보다는 3분기 인도량·에너지 부문 실적으로 확인하고 가는 게 맞다.",
   "headline_points": {
     "headline": "2026년 9월 1일 미국 증시: 중동 충돌 격화에 유가·금리 급등, 3대 지수 하락",
     "points": [
@@ -23,18 +23,13 @@
       "source": "CNBC"
     },
     {
-      "title": "Bessent pushes back on Druckenmiller critique of bond intervention",
-      "link": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
-      "source": "CNBC"
-    },
-    {
       "title": "Goldman Sachs sends blunt message on oil price, economy",
       "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Is Advanced Micro Devices Stock Outperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-outperforming-122944212.html",
+      "title": "Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/victorias-secret-stock-soars-nearly-130000704.html",
       "source": "Yahoo Finance"
     },
     {
@@ -45,6 +40,11 @@
     {
       "title": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
       "link": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
+      "source": "CNBC Business"
+    },
+    {
+      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
+      "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
       "source": "CNBC Business"
     }
   ],
