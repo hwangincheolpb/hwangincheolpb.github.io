@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-01",
+  "date_kr": "2026년 9월 1일",
+  "generated_at": "2026-09-01T06:17:11.089558+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 8월 28일 미국 증시 기준\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 케빈 워시 Fed 의장의 잭슨홀 발언 이후 금리 경계감이 커지며 미국 증시는 반도체 중심으로 약세를 보였습니다.  \n② 엔비디아(NVDA, -4.58%)는 AI 클라우드 업체와의 수익공유·신용지원 중단 보도, 마벨테크(MRVL, -10.28%)는 구글 AI 계약 매출 인식 지연 우려로 크게 밀렸습니다.  \n③ 반면 갭(GAP, +12.94%), 아마존(AMZN, +3.97%), 애플(AAPL, +1.63%), 메타(META, +1.21%)는 강세를 보이며 시장 하락 폭을 일부 제한했습니다.\n\n📊 주요 지수\n\n- 다우: 53,559.99 (-0.02%)\n- 나스닥: 26,402.42 (-0.52%)\n- S&P500: 7,711.76 (-0.25%)\n- MSCI 한국 ETF(EWY): 180.20 (-1.07%)\n- 달러인덱스: 99.70 (0.00%)\n- WTI: 83.40달러 (0.00%)\n- 미국 10년물 금리: 4.73%\n- VIX: 14.43 (-0.55%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Technology +8.2%, Energy +6.7%, Health Care +5.0% / 하위: Industrials -2.4%, Real Estate -2.4%, Utilities -5.5%",
+  "valuation_line": "S&P500 Fwd P/E 42.2배 · 美10년 3.68% · VIX 14.5",
+  "full_narrative": "시장 총평: 미국의 이란 로켓 발사대 타격과 이란의 요르단 미군 기지 공격 보도가 겹치며 WTI 유가가 3.5% 급등해 86달러선에 올라섰습니다. 인플레이션 우려가 재점화되며 10년물 금리도 4.76%로 상승했습니다. 이 여파로 다우 0.72%, S&P500 0.58%, 나스닥 0.64% 하락했고, 러셀2000은 1.92% 밀리며 중소형주 부진이 두드러졌습니다. 11개 업종 중 에너지와 테크만 오르는 방어적 흐름이었습니다.\n\n주요 종목: 테슬라가 5%대 상승하며 대형주 중 가장 강한 흐름을 보였습니다. 미즈호가 메모리 공급 부족을 근거로 반도체주 저평가 분석을 내놓으며 엔비디아·마이크론이 반등해 지수 낙폭을 제한했습니다. 엔비디아는 대만 미디어텍에 35억달러 투자를 발표하며 AI 협력을 확대했습니다. 반면 애플은 팀 쿡 퇴임과 앱스토어 책임자 사임 소식에 하락했고, 아마존은 FTC 소송 제기 보도에 약세를 보였습니다.\n\n투자 심리: 9월 FOMC를 2주 앞두고 워시 의장 지명자의 매파적 발언과 중동발 유가 상승이 겹치며 금리 인상 경계감이 높아졌습니다. 다만 인베스코 등 일각에서는 9월 인상 신호가 아직 명확하지 않다며 향후 CPI와 고용 지표가 관건이라고 보고 있습니다. 한국 증시는 삼성전자·SK하이닉스의 하루 1.5조원 규모 자사주 매입이 수급을 받치고 있습니다. 9월 초 외국인 순매도 강도 완화 여부와 SK하이닉스 180만원 돌파 여부가 추세 전환의 핵심 체크포인트입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 1일 미국 증시: 중동 충돌 격화에 유가·금리 급등, 3대 지수 하락",
+    "points": [
+      "미국의 이란 로켓 발사대 타격에 이란이 요르단 미군 기지 공격으로 맞서며 중동 정세가 악화됐습니다. 유가가 3.5% 급등했고 3대 지수는 일제히 하락했습니다.",
+      "잭슨홀 이후 연준 긴축 경계감이 커지며 10년물 금리가 4.76%까지 상승했습니다. 바클레이즈는 9월과 12월 금리 인상으로 전망을 수정했습니다.",
+      "테슬라가 5%대 급등하고 엔비디아·마이크론 등 반도체주가 반등하며 지수 낙폭을 제한했습니다. 반면 애플과 아마존은 개별 악재로 하락했습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
+      "link": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bessent pushes back on Druckenmiller critique of bond intervention",
+      "link": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Goldman Sachs sends blunt message on oil price, economy",
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Advanced Micro Devices Stock Outperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-outperforming-122944212.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
+      "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
+      "source": "CNBC Business"
+    },
+    {
+      "title": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
+      "link": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
+      "source": "CNBC Business"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-01",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.8,
+        "delta": 0.05,
+        "price": 260000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.56,
+        "delta": 0.04,
+        "price": 1674000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.18,
+        "delta": 0.16,
+        "price": 958.73,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
