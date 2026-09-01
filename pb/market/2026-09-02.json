@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-02",
+  "date_kr": "2026년 9월 2일",
+  "generated_at": "2026-09-02T06:17:12.944768+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 중동 충돌 재확산으로 유가와 금리가 동시에 오르며 시장은 방어적으로 움직였습니다.  \n② 테슬라(TSLA, +5.51%), 마이크론(MU, +2.77%), 엔비디아(NVDA, +1.48%)가 반등하며 지수 낙폭을 일부 줄였습니다.  \n③ 다만 10년물 금리 4.75%대와 WTI 86달러대는 성장주·중소형주 부담 요인이라, 오늘은 반도체 반등 지속성과 유가 민감 업종을 같이 점검할 필요가 있습니다.\n\n📊 주요 지수\n\n다우 53,185.90 (-0.70%)\n\n나스닥 26,370.89 (-0.12%)\n\nS&P500 7,686.14 (-0.33%)\n\nMSCI 한국 ETF(EWY) 180.86 (+0.37%)\n\n달러인덱스 99.42 (-0.28%)\n\nWTI 86.31달러 (+3.49%)\n\n미국 10년물 금리 4.75%\n\nVIX 14.92 (+3.40%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +7.4%, Technology +6.4%, Health Care +4.9% / 하위: Real Estate -2.1%, Industrials -2.6%, Utilities -4.8%",
+  "valuation_line": "S&P500 Fwd P/E 42.2배 · 美10년 3.73% · VIX 14.9",
+  "full_narrative": "시장 총평: 미국의 이란 혁명수비대 공습과 이란의 보복 선언, 호르무즈 해협 유조선 피격으로 중동 군사 충돌이 전면 확대되며 위험회피 심리가 시장을 지배했습니다. WTI는 5.2% 급등해 90달러를 넘어섰고, 11개 업종 중 에너지·유틸리티·헬스케어·필수소비재 4개만 오르는 전형적인 방어 장세였습니다. 유로존 물가 반등과 마이클 바 이사의 매파 발언까지 더해지며 10년물 금리가 4.8% 부근까지 오른 점도 지수를 눌렀습니다. VIX는 9.5% 뛴 16.34를 기록했습니다.\n\n주요 종목: 중국 CXMT의 HBM3E 소규모 생산 소식과 마이크론의 대만 인센티브 확대 보도에 마이크론, SK하이닉스 ADR, 샌디스크 등 메모리주에 매물이 쏟아졌습니다. 다만 짐 크레이머와 블랙록 등은 메모리 업종의 펀더멘털을 여전히 긍정적으로 평가했습니다. 모더나는 암 백신 기대와 업종 강세에 힘입어 9%대 급등했고, 노바티스도 다발성 경화증 임상 결과에 강세를 보였습니다. 애플은 새 CEO 취임 첫날 기대감에 상승했습니다. 델은 장 마감 후 AI 서버 호조로 예상을 웃도는 실적과 상향된 가이던스를 발표하며 시간외 급등했습니다.\n\n투자 심리: 잭슨홀 이후 매파 경계감에 지정학 리스크까지 겹치며 시장은 당분간 유가와 금리에 민감하게 반응할 전망입니다. 통계적으로 약한 9월 징크스와 이번 주 고용 지표 확인 심리로 관망세가 짙어질 수 있으나, JP모건과 LPL은 조정을 매수 기회로 보는 시각을 유지했습니다. MSCI 한국지수가 2.8% 하락하고 야간선물도 3.5% 밀린 만큼 한국 증시 역시 외국인 매도와 변동성 확대 부담이 커졌습니다. 유가·금리의 안정 여부와 8월 이후 이어진 종목 장세의 지속 여부를 함께 점검할 시점입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 2일 미국 증시: 중동 충돌 확산에 유가 90달러 돌파, 3대 지수 하락",
+    "points": [
+      "미국과 이란의 공격·보복이 격화되고 호르무즈 해협 유조선 피격까지 겹치며 WTI가 5.7% 급등해 90달러를 돌파했고, 3대 지수는 일제히 하락했습니다.",
+      "유가발 인플레이션 우려에 10년물 금리가 4.8%까지 올랐고, 연준 인사들의 매파 발언이 이어지며 9월 금리 인상 가능성이 부각됐습니다.",
+      "중국 CXMT의 HBM3E 생산 소식에 마이크론·SK하이닉스 ADR 등 메모리주가 밀렸습니다. 반면 모더나는 9%대 급등했고, 델은 AI 서버 호실적에 시간외 급등했습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
+      "link": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Silver prices today, Monday, August 31, 2026: Silver opens lower as rate-hike expectations rise",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-31-2026-silver-opens-lower-as-rate-hike-expectations-rise-125201881.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How one of the largest investors in student housing is playing this school year",
+      "link": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+      "source": "CNBC Business"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-02",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.81,
+        "delta": 0.01,
+        "price": 261000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.6,
+        "delta": 0.04,
+        "price": 1693000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.02,
+        "delta": -0.16,
+        "price": 933.44,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
