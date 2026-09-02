@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-03",
+  "date_kr": "2026년 9월 3일",
+  "generated_at": "2026-09-03T06:17:12.935221+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n오늘 미국 증시는 중동 충돌 확산과 WTI 90달러 돌파로 위험회피가 강해지며 3대 지수가 동반 하락했습니다.\n\n유가 급등이 인플레이션·금리 부담으로 이어지며 10년물 금리는 4.80% 부근까지 상승했고, VIX도 16.34로 뛰었습니다.\n\n메모리 쪽은 중국 CXMT의 HBM3E 소규모 생산 보도에 마이크론(MU, -2.64%)·샌디스크(SNDK, -1.90%)가 약세였지만, 델(DELL)의 AI 서버 수요와 가이던스 상향은 AI 인프라 수요가 여전히 살아있다는 신호로 볼 수 있습니다.\n\n📊 주요 지수\n- 다우 52,766.88 (-0.79%)\n- 나스닥 26,099.77 (-1.03%)\n- S&P500 7,631.47 (-0.71%)\n- MSCI 한국 ETF(EWY) 175.80 (-2.80%)\n- 달러인덱스 99.68 (+0.25%)\n- WTI 90.68달러 (+5.74%)\n- 미국 10년물 금리 4.80%\n- VIX 16.34 (+9.52%)",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +8.8%, Health Care +5.6%, Technology +4.7% / 하위: Real Estate -2.3%, Industrials -4.0%, Utilities -4.0%",
+  "valuation_line": "S&P500 Fwd P/E 41.7배 · 美10년 3.77% · VIX 16.3",
+  "full_narrative": "시장 총평: 9월 초 중동 지역의 군사적 긴장 고조로 유가와 국채 금리가 급등하며 증시에 부담을 주었으나, 최근 10년물 국채 금리가 4.78%까지 하락하며 매수세가 유입되었다. 미국 재무부의 채권 매입 정책과 예상을 하회한 8월 ADP 민간고용 지표 발표로 금리 인상 우려가 완화되었고, 이에 따라 변동성 지수(VIX)가 하락하며 시장 심리가 안정되는 양상이다.\n\n주요 종목: 델이 AI 서버 수주 잔고가 950억 달러에 달하는 호실적을 발표하며 시간 외 거래에서 급등했고, 기술주 반등의 선봉장이 되었다. 엔비디아와 마이크론, SK하이닉스 ADR 등 반도체주가 금리 안정화와 함께 상승세를 보였으며, 특히 마이크론은 메모리 공급 부족과 저평가 논리에 힘입어 증권사의 목표가 상향에도 양호한 반응을 보였다. 또한 애플은 새 CEO 임기 시작에 따른 기대감, 메타는 AI 수익화 잠재력에 대한 증권사 호평으로 각각 강세를 기록했다.\n\n투자 심리: 단기적으로 중동 정세와 연준의 금리 정책 사이에서 시장이 혼란을 겪고 있으나, 기업 실적이 견조하고 AI 관련 기업의 높은 이익 성장률이 증시 바닥을 지지한다는 평가다. 9월의 역사적 약세 징크스와 FOMC 회의 직전임을 고려해 일부 투자자는 경계심을 유지하고 있지만, 금리 급등세가 멈추고 유가 상승세가 주춤해지면서 단기 조정 국면을 넘어 다시 반등 모멘텀을 확보한 것으로 분석된다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 5일 미국 증시: 금리 안정세에 지수 반등, 델 및 반도체주 강세로 회복 모멘텀 확보",
+    "points": [
+      "중동 정세 불안으로 급등하던 유가와 국채 금리가 소폭 안정되며 시장 공포 심리가 가라앉았다.",
+      "AI 서버 수주 잔고 증가로 호실적을 낸 델이 기술주 반등을 주도하며 지수 상승을 견인했다.",
+      "엔비디아와 마이크론 등 반도체주가 실적 기대감에 동반 상승하며 섹터의 회복세가 확인되었다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
+      "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+      "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "USTR's Greer huddles with House Republicans amid Trump trade spats",
+      "link": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Fed's Barr open to rate hike if inflation does not moderate",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-barr-open-rate-hike-130644777.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Grand Canyon Education (LOPE): A Steady Cash-Generating Business Ignored in a Speculative Market",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/grand-canyon-education-lope-steady-130833049.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-03",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.61,
+        "delta": -0.2,
+        "price": 250500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.46,
+        "delta": -0.14,
+        "price": 1613000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.17,
+        "delta": 0.15,
+        "price": 956.08,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}

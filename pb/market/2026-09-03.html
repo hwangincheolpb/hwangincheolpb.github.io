@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>오늘의 시황 · 2026년 9월 3일 | 황인철 PB</title>
+<meta name="description" content="오늘의 미국 마감시황과 PB 코멘트" />
+<meta property="og:title" content="오늘의 시황 · 2026년 9월 3일" />
+<meta property="og:description" content="오늘의 미국 마감시황과 PB 코멘트" />
+<link rel="preconnect" href="https://cdn.jsdelivr.net" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+<style>
+  :root{
+    --bg:#08090b; --bg-2:#0c0e11; --surface:#13161b; --line:rgba(255,255,255,.09);--line-strong:rgba(255,255,255,.18);
+    --ink:#eef1f5; --ink-2:#a7afba; --ink-3:#6b7480; --gold:#2f6bff; --gold-soft:#6b93ff;
+    --up:#e5484d; --down:#3b9eff;
+    --mono:"SFMono-Regular",ui-monospace,Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);min-height:100vh;
+    font-family:"Pretendard Variable",Pretendard,-apple-system,system-ui,"Apple SD Gothic Neo",sans-serif;
+    letter-spacing:-.01em;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  a{color:inherit}
+  .bg{position:fixed;inset:0;z-index:0;
+    background:radial-gradient(620px 420px at 82% 4%,rgba(47,107,255,.16),transparent 70%),
+      radial-gradient(680px 500px at 3% 100%,rgba(107,147,255,.07),transparent 70%)}
+  .wrap{position:relative;z-index:1;width:100%;max-width:760px;margin:0 auto;padding:0 24px}
+  .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);font-weight:600}
+  header{padding:64px 0 26px}
+  header h1{font-size:clamp(30px,6vw,46px);font-weight:800;letter-spacing:-.03em;margin:14px 0 8px;line-height:1.05}
+  header .date{font-family:var(--mono);font-size:13px;color:var(--ink-3);letter-spacing:.06em}
+  .divider{height:1px;background:var(--line);margin:0 0 34px}
+
+  .dash{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:34px}
+  @media(max-width:640px){.dash{grid-template-columns:repeat(2,1fr)}}
+  .cell{border:1px solid var(--line);border-radius:13px;background:var(--surface);padding:14px 15px;display:flex;flex-direction:column;gap:5px}
+  .cell .nm{font-size:12px;color:var(--ink-3);font-weight:600;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .cell .vl{font-family:var(--mono);font-size:17px;font-weight:600;color:var(--ink)}
+  .cell .ch{font-family:var(--mono);font-size:12px;font-weight:600}
+  .up{color:#e5484d} .down{color:#3b9eff} .flat{color:var(--ink-3)}
+
+  .view{border:1px solid rgba(107,147,255,.38);border-radius:16px;background:linear-gradient(180deg,rgba(47,107,255,.09),transparent);
+    padding:24px 26px;margin-bottom:34px;position:relative}
+  .view::before{content:"";position:absolute;top:0;left:0;width:3px;height:100%;background:linear-gradient(180deg,var(--gold),transparent);border-radius:3px 0 0 3px}
+  .view .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:12px}
+  .view p{font-size:16.5px;line-height:1.7;color:var(--ink);white-space:pre-wrap}
+
+  .mkt{border:1px solid var(--line);border-radius:16px;background:var(--surface);padding:26px 28px;margin-bottom:30px}
+  .mkt .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3);margin-bottom:16px}
+  .mkt p{font-size:15.5px;line-height:1.72;color:var(--ink-2);margin:0 0 12px}
+  .mkt h3.mkt-h{font-size:14px;color:var(--gold-soft);margin:20px 0 8px;font-weight:700}
+  .mkt ul{list-style:none;margin:4px 0 8px}
+  .mkt li{font-size:15px;color:var(--ink-2);padding:5px 0 5px 16px;position:relative;line-height:1.5}
+  .mkt li::before{content:"—";position:absolute;left:0;color:var(--gold)}
+
+  .summary{border:1px solid var(--line-strong);border-radius:16px;background:var(--bg-2);padding:22px 24px;margin-bottom:14px}
+  .summary .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:14px}
+  .summary p{font-size:16px;line-height:1.65;color:var(--ink);margin:0 0 10px}
+  .summary p:last-child{margin-bottom:0}
+  .full{margin-bottom:34px}
+  .full p{font-size:15px;line-height:1.75;color:var(--ink-2);margin:0 0 16px}
+  .full h3.fh{font-size:13px;font-family:var(--mono);letter-spacing:.08em;color:var(--gold-soft);margin:0 0 7px;font-weight:700}
+  .issues h3.fh{font-family:"Pretendard Variable",Pretendard,sans-serif;font-size:17px;letter-spacing:-.02em;
+    color:var(--ink);margin:26px 0 10px;padding-left:12px;border-left:3px solid var(--gold)}
+  .issues h3.fh:first-child{margin-top:0}
+  .issues p b{color:var(--ink);font-weight:700}
+  .issues ul{list-style:none;margin:0 0 16px}
+  .issues li{font-size:14.5px;color:var(--ink-2);padding:4px 0 4px 16px;position:relative;line-height:1.6}
+  .issues li::before{content:"—";position:absolute;left:0;color:var(--gold)}
+
+  .kc{border:1px solid var(--line);border-radius:14px;background:var(--surface);padding:16px 16px 12px}
+  .kc-cap{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-top:8px;font-size:12.5px;color:var(--ink-3)}
+  .kc-cap b{color:var(--ink)}
+  .kc-trend{font-family:var(--mono);font-size:12px;font-weight:700}
+  .kc-events{display:flex;gap:12px;margin-top:12px;flex-wrap:wrap}
+  .kc-ev{flex:1;min-width:140px;padding:10px 12px;border-radius:8px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08)}
+  .kc-ev .ev-time{font-size:11px;color:var(--ink-2);margin-bottom:2px}
+  .kc-ev .ev-label{font-weight:700;font-size:13px;margin-bottom:4px}
+  .kc-ev .ev-detail{font-size:12px;color:var(--ink-2);line-height:1.5}
+  .kb{display:flex;align-items:flex-end;gap:14px;height:180px;padding-top:6px}
+  .kb-col{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%}
+  .kb-bar{width:100%;max-width:88px;border-radius:6px 6px 2px 2px;min-height:3px}
+  .kb-val{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--ink);margin-bottom:5px}
+  .kb-val.fc{color:var(--ink-2);font-weight:600}
+  .kb-lbl{font-size:12px;color:var(--ink-2);margin-top:7px;text-align:center}
+  .kb-unit{font-size:11.5px;color:var(--ink-3);margin-bottom:2px}
+  .ilist{list-style:none;display:flex;flex-direction:column;gap:8px;margin:0}
+  .ilist a.ilnk{display:flex;gap:12px;align-items:baseline;text-decoration:none;
+    border:1px solid var(--line);border-radius:12px;background:var(--surface);padding:14px 16px}
+  .ilist a.ilnk:hover{border-color:var(--line-strong)}
+  .ilist .n{font-family:var(--mono);font-size:12px;color:var(--gold);flex-shrink:0}
+  .ilist .t{flex:1;font-size:15px;color:var(--ink);line-height:1.5;font-weight:600}
+  .ilist .arw{color:var(--ink-3);font-size:13px;flex-shrink:0}
+  .iall{display:inline-block;margin-top:12px;font-size:13px;color:var(--gold);text-decoration:none}
+  .backlink{display:inline-block;margin-bottom:18px;font-size:13px;color:var(--gold);text-decoration:none}
+  .pt-head{font-size:15px;color:var(--ink);line-height:1.5;margin:0 0 14px;font-weight:600}
+  .pts{display:flex;flex-direction:column;gap:10px}
+  .pt{display:flex;gap:12px;align-items:flex-start;border:1px solid var(--line);border-radius:12px;background:var(--surface);padding:14px 16px}
+  .pt .pn{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--gold);flex-shrink:0;width:18px}
+  .pt p{font-size:14.5px;color:var(--ink-2);line-height:1.55;margin:0}
+
+  .ctx{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:34px}
+  .chip{font-family:var(--mono);font-size:12px;color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:8px 14px;background:var(--bg-2)}
+
+  .sec-lbl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3);margin:0 0 14px}
+  .sec{margin-bottom:34px}
+  .treemap{display:flex;flex-wrap:wrap;gap:5px;align-content:stretch}
+  .tmtile{border-radius:8px;padding:11px 12px;display:flex;flex-direction:column;justify-content:center;gap:3px;
+    border:1px solid rgba(255,255,255,.06);min-height:66px;overflow:hidden}
+  .tmtile.tmbig{min-height:104px}
+  .tmtile .tn{font-size:12px;font-weight:700;color:var(--ink);line-height:1.15;word-break:keep-all}
+  .tmtile.tmbig .tn{font-size:15px}
+  .tmtile .tp{font-family:var(--mono);font-size:13px;font-weight:700}
+  .tmtile.tmbig .tp{font-size:16px}
+
+  .usmap{position:relative;width:100%;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--bg-2)}
+  .usbox{position:absolute;border:1.5px solid var(--bg)}
+  .usstk{position:absolute;border:1px solid rgba(8,9,11,.55);display:flex;flex-direction:column;
+    justify-content:center;align-items:center;overflow:hidden;text-align:center}
+  .usstk .usn{font-size:14px;font-weight:800;color:#fff;line-height:1;text-shadow:0 1px 2px rgba(0,0,0,.6)}
+  .usstk .usn.sm{font-size:11px;font-weight:700}
+  .usstk .usp{font-family:var(--mono);font-size:12.5px;font-weight:700;color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.6);margin-top:2px}
+  .ushead{position:absolute;top:0;left:0;display:flex;align-items:center;gap:6px;padding:2px 7px;
+    background:rgba(8,9,11,.72);border-radius:0 0 7px 0;pointer-events:none}
+  .ushead .ush-n{font-size:12.5px;font-weight:800;color:var(--ink);letter-spacing:-.01em}
+  .ushead .usret{font-family:var(--mono);font-size:12px;font-weight:700}
+
+  .bond{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:12px}
+  .brow{border:1px solid var(--line);border-radius:11px;background:var(--surface);padding:12px;text-align:center}
+  .brow .bm{font-family:var(--mono);font-size:12px;color:var(--ink-3)}
+  .brow .by{font-family:var(--mono);font-size:17px;font-weight:700;color:var(--ink);margin:3px 0}
+  .brow .bd{font-family:var(--mono);font-size:11px}
+  .bsig{font-size:13px;color:var(--ink-2);background:var(--bg-2);border:1px solid var(--line);border-radius:10px;padding:11px 14px;margin-top:10px}
+  .bsig b{color:var(--gold-soft)}
+  .qtable{width:100%;border-collapse:collapse;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .qtable th{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);text-align:right;padding:9px 14px;background:var(--bg-2);font-weight:600}
+  .qtable th:first-child{text-align:left}
+  .qtable td{font-family:var(--mono);font-size:14px;padding:10px 14px;text-align:right;border-top:1px solid var(--line);color:var(--ink)}
+  .qtable td:first-child{text-align:left;font-weight:600;color:var(--ink-2)}
+  .qtable .ty{font-weight:700}
+  .qtable .td .up{color:var(--up)} .qtable .td .down{color:var(--down)} .qtable .td .flat{color:var(--ink-3)}
+  .qtable .en{text-align:left;font-family:"Pretendard Variable",Pretendard,sans-serif}
+  .qtable .en b{color:var(--ink);font-weight:700;font-size:13.5px}
+  .qtable .en .et{font-family:var(--mono);font-size:10.5px;color:var(--ink-3);margin-left:7px}
+  .qtable .ew{white-space:nowrap;font-family:"Pretendard Variable",Pretendard,sans-serif;font-size:13px;color:var(--ink-2)}
+  .bond-table th,.bond-table td{padding:6px 8px;font-size:13px}
+  .bond-table .td{white-space:nowrap}
+  @media(max-width:640px){.bond-table th,.bond-table td{padding:5px 5px;font-size:11.5px}}
+  .qgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+  .qgrid .qtable th,.qgrid .qtable td{padding:8px 9px}
+  .qgrid .qtable td{font-size:13px}
+  .qgrid .qtable td:first-child,.qgrid .qtable th:first-child{white-space:nowrap}
+  @media(max-width:640px){.qgrid{grid-template-columns:1fr}
+    .qgrid .qtable th,.qgrid .qtable td{padding:10px 14px}.qgrid .qtable td{font-size:14px}}
+
+  .news{list-style:none}
+  .news li{border-bottom:1px solid var(--line);padding:13px 0}
+  .news li:last-child{border-bottom:none}
+  .news a{display:flex;gap:10px;align-items:baseline;font-size:14.5px;color:var(--ink-2);line-height:1.5;transition:.15s}
+  .news a:hover{color:var(--ink)}
+  .news .src{font-family:var(--mono);font-size:10.5px;color:var(--gold);flex-shrink:0;letter-spacing:.04em}
+
+  .disc{font-size:12.5px;color:var(--ink-3);line-height:1.6;border-top:1px solid var(--line);padding-top:22px;margin-top:10px}
+  footer{padding:30px 0 60px;text-align:center;font-size:13px;color:var(--ink-3)}
+  footer a.home{color:var(--gold);text-decoration:none}
+  .reveal{opacity:0;transform:translateY(16px);animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes rise{to{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<div class="bg"></div>
+<div class="wrap">
+  <header class="reveal">
+    <span class="eyebrow">Market View · 황인철 PB</span>
+    <h1>오늘의 시황</h1>
+    <span class="date">2026년 9월 3일 · 신한투자증권 서울금융센터</span>
+  </header>
+  <div class="divider"></div>
+  
+  <div class="sec reveal"><div class="sec-lbl">오늘의 키 차트 · S&amp;P 500</div><div class="kc"><svg viewBox="0 0 700 200" preserveAspectRatio="none" style="width:100%;height:170px;display:block"><polyline fill="none" stroke="var(--ink-3)" stroke-width="1.4" stroke-dasharray="4 3" points="8.0,192.0 10.7,191.8 13.5,191.6 16.2,191.3 18.9,191.0 21.6,190.7 24.4,190.4 27.1,190.1 29.8,189.8 32.5,189.5 35.3,189.1 38.0,188.8 40.7,188.5 43.4,188.2 46.2,187.9 48.9,187.6 51.6,187.3 54.3,187.0 57.1,186.7 59.8,186.5 62.5,186.1 65.2,185.8 68.0,185.5 70.7,185.2 73.4,184.8 76.1,184.5 78.9,184.2 81.6,183.7 84.3,183.3 87.0,183.0 89.8,182.7 92.5,182.4 95.2,182.0 97.9,181.7 100.7,181.3 103.4,180.9 106.1,180.5 108.8,180.1 111.6,179.7 114.3,179.3 117.0,178.8 119.7,178.3 122.5,177.7 125.2,177.2 127.9,176.8 130.6,176.3 133.4,175.9 136.1,175.6 138.8,175.3 141.5,175.0 144.3,174.6 147.0,174.2 149.7,173.8 152.4,173.4 155.2,173.1 157.9,172.8 160.6,172.5 163.3,172.2 166.1,171.9 168.8,171.7 171.5,171.3 174.2,171.0 177.0,170.6 179.7,170.2 182.4,169.9 185.1,169.5 187.9,169.1 190.6,168.8 193.3,168.4 196.0,168.0 198.8,167.6 201.5,167.1 204.2,166.6 206.9,166.1 209.7,165.7 212.4,165.2 215.1,164.8 217.8,164.3 220.6,163.7 223.3,163.2 226.0,162.5 228.7,161.9 231.5,161.2 234.2,160.5 236.9,159.9 239.6,159.3 242.4,158.7 245.1,158.1 247.8,157.4 250.5,156.8 253.3,156.2 256.0,155.6 258.7,155.0 261.4,154.3 264.2,153.7 266.9,153.0 269.6,152.4 272.3,151.8 275.1,151.1 277.8,150.1 280.5,149.2 283.2,148.2 286.0,147.5 288.7,146.6 291.4,145.8 294.1,145.0 296.9,144.2 299.6,143.4 302.3,142.6 305.0,141.8 307.8,141.0 310.5,140.2 313.2,139.5 315.9,138.8 318.7,138.1 321.4,137.5 324.1,136.8 326.8,136.2 329.6,135.6 332.3,135.0 335.0,134.4 337.7,133.7 340.5,133.1 343.2,132.5 345.9,131.9 348.6,131.4 351.4,131.0 354.1,130.5 356.8,130.1 359.5,129.7 362.3,129.2 365.0,128.8 367.7,128.3 370.4,127.9 373.2,127.5 375.9,127.1 378.6,126.7 381.3,126.4 384.1,126.0 386.8,125.8 389.5,125.5 392.2,125.1 395.0,124.8 397.7,124.6 400.4,124.4 403.1,124.3 405.9,124.0 408.6,123.7 411.3,123.5 414.0,123.2 416.8,122.8 419.5,122.4 422.2,122.0 424.9,121.7 427.7,121.3 430.4,120.9 433.1,120.4 435.8,120.0 438.6,119.5 441.3,119.1 444.0,118.7 446.7,118.3 449.5,117.8 452.2,117.4 454.9,116.9 457.6,116.5 460.4,116.0 463.1,115.6 465.8,115.1 468.5,114.6 471.3,114.1 474.0,113.6 476.7,113.1 479.4,112.6 482.2,112.1 484.9,111.6 487.6,111.0 490.3,110.5 493.1,109.9 495.8,109.4 498.5,108.8 501.2,108.3 504.0,107.7 506.7,107.2 509.4,106.6 512.1,106.0 514.9,105.4 517.6,104.8 520.3,104.3 523.0,103.7 525.8,103.2 528.5,102.6 531.2,102.1 533.9,101.6 536.7,101.1 539.4,100.7 542.1,100.2 544.8,99.7 547.6,99.2 550.3,98.7 553.0,98.2 555.7,97.7 558.5,97.1 561.2,96.7 563.9,96.3 566.6,95.8 569.4,95.4 572.1,95.0 574.8,94.5 577.5,94.1 580.3,93.6 583.0,93.2 585.7,92.7 588.4,92.3 591.2,91.8 593.9,91.4 596.6,91.0 599.3,90.5 602.1,90.0 604.8,89.6 607.5,89.2 610.2,88.8 613.0,88.4 615.7,88.0 618.4,87.7 621.1,87.3 623.9,87.0 626.6,86.7 629.3,86.4 632.0,85.9 634.8,85.5 637.5,85.0 640.2,84.5 642.9,83.9 645.7,83.4 648.4,82.9 651.1,82.4 653.8,81.9 656.6,81.4 659.3,80.9 662.0,80.4 664.7,80.0 667.5,79.6 670.2,79.2 672.9,78.8 675.6,78.3 678.4,77.9 681.1,77.5 683.8,77.0 686.5,76.5 689.3,76.1 692.0,75.7"/><polyline fill="none" stroke="var(--gold)" stroke-width="2" points="8.0,141.9 10.7,146.4 13.5,143.1 16.2,137.7 18.9,139.8 21.6,138.4 24.4,136.7 27.1,134.7 29.8,129.2 32.5,129.5 35.3,126.4 38.0,127.3 40.7,127.9 43.4,124.7 46.2,121.5 48.9,118.6 51.6,122.2 54.3,124.1 57.1,127.5 59.8,123.6 62.5,121.8 65.2,119.1 68.0,116.8 70.7,116.4 73.4,116.3 76.1,113.9 78.9,116.5 81.6,112.6 84.3,114.4 87.0,132.7 89.8,122.5 92.5,123.5 95.2,120.8 97.9,125.0 100.7,121.5 103.4,114.4 106.1,114.4 108.8,118.0 111.6,114.1 114.3,108.8 117.0,100.4 119.7,98.8 122.5,98.9 125.2,105.7 127.9,103.9 130.6,102.7 133.4,110.8 136.1,108.3 138.8,115.9 141.5,115.0 144.3,104.7 147.0,103.3 149.7,102.8 152.4,114.2 155.2,114.5 157.9,120.7 160.6,126.2 163.3,123.7 166.1,134.1 168.8,127.6 171.5,117.4 174.2,111.3 177.0,106.7 179.7,103.0 182.4,106.7 185.1,105.0 187.9,103.0 190.6,102.2 193.3,100.9 196.0,103.3 198.8,103.9 201.5,99.3 204.2,97.8 206.9,105.2 209.7,106.3 212.4,107.9 215.1,115.8 217.8,110.4 220.6,104.5 223.3,100.1 226.0,96.9 228.7,94.7 231.5,94.9 234.2,97.3 236.9,98.3 239.6,103.4 242.4,102.1 245.1,97.7 247.8,93.4 250.5,95.8 253.3,95.8 256.0,91.3 258.7,90.2 261.4,91.5 264.2,95.3 266.9,93.5 269.6,93.9 272.3,108.2 275.1,100.4 277.8,96.6 280.5,96.4 283.2,92.9 286.0,90.1 288.7,90.1 291.4,91.0 294.1,94.0 296.9,90.3 299.6,96.1 302.3,99.7 305.0,108.1 307.8,94.7 310.5,91.4 313.2,93.7 315.9,93.8 318.7,104.6 321.4,104.3 324.1,103.6 326.8,99.8 329.6,101.7 332.3,97.0 335.0,104.1 337.7,98.9 340.5,93.3 343.2,97.0 345.9,100.0 348.6,99.8 351.4,106.3 354.1,101.0 356.8,104.9 359.5,113.9 362.3,108.3 365.0,109.8 367.7,110.3 370.4,120.7 373.2,124.7 375.9,118.0 378.6,116.3 381.3,125.5 384.1,127.3 386.8,137.3 389.5,129.8 392.2,132.3 395.0,128.7 397.7,140.2 400.4,151.1 403.1,153.6 405.9,135.1 408.6,130.4 411.3,129.7 414.0,126.7 416.8,126.2 419.5,109.6 422.2,105.5 424.9,106.2 427.7,99.3 430.4,91.2 433.1,85.6 435.8,83.8 438.6,75.3 441.3,77.0 444.0,81.5 446.7,74.1 449.5,77.1 452.2,71.4 454.9,70.5 457.6,74.0 460.4,74.3 463.1,67.0 465.8,64.9 468.5,67.8 471.3,62.0 474.0,51.4 476.7,54.2 479.4,48.0 482.2,46.6 484.9,47.8 487.6,43.5 490.3,37.8 493.1,47.1 495.8,47.6 498.5,52.5 501.2,44.6 504.0,43.3 506.7,40.6 509.4,36.0 512.1,35.9 514.9,31.5 517.6,29.9 520.3,27.9 523.0,26.9 525.8,32.5 528.5,29.5 531.2,49.5 533.9,47.3 536.7,49.2 539.4,61.2 542.1,48.5 544.8,44.8 547.6,32.5 550.3,36.8 553.0,45.9 555.7,37.8 558.5,40.6 561.2,51.4 563.9,52.1 566.6,52.2 569.4,52.5 572.1,43.9 574.8,38.0 577.5,39.6 580.3,39.6 583.0,34.2 585.7,37.5 588.4,39.6 591.2,33.5 593.9,30.4 596.6,36.4 599.3,33.5 602.1,30.7 604.8,34.5 607.5,42.1 610.2,43.6 613.0,37.0 615.7,38.0 618.4,47.1 621.1,46.7 623.9,46.6 626.6,45.0 629.3,56.3 632.0,44.1 634.8,38.9 637.5,27.9 640.2,14.2 642.9,15.5 645.7,16.9 648.4,12.1 651.1,12.6 653.8,15.1 656.6,13.1 659.3,8.0 662.0,9.3 664.7,13.4 667.5,18.7 670.2,17.1 672.9,23.8 675.6,20.5 678.4,22.6 681.1,20.2 683.8,20.3 686.5,14.8 689.3,19.3 692.0,24.8"/></svg><div class="kc-cap"><span>S&amp;P 500 <b>7,631</b> · 파란선=지수, 점선=200일 이동평균</span><span class="kc-trend up">200일선 위 (+7.1%)</span></div></div></div>
+  <div class="sec reveal"><div class="sec-lbl">오늘 일어난 일 · 핵심 3</div><p class="pt-head">2026년 9월 5일 미국 증시: 금리 안정세에 지수 반등, 델 및 반도체주 강세로 회복 모멘텀 확보</p><div class="pts">
+    <div class="pt"><span class="pn">1</span><p>중동 정세 불안으로 급등하던 유가와 국채 금리가 소폭 안정되며 시장 공포 심리가 가라앉았다.</p></div>
+    <div class="pt"><span class="pn">2</span><p>AI 서버 수주 잔고 증가로 호실적을 낸 델이 기술주 반등을 주도하며 지수 상승을 견인했다.</p></div>
+    <div class="pt"><span class="pn">3</span><p>엔비디아와 마이크론 등 반도체주가 실적 기대감에 동반 상승하며 섹터의 회복세가 확인되었다.</p></div>
+  </div></div>
+  
+  <div class="sec reveal"><div class="sec-lbl">미국 업종별 종목 맵 · 전일 (ADR 포함, 크기=시총)</div><div class="usmap" style="aspect-ratio:700/860"><div class="usbox" style="left:0.000%;top:0.000%;width:100.000%;height:41.600%">
+<div class="usstk" title="NVIDIA (반도체) · 미국 · 시총 $5,230B · +3.2%" style="left:0.00%;top:0.00%;width:44.79%;height:53.59%;background:rgba(229,72,77,0.44)"><span class="usn">NVDA</span><span class="usp">+3.2%</span></div>
+<div class="usstk" title="Apple (IT하드웨어) · 미국 · 시총 $4,530B · -0.1%" style="left:0.00%;top:53.59%;width:44.79%;height:46.41%;background:rgba(59,158,255,0.14)"><span class="usn">AAPL</span><span class="usp">-0.1%</span></div>
+<div class="usstk" title="Microsoft (소프트웨어) · 미국 · 시총 $3,110B · -0.8%" style="left:44.79%;top:0.00%;width:23.45%;height:60.86%;background:rgba(59,158,255,0.22)"><span class="usn">MSFT</span><span class="usp">-0.8%</span></div>
+<div class="usstk" title="TSMC (반도체) · 대만 · 시총 $2,000B · +0.4%" style="left:44.79%;top:60.86%;width:23.45%;height:39.14%;background:rgba(229,72,77,0.17)"><span class="usn">TSM</span><span class="usp">+0.4%</span></div>
+<div class="usstk" title="Broadcom (반도체) · 미국 · 시총 $1,900B · -0.7%" style="left:68.24%;top:0.00%;width:23.30%;height:37.43%;background:rgba(59,158,255,0.20)"><span class="usn">AVGO</span><span class="usp">-0.7%</span></div>
+<div class="usstk" title="ASML (반도체장비) · 네덜란드 · 시총 $690B · +1.0%" style="left:91.54%;top:0.00%;width:8.46%;height:37.43%;background:rgba(229,72,77,0.24)"><span class="usn">ASML</span><span class="usp">+1.0%</span></div>
+<div class="usstk" title="Oracle (소프트웨어) · 미국 · 시총 $650B · +3.1%" style="left:68.24%;top:37.43%;width:15.52%;height:19.22%;background:rgba(229,72,77,0.44)"><span class="usn">ORCL</span><span class="usp">+3.1%</span></div>
+<div class="usstk" title="Palantir (소프트웨어) · 미국 · 시총 $350B · -5.8%" style="left:83.76%;top:37.43%;width:8.36%;height:19.22%;background:rgba(59,158,255,0.69)"><span class="usn">PLTR</span><span class="usp">-5.8%</span></div>
+<div class="usstk" title="SAP (소프트웨어) · 독일 · 시총 $330B · -1.1%" style="left:92.12%;top:37.43%;width:7.88%;height:19.22%;background:rgba(59,158,255,0.24)"><span class="usn">SAP</span><span class="usp">-1.1%</span></div>
+<div class="usstk" title="Salesforce (소프트웨어) · 미국 · 시총 $280B · -0.5%" style="left:68.24%;top:56.65%;width:8.57%;height:14.99%;background:rgba(59,158,255,0.18)"><span class="usn">CRM</span><span class="usp">-0.5%</span></div>
+<div class="usstk" title="AMD (반도체) · 미국 · 시총 $280B · -0.6%" style="left:68.24%;top:71.63%;width:8.57%;height:14.99%;background:rgba(59,158,255,0.19)"><span class="usn">AMD</span><span class="usp">-0.6%</span></div>
+<div class="usstk" title="Cisco (네트워크) · 미국 · 시총 $250B · -0.3%" style="left:68.24%;top:86.62%;width:8.57%;height:13.38%;background:rgba(59,158,255,0.16)"><span class="usn">CSCO</span><span class="usp">-0.3%</span></div>
+<div class="usstk" title="IBM (IT서비스) · 미국 · 시총 $230B · +0.1%" style="left:76.82%;top:56.65%;width:6.88%;height:15.34%;background:rgba(229,72,77,0.15)"><span class="usn">IBM</span><span class="usp">+0.1%</span></div>
+<div class="usstk" title="Adobe (소프트웨어) · 미국 · 시총 $220B · -2.2%" style="left:76.82%;top:71.99%;width:6.88%;height:14.67%;background:rgba(59,158,255,0.35)"><span class="usn">ADBE</span><span class="usp">-2.2%</span></div>
+<div class="usstk" title="ServiceNow (소프트웨어) · 미국 · 시총 $200B · -4.3%" style="left:76.82%;top:86.66%;width:6.88%;height:13.34%;background:rgba(59,158,255,0.55)"><span class="usn">NOW</span><span class="usp">-4.3%</span></div>
+<div class="usstk" title="Micron (반도체) · 미국 · 시총 $200B · +2.4%" style="left:83.70%;top:56.65%;width:8.36%;height:10.98%;background:rgba(229,72,77,0.37)"><span class="usn">MU</span><span class="usp">+2.4%</span></div>
+<div class="usstk" title="Qualcomm (반도체) · 미국 · 시총 $190B · +2.0%" style="left:92.06%;top:56.65%;width:7.94%;height:10.98%;background:rgba(229,72,77,0.33)"><span class="usn">QCOM</span><span class="usp">+2.0%</span></div>
+<div class="usstk" title="Intuit (소프트웨어) · 미국 · 시총 $190B · -0.6%" style="left:83.70%;top:67.63%;width:5.63%;height:15.48%;background:rgba(59,158,255,0.19)"><span class="usn sm">INTU</span></div>
+<div class="usstk" title="Texas Instruments (반도체) · 미국 · 시총 $180B · +0.6%" style="left:89.33%;top:67.63%;width:5.34%;height:15.48%;background:rgba(229,72,77,0.19)"><span class="usn sm">TXN</span></div>
+<div class="usstk" title="Applied Materials (반도체장비) · 미국 · 시총 $180B · -0.8%" style="left:94.66%;top:67.63%;width:5.34%;height:15.48%;background:rgba(59,158,255,0.21)"><span class="usn sm">AMAT</span></div>
+<div class="usstk" title="Sony (전자) · 일본 · 시총 $160B · -0.6%" style="left:83.70%;top:83.11%;width:4.35%;height:16.89%;background:rgba(59,158,255,0.20)"><span class="usn sm">SONY</span></div>
+<div class="usstk" title="Lam Research (반도체장비) · 미국 · 시총 $160B · -0.6%" style="left:88.04%;top:83.11%;width:4.35%;height:16.89%;background:rgba(59,158,255,0.20)"><span class="usn sm">LRCX</span></div>
+<div class="usstk" title="Arm Holdings (반도체) · 영국 · 시총 $160B · +0.0%" style="left:92.39%;top:83.11%;width:7.61%;height:9.65%;background:rgba(229,72,77,0.14)"><span class="usn sm">ARM</span></div>
+<div class="usstk" title="Intel (반도체) · 미국 · 시총 $120B · +1.2%" style="left:92.39%;top:92.76%;width:7.61%;height:7.24%;background:rgba(229,72,77,0.25)"><span class="usn sm">INTC</span></div>
+<div class="ushead"><span class="ush-n">기술</span><span class="usret up">+0.6%</span></div>
+</div>
+<div class="usbox" style="left:0.000%;top:41.600%;width:52.599%;height:29.872%">
+<div class="usstk" title="Amazon (이커머스) · 미국 · 시총 $2,870B · +0.0%" style="left:0.00%;top:0.00%;width:34.87%;height:100.00%;background:rgba(229,72,77,0.14)"><span class="usn">AMZN</span><span class="usp">+0.0%</span></div>
+<div class="usstk" title="Tesla (전기차) · 미국 · 시총 $1,400B · +0.3%" style="left:34.87%;top:0.00%;width:37.99%;height:44.78%;background:rgba(229,72,77,0.16)"><span class="usn">TSLA</span><span class="usp">+0.3%</span></div>
+<div class="usstk" title="Walmart (유통) · 미국 · 시총 $1,000B · +0.2%" style="left:72.86%;top:0.00%;width:27.14%;height:44.78%;background:rgba(229,72,77,0.16)"><span class="usn">WMT</span><span class="usp">+0.2%</span></div>
+<div class="usstk" title="Costco (유통) · 미국 · 시총 $420B · -1.2%" style="left:34.87%;top:44.78%;width:17.60%;height:28.99%;background:rgba(59,158,255,0.26)"><span class="usn">COST</span><span class="usp">-1.2%</span></div>
+<div class="usstk" title="Home Depot (유통) · 미국 · 시총 $380B · -0.4%" style="left:34.87%;top:73.77%;width:17.60%;height:26.23%;background:rgba(59,158,255,0.18)"><span class="usn">HD</span><span class="usp">-0.4%</span></div>
+<div class="usstk" title="LVMH (명품) · 프랑스 · 시총 $330B · -0.9%" style="left:52.47%;top:44.78%;width:14.30%;height:28.04%;background:rgba(59,158,255,0.23)"><span class="usn">LVMUY</span><span class="usp">-0.9%</span></div>
+<div class="usstk" title="Alibaba (이커머스) · 중국 · 시총 $320B · -0.9%" style="left:52.47%;top:72.81%;width:14.30%;height:27.19%;background:rgba(59,158,255,0.23)"><span class="usn">BABA</span><span class="usp">-0.9%</span></div>
+<div class="usstk" title="Toyota (자동차) · 일본 · 시총 $280B · +0.1%" style="left:66.78%;top:44.78%;width:16.91%;height:20.11%;background:rgba(229,72,77,0.15)"><span class="usn">TM</span><span class="usp">+0.1%</span></div>
+<div class="usstk" title="Hermes (명품) · 프랑스 · 시총 $270B · -0.4%" style="left:83.69%;top:44.78%;width:16.31%;height:20.11%;background:rgba(59,158,255,0.17)"><span class="usn">HESAY</span><span class="usp">-0.4%</span></div>
+<div class="usstk" title="McDonald&#x27;s (외식) · 미국 · 시총 $220B · -0.1%" style="left:66.78%;top:64.89%;width:13.84%;height:19.31%;background:rgba(59,158,255,0.15)"><span class="usn">MCD</span><span class="usp">-0.1%</span></div>
+<div class="usstk" title="Uber (모빌리티) · 미국 · 시총 $180B · +1.6%" style="left:66.78%;top:84.20%;width:13.84%;height:15.80%;background:rgba(229,72,77,0.29)"><span class="usn">UBER</span><span class="usp">+1.6%</span></div>
+<div class="usstk" title="Shopify (이커머스) · 캐나다 · 시총 $180B · +1.5%" style="left:80.62%;top:64.89%;width:9.97%;height:21.94%;background:rgba(229,72,77,0.28)"><span class="usn sm">SHOP</span></div>
+<div class="usstk" title="Booking Holdings (여행) · 미국 · 시총 $170B · +2.0%" style="left:90.59%;top:64.89%;width:9.41%;height:21.94%;background:rgba(229,72,77,0.33)"><span class="usn sm">BKNG</span></div>
+<div class="usstk" title="Starbucks (외식) · 미국 · 시총 $110B · +0.5%" style="left:80.62%;top:86.83%;width:10.15%;height:13.17%;background:rgba(229,72,77,0.19)"><span class="usn sm">SBUX</span></div>
+<div class="usstk" title="Ferrari (자동차) · 이탈리아 · 시총 $100B · +0.7%" style="left:90.77%;top:86.83%;width:9.23%;height:13.17%;background:rgba(229,72,77,0.21)"><span class="usn sm">RACE</span></div>
+<div class="ushead"><span class="ush-n">경기소비</span><span class="usret up">+0.0%</span></div>
+</div>
+<div class="usbox" style="left:0.000%;top:71.471%;width:52.599%;height:28.529%">
+<div class="usstk" title="Alphabet (인터넷) · 미국 · 시총 $4,630B · +0.6%" style="left:0.00%;top:0.00%;width:58.91%;height:100.00%;background:rgba(229,72,77,0.20)"><span class="usn">GOOGL</span><span class="usp">+0.6%</span></div>
+<div class="usstk" title="Meta Platforms (인터넷) · 미국 · 시총 $1,700B · +2.5%" style="left:58.91%;top:0.00%;width:41.09%;height:52.63%;background:rgba(229,72,77,0.37)"><span class="usn">META</span><span class="usp">+2.5%</span></div>
+<div class="usstk" title="Netflix (미디어) · 미국 · 시총 $500B · +2.4%" style="left:58.91%;top:52.63%;width:19.88%;height:32.01%;background:rgba(229,72,77,0.36)"><span class="usn">NFLX</span><span class="usp">+2.4%</span></div>
+<div class="usstk" title="T-Mobile (통신) · 미국 · 시총 $240B · +2.8%" style="left:58.91%;top:84.64%;width:19.88%;height:15.36%;background:rgba(229,72,77,0.41)"><span class="usn">TMUS</span><span class="usp">+2.8%</span></div>
+<div class="usstk" title="Walt Disney (미디어) · 미국 · 시총 $200B · +1.7%" style="left:78.78%;top:52.63%;width:11.17%;height:22.78%;background:rgba(229,72,77,0.30)"><span class="usn sm">DIS</span></div>
+<div class="usstk" title="Verizon (통신) · 미국 · 시총 $180B · -0.2%" style="left:89.95%;top:52.63%;width:10.05%;height:22.78%;background:rgba(59,158,255,0.16)"><span class="usn sm">VZ</span></div>
+<div class="usstk" title="AT&amp;T (통신) · 미국 · 시총 $160B · -0.2%" style="left:78.78%;top:75.42%;width:8.28%;height:24.58%;background:rgba(59,158,255,0.16)"><span class="usn sm">T</span></div>
+<div class="usstk" title="Comcast (미디어) · 미국 · 시총 $130B · +1.9%" style="left:87.06%;top:75.42%;width:12.94%;height:12.78%;background:rgba(229,72,77,0.32)"><span class="usn sm">CMCSA</span></div>
+<div class="usstk" title="Prosus (인터넷) · 네덜란드 · 시총 $120B · -1.0%" style="left:87.06%;top:88.20%;width:12.94%;height:11.80%;background:rgba(59,158,255,0.24)"><span class="usn sm">PROSY</span></div>
+<div class="ushead"><span class="ush-n">커뮤니케이션</span><span class="usret up">+1.2%</span></div>
+</div>
+<div class="usbox" style="left:52.599%;top:41.600%;width:24.314%;height:34.235%">
+<div class="usstk" title="Eli Lilly (제약) · 미국 · 시총 $830B · +0.0%" style="left:0.00%;top:0.00%;width:67.48%;height:28.21%;background:rgba(229,72,77,0.14)"><span class="usn">LLY</span><span class="usp">+0.0%</span></div>
+<div class="usstk" title="Johnson &amp; Johnson (제약) · 미국 · 시총 $400B · +1.5%" style="left:67.48%;top:0.00%;width:32.52%;height:28.21%;background:rgba(229,72,77,0.28)"><span class="usn">JNJ</span><span class="usp">+1.5%</span></div>
+<div class="usstk" title="AbbVie (제약) · 미국 · 시총 $360B · +0.7%" style="left:0.00%;top:28.21%;width:35.64%;height:23.17%;background:rgba(229,72,77,0.20)"><span class="usn">ABBV</span><span class="usp">+0.7%</span></div>
+<div class="usstk" title="Roche (제약) · 스위스 · 시총 $330B · +1.3%" style="left:35.64%;top:28.21%;width:32.67%;height:23.17%;background:rgba(229,72,77,0.26)"><span class="usn">RHHBY</span><span class="usp">+1.3%</span></div>
+<div class="usstk" title="UnitedHealth (헬스케어) · 미국 · 시총 $320B · +0.8%" style="left:68.32%;top:28.21%;width:31.68%;height:23.17%;background:rgba(229,72,77,0.22)"><span class="usn">UNH</span><span class="usp">+0.8%</span></div>
+<div class="usstk" title="Novo Nordisk (제약) · 덴마크 · 시총 $300B · +3.7%" style="left:0.00%;top:51.38%;width:37.74%;height:18.23%;background:rgba(229,72,77,0.49)"><span class="usn">NVO</span><span class="usp">+3.7%</span></div>
+<div class="usstk" title="Merck (제약) · 미국 · 시총 $250B · +1.2%" style="left:0.00%;top:69.61%;width:37.74%;height:15.19%;background:rgba(229,72,77,0.25)"><span class="usn">MRK</span><span class="usp">+1.2%</span></div>
+<div class="usstk" title="Novartis (제약) · 스위스 · 시총 $250B · +0.8%" style="left:0.00%;top:84.81%;width:37.74%;height:15.19%;background:rgba(229,72,77,0.21)"><span class="usn">NVS</span><span class="usp">+0.8%</span></div>
+<div class="usstk" title="AstraZeneca (제약) · 영국 · 시총 $250B · -0.5%" style="left:37.74%;top:51.38%;width:33.12%;height:17.31%;background:rgba(59,158,255,0.19)"><span class="usn">AZN</span><span class="usp">-0.5%</span></div>
+<div class="usstk" title="Abbott (의료기기) · 미국 · 시총 $220B · +1.4%" style="left:70.86%;top:51.38%;width:29.14%;height:17.31%;background:rgba(229,72,77,0.27)"><span class="usn">ABT</span><span class="usp">+1.4%</span></div>
+<div class="usstk" title="Thermo Fisher (의료기기) · 미국 · 시총 $200B · +1.3%" style="left:37.74%;top:68.69%;width:28.57%;height:16.06%;background:rgba(229,72,77,0.27)"><span class="usn">TMO</span><span class="usp">+1.3%</span></div>
+<div class="usstk" title="Intuitive Surgical (의료기기) · 미국 · 시총 $190B · +0.7%" style="left:37.74%;top:84.75%;width:28.57%;height:15.25%;background:rgba(229,72,77,0.21)"><span class="usn">ISRG</span><span class="usp">+0.7%</span></div>
+<div class="usstk" title="Pfizer (제약) · 미국 · 시총 $160B · +1.6%" style="left:66.30%;top:68.69%;width:33.70%;height:10.89%;background:rgba(229,72,77,0.30)"><span class="usn sm">PFE</span></div>
+<div class="usstk" title="Amgen (제약) · 미국 · 시총 $160B · +1.1%" style="left:66.30%;top:79.58%;width:33.70%;height:10.89%;background:rgba(229,72,77,0.24)"><span class="usn sm">AMGN</span></div>
+<div class="usstk" title="Stryker (의료기기) · 미국 · 시총 $140B · -1.6%" style="left:66.30%;top:90.47%;width:33.70%;height:9.53%;background:rgba(59,158,255,0.30)"><span class="usn sm">SYK</span></div>
+<div class="ushead"><span class="ush-n">헬스케어</span><span class="usret up">+0.9%</span></div>
+</div>
+<div class="usbox" style="left:76.913%;top:41.600%;width:23.087%;height:34.235%">
+<div class="usstk" title="JPMorgan Chase (은행) · 미국 · 시총 $800B · +0.4%" style="left:0.00%;top:0.00%;width:55.56%;height:34.78%;background:rgba(229,72,77,0.17)"><span class="usn">JPM</span><span class="usp">+0.4%</span></div>
+<div class="usstk" title="Visa (결제) · 미국 · 시총 $640B · +1.5%" style="left:55.56%;top:0.00%;width:44.44%;height:34.78%;background:rgba(229,72,77,0.29)"><span class="usn">V</span><span class="usp">+1.5%</span></div>
+<div class="usstk" title="Mastercard (결제) · 미국 · 시총 $520B · +1.2%" style="left:0.00%;top:34.78%;width:60.47%;height:20.77%;background:rgba(229,72,77,0.25)"><span class="usn">MA</span><span class="usp">+1.2%</span></div>
+<div class="usstk" title="Bank of America (은행) · 미국 · 시총 $340B · +1.0%" style="left:60.47%;top:34.78%;width:39.53%;height:20.77%;background:rgba(229,72,77,0.23)"><span class="usn">BAC</span><span class="usp">+1.0%</span></div>
+<div class="usstk" title="Wells Fargo (은행) · 미국 · 시총 $260B · +2.6%" style="left:0.00%;top:55.56%;width:39.13%;height:16.05%;background:rgba(229,72,77,0.38)"><span class="usn">WFC</span><span class="usp">+2.6%</span></div>
+<div class="usstk" title="Morgan Stanley (은행) · 미국 · 시총 $230B · +0.4%" style="left:0.00%;top:71.60%;width:39.13%;height:14.20%;background:rgba(229,72,77,0.17)"><span class="usn">MS</span><span class="usp">+0.4%</span></div>
+<div class="usstk" title="Goldman Sachs (은행) · 미국 · 시총 $230B · +0.2%" style="left:0.00%;top:85.80%;width:39.13%;height:14.20%;background:rgba(229,72,77,0.16)"><span class="usn">GS</span><span class="usp">+0.2%</span></div>
+<div class="usstk" title="American Express (결제) · 미국 · 시총 $220B · +1.8%" style="left:39.13%;top:55.56%;width:31.88%;height:16.67%;background:rgba(229,72,77,0.31)"><span class="usn">AXP</span><span class="usp">+1.8%</span></div>
+<div class="usstk" title="HSBC (은행) · 영국 · 시총 $200B · +1.5%" style="left:71.01%;top:55.56%;width:28.99%;height:16.67%;background:rgba(229,72,77,0.28)"><span class="usn">HSBC</span><span class="usp">+1.5%</span></div>
+<div class="usstk" title="Blackstone (자산운용) · 미국 · 시총 $200B · +0.1%" style="left:39.13%;top:72.22%;width:33.04%;height:14.62%;background:rgba(229,72,77,0.15)"><span class="usn">BX</span><span class="usp">+0.1%</span></div>
+<div class="usstk" title="Royal Bank Canada (은행) · 캐나다 · 시총 $180B · +2.2%" style="left:39.13%;top:86.84%;width:33.04%;height:13.16%;background:rgba(229,72,77,0.34)"><span class="usn">RY</span><span class="usp">+2.2%</span></div>
+<div class="usstk" title="BlackRock (자산운용) · 미국 · 시총 $170B · -1.9%" style="left:72.17%;top:72.22%;width:27.83%;height:14.76%;background:rgba(59,158,255,0.32)"><span class="usn sm">BLK</span></div>
+<div class="usstk" title="Citigroup (은행) · 미국 · 시총 $150B · +1.4%" style="left:72.17%;top:86.98%;width:27.83%;height:13.02%;background:rgba(229,72,77,0.27)"><span class="usn sm">C</span></div>
+<div class="ushead"><span class="ush-n">금융</span><span class="usret up">+1.0%</span></div>
+</div>
+<div class="usbox" style="left:52.599%;top:75.834%;width:20.303%;height:24.166%">
+<div class="usstk" title="Berkshire Hathaway (복합) · 미국 · 시총 $1,050B · +0.6%" style="left:0.00%;top:0.00%;width:100.00%;height:42.68%;background:rgba(229,72,77,0.19)"><span class="usn">BRK-B</span><span class="usp">+0.6%</span></div>
+<div class="usstk" title="GE Aerospace (항공) · 미국 · 시총 $280B · -0.5%" style="left:0.00%;top:42.68%;width:34.04%;height:33.43%;background:rgba(59,158,255,0.19)"><span class="usn">GE</span><span class="usp">-0.5%</span></div>
+<div class="usstk" title="Caterpillar (기계) · 미국 · 시총 $200B · +1.7%" style="left:0.00%;top:76.12%;width:34.04%;height:23.88%;background:rgba(229,72,77,0.30)"><span class="usn">CAT</span><span class="usp">+1.7%</span></div>
+<div class="usstk" title="RTX (방산) · 미국 · 시총 $190B · -2.1%" style="left:34.04%;top:42.68%;width:32.98%;height:23.42%;background:rgba(59,158,255,0.34)"><span class="usn">RTX</span><span class="usp">-2.1%</span></div>
+<div class="usstk" title="Siemens (산업재) · 독일 · 시총 $190B · -1.2%" style="left:67.02%;top:42.68%;width:32.98%;height:23.42%;background:rgba(59,158,255,0.25)"><span class="usn">SIEGY</span><span class="usp">-1.2%</span></div>
+<div class="usstk" title="Boeing (항공) · 미국 · 시총 $140B · +1.6%" style="left:34.04%;top:66.10%;width:33.58%;height:16.95%;background:rgba(229,72,77,0.29)"><span class="usn sm">BA</span></div>
+<div class="usstk" title="Honeywell (산업재) · 미국 · 시총 $140B · -1.9%" style="left:34.04%;top:83.05%;width:33.58%;height:16.95%;background:rgba(59,158,255,0.32)"><span class="usn sm">HON</span></div>
+<div class="usstk" title="Union Pacific (운송) · 미국 · 시총 $140B · -0.3%" style="left:67.62%;top:66.10%;width:32.38%;height:17.58%;background:rgba(59,158,255,0.17)"><span class="usn">UNP</span><span class="usp">-0.3%</span></div>
+<div class="usstk" title="Deere (기계) · 미국 · 시총 $130B · +3.3%" style="left:67.62%;top:83.68%;width:32.38%;height:16.32%;background:rgba(229,72,77,0.45)"><span class="usn sm">DE</span></div>
+<div class="ushead"><span class="ush-n">산업재</span><span class="usret up">+0.1%</span></div>
+</div>
+<div class="usbox" style="left:72.902%;top:75.834%;width:27.098%;height:13.245%">
+<div class="usstk" title="Procter &amp; Gamble (소비재) · 미국 · 시총 $370B · +1.0%" style="left:0.00%;top:0.00%;width:41.61%;height:55.22%;background:rgba(229,72,77,0.23)"><span class="usn">PG</span><span class="usp">+1.0%</span></div>
+<div class="usstk" title="Coca-Cola (음료) · 미국 · 시총 $300B · +0.3%" style="left:0.00%;top:55.22%;width:41.61%;height:44.78%;background:rgba(229,72,77,0.17)"><span class="usn">KO</span><span class="usp">+0.3%</span></div>
+<div class="usstk" title="Nestle (소비재) · 스위스 · 시총 $280B · +0.1%" style="left:41.61%;top:0.00%;width:32.05%;height:54.26%;background:rgba(229,72,77,0.15)"><span class="usn">NSRGY</span><span class="usp">+0.1%</span></div>
+<div class="usstk" title="L&#x27;Oreal (소비재) · 프랑스 · 시총 $230B · +1.7%" style="left:73.67%;top:0.00%;width:26.33%;height:54.26%;background:rgba(229,72,77,0.31)"><span class="usn">LRLCY</span><span class="usp">+1.7%</span></div>
+<div class="usstk" title="Philip Morris (담배) · 미국 · 시총 $230B · +0.4%" style="left:41.61%;top:54.26%;width:31.23%;height:45.74%;background:rgba(229,72,77,0.18)"><span class="usn">PM</span><span class="usp">+0.4%</span></div>
+<div class="usstk" title="PepsiCo (음료) · 미국 · 시총 $200B · +0.5%" style="left:72.84%;top:54.26%;width:27.16%;height:45.74%;background:rgba(229,72,77,0.19)"><span class="usn">PEP</span><span class="usp">+0.5%</span></div>
+<div class="ushead"><span class="ush-n">필수소비</span><span class="usret up">+0.6%</span></div>
+</div>
+<div class="usbox" style="left:72.902%;top:89.080%;width:20.629%;height:10.920%">
+<div class="usstk" title="Exxon Mobil (에너지) · 미국 · 시총 $500B · -0.2%" style="left:0.00%;top:0.00%;width:42.37%;height:100.00%;background:rgba(59,158,255,0.16)"><span class="usn">XOM</span><span class="usp">-0.2%</span></div>
+<div class="usstk" title="Chevron (에너지) · 미국 · 시총 $300B · +0.3%" style="left:42.37%;top:0.00%;width:57.63%;height:44.12%;background:rgba(229,72,77,0.17)"><span class="usn">CVX</span><span class="usp">+0.3%</span></div>
+<div class="usstk" title="Shell (에너지) · 영국 · 시총 $230B · -0.8%" style="left:42.37%;top:44.12%;width:34.88%;height:55.88%;background:rgba(59,158,255,0.21)"><span class="usn">SHEL</span><span class="usp">-0.8%</span></div>
+<div class="usstk" title="TotalEnergies (에너지) · 프랑스 · 시총 $150B · -0.1%" style="left:77.25%;top:44.12%;width:22.75%;height:55.88%;background:rgba(59,158,255,0.15)"><span class="usn sm">TTE</span></div>
+<div class="ushead"><span class="ush-n">에너지</span><span class="usret down">-0.2%</span></div>
+</div>
+<div class="usbox" style="left:93.532%;top:89.080%;width:6.468%;height:10.920%">
+<div class="usstk" title="Linde (화학) · 미국 · 시총 $220B · +0.1%" style="left:0.00%;top:0.00%;width:100.00%;height:59.46%;background:rgba(229,72,77,0.15)"><span class="usn sm">LIN</span></div>
+<div class="usstk" title="BHP Group (광업) · 호주 · 시총 $150B · +0.7%" style="left:0.00%;top:59.46%;width:100.00%;height:40.54%;background:rgba(229,72,77,0.20)"><span class="usn sm">BHP</span></div>
+<div class="ushead"><span class="ush-n">소재</span><span class="usret up">+0.4%</span></div>
+</div></div></div>
+  <div class="sec reveal"><div class="sec-lbl">미국 지수 · 선물 · 상품 · 환율</div><div class="qgrid"><table class="qtable"><thead><tr><th>지수 마감</th><th>현재</th><th>Δ</th></tr></thead><tbody>
+    <tr><td>다우</td><td class="ty">53,061.95</td><td class="td"><span class="up">+0.56%</span></td></tr>
+    <tr><td>나스닥</td><td class="ty">26,217.83</td><td class="td"><span class="up">+0.45%</span></td></tr>
+    <tr><td>S&P 500</td><td class="ty">7,666.60</td><td class="td"><span class="up">+0.46%</span></td></tr>
+    <tr><td>한국 EWY</td><td class="ty">178.86</td><td class="td"><span class="up">+1.74%</span></td></tr>
+    <tr><td>VIX</td><td class="ty">15.20</td><td class="td"><span class="down">-6.98%</span></td></tr>
+  </tbody></table><table class="qtable"><thead><tr><th>지수선물</th><th>현재</th><th>Δ</th></tr></thead><tbody>
+    <tr><td>S&P 500</td><td class="ty">7,669.25</td><td class="td"><span class="up">+0.35%</span></td></tr>
+    <tr><td>나스닥100</td><td class="ty">29,141.00</td><td class="td"><span class="up">+0.05%</span></td></tr>
+    <tr><td>다우</td><td class="ty">53,136.00</td><td class="td"><span class="up">+0.58%</span></td></tr>
+    <tr><td>러셀2000</td><td class="ty">2,958.00</td><td class="td"><span class="up">+1.14%</span></td></tr>
+  </tbody></table><table class="qtable"><thead><tr><th>상품</th><th>현재</th><th>Δ</th></tr></thead><tbody>
+    <tr><td>WTI 원유</td><td class="ty">90.63</td><td class="td"><span class="up">+0.45%</span></td></tr>
+    <tr><td>금</td><td class="ty">4,434.3</td><td class="td"><span class="up">+0.86%</span></td></tr>
+    <tr><td>은</td><td class="ty">65.93</td><td class="td"><span class="up">+0.86%</span></td></tr>
+    <tr><td>천연가스</td><td class="ty">2.999</td><td class="td"><span class="up">+3.27%</span></td></tr>
+  </tbody></table><table class="qtable"><thead><tr><th>환율</th><th>현재</th><th>Δ</th></tr></thead><tbody>
+    <tr><td>EUR/USD</td><td class="ty">1.1592</td><td class="td"><span class="down">-0.01%</span></td></tr>
+    <tr><td>USD/JPY</td><td class="ty">158.65</td><td class="td"><span class="down">-0.93%</span></td></tr>
+    <tr><td>GBP/USD</td><td class="ty">1.3492</td><td class="td"><span class="down">-0.20%</span></td></tr>
+    <tr><td>달러인덱스</td><td class="ty">99.56</td><td class="td"><span class="down">-0.12%</span></td></tr>
+  </tbody></table></div></div>
+  <div class="sec reveal"><div class="sec-lbl">미국 국채 금리</div><table class="qtable bond-table"><thead><tr><th>만기</th><th>금리</th><th>Δ1일</th><th>Δ1주</th><th>Δ1개월</th><th>Δ1년</th></tr></thead><tbody>
+    <tr><td>3M</td><td class="ty">3.77%</td><td class="td"><span class="flat">+0</span></td><td class="td"><span class="up">+8</span></td><td class="td"><span class="up">+7</span></td><td class="td"><span class="down">-26</span></td></tr>
+    <tr><td>5Y</td><td class="ty">4.55%</td><td class="td"><span class="down">-1</span></td><td class="td"><span class="up">+17</span></td><td class="td"><span class="up">+15</span></td><td class="td"><span class="up">+81</span></td></tr>
+    <tr><td>10Y</td><td class="ty">4.80%</td><td class="td"><span class="flat">+0</span></td><td class="td"><span class="up">+13</span></td><td class="td"><span class="up">+11</span></td><td class="td"><span class="up">+52</span></td></tr>
+    <tr><td>30Y</td><td class="ty">5.27%</td><td class="td"><span class="down">-0</span></td><td class="td"><span class="up">+8</span></td><td class="td"><span class="up">+4</span></td><td class="td"><span class="up">+30</span></td></tr>
+  </tbody></table><div class="bsig">10년-3개월 스프레드 <b>+102bp</b> · 정상 (장기&gt;단기)</div></div>
+  <div class="sec reveal"><div class="sec-lbl">다가오는 어닝 · 주요 종목</div><table class="qtable"><thead><tr><th>날짜</th><th>종목</th><th>시점</th><th>EPS 예상</th></tr></thead><tbody>
+    <tr><td>9/8(화)</td><td class="en"><b>Oracle</b><span class="et">ORCL</span></td><td class="ew">미정</td><td class="ty">$1.40</td></tr>
+    <tr><td>9/10(목)</td><td class="en"><b>Adobe</b><span class="et">ADBE</span></td><td class="ew">장후</td><td class="ty">$4.86</td></tr>
+  </tbody></table></div>
+  <div class="sec full reveal"><div class="sec-lbl">상세 시황 · 전문</div><h3 class="fh">시장 총평</h3><p>9월 초 중동 지역의 군사적 긴장 고조로 유가와 국채 금리가 급등하며 증시에 부담을 주었으나, 최근 10년물 국채 금리가 4.78%까지 하락하며 매수세가 유입되었다. 미국 재무부의 채권 매입 정책과 예상을 하회한 8월 ADP 민간고용 지표 발표로 금리 인상 우려가 완화되었고, 이에 따라 변동성 지수(VIX)가 하락하며 시장 심리가 안정되는 양상이다.</p>
+    <h3 class="fh">주요 종목</h3><p>델이 AI 서버 수주 잔고가 950억 달러에 달하는 호실적을 발표하며 시간 외 거래에서 급등했고, 기술주 반등의 선봉장이 되었다. 엔비디아와 마이크론, SK하이닉스 ADR 등 반도체주가 금리 안정화와 함께 상승세를 보였으며, 특히 마이크론은 메모리 공급 부족과 저평가 논리에 힘입어 증권사의 목표가 상향에도 양호한 반응을 보였다. 또한 애플은 새 CEO 임기 시작에 따른 기대감, 메타는 AI 수익화 잠재력에 대한 증권사 호평으로 각각 강세를 기록했다.</p>
+    <h3 class="fh">투자 심리</h3><p>단기적으로 중동 정세와 연준의 금리 정책 사이에서 시장이 혼란을 겪고 있으나, 기업 실적이 견조하고 AI 관련 기업의 높은 이익 성장률이 증시 바닥을 지지한다는 평가다. 9월의 역사적 약세 징크스와 FOMC 회의 직전임을 고려해 일부 투자자는 경계심을 유지하고 있지만, 금리 급등세가 멈추고 유가 상승세가 주춤해지면서 단기 조정 국면을 넘어 다시 반등 모멘텀을 확보한 것으로 분석된다.</p></div>
+  <div class="sec reveal"><div class="sec-lbl">미국 증시 주요 뉴스</div><ul class="news">
+    <li><a href="https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html" target="_blank" rel="noopener"><span class="src">CNBC</span><span>Broadcom&#x27;s stock drops 5% as weak guidance overshadows earnings beat</span></a></li>
+    <li><a href="https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html" target="_blank" rel="noopener"><span class="src">CNBC</span><span>Microsoft to start disclosing Azure quarterly revenue as company consolidates business units</span></a></li>
+    <li><a href="https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html" target="_blank" rel="noopener"><span class="src">CNBC</span><span>USTR&#x27;s Greer huddles with House Republicans amid Trump trade spats</span></a></li>
+    <li><a href="https://finance.yahoo.com/economy/policy/articles/feds-barr-open-rate-hike-130644777.html" target="_blank" rel="noopener"><span class="src">Yahoo Finance</span><span>Fed&#x27;s Barr open to rate hike if inflation does not moderate</span></a></li>
+    <li><a href="https://finance.yahoo.com/markets/stocks/articles/grand-canyon-education-lope-steady-130833049.html" target="_blank" rel="noopener"><span class="src">Yahoo Finance</span><span>Grand Canyon Education (LOPE): A Steady Cash-Generating Business Ignored in a Speculative Market</span></a></li>
+  </ul></div>
+  <div class="disc">
+    본 자료는 시장 정보 제공을 목적으로 하며 특정 종목의 매매를 권유하는 것이 아닙니다.
+    투자의 최종 판단과 책임은 투자자 본인에게 있으며, 과거 성과가 미래 수익을 보장하지 않습니다.
+  </div>
+</div>
+<footer>
+  <a class="home" href="/pb/">← 황인철 · Private Banker</a>
+</footer>
+
+</body>
+</html>
