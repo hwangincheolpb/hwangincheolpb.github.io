@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-04",
+  "date_kr": "2026년 9월 4일",
+  "generated_at": "2026-09-04T06:17:11.261555+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 금리 급등 부담이 완화되고 8월 ADP 민간고용이 3.8만 명으로 예상 4.7만 명을 밑돌면서 시장은 반등했습니다.  \n② 델(DELL, +15.81%)은 AI 서버 수주잔고 950억 달러 이슈로 급등했고, 엔비디아(NVDA, +3.21%)·마이크론(MU, +2.43%)도 반도체 투자심리를 받쳤습니다.  \n③ 메타(META, +2.47%)까지 강세를 보이며 AI 인프라·반도체 중심의 기존 주도주 흐름은 아직 유효해 보입니다.\n\n📊 주요 지수\n\n- 다우 53,061.95 (+0.56%)\n- 나스닥 26,217.83 (+0.45%)\n- S&P500 7,666.60 (+0.46%)\n- MSCI 한국 ETF(EWY) 178.86 (+1.74%)\n- 달러인덱스 99.56 (-0.12%)\n- WTI 90.63달러 (+0.45%)\n- 미국 10년물 금리 4.78%\n- VIX 15.20 (-6.98%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +9.3%, Health Care +6.4%, Materials +5.0% / 하위: Real Estate -3.0%, Utilities -3.8%, Industrials -3.9%",
+  "valuation_line": "S&P500 Fwd P/E 41.7배 · 美10년 3.77% · VIX 15.2",
+  "full_narrative": "시장 총평: 다우 1.18%, S&P500 1.06%, 나스닥 1.40% 상승하며 3대 지수가 모두 반등했습니다. 7월까지 인플레이션 지속 시 금리 인상을 언급했던 월러 이사가 디스인플레이션 징후를 들어 현 금리 수준 지지로 입장을 바꿨습니다. 전일 윌리엄스 총재의 동결 시사 발언과 맞물리며 10년물 금리는 4.77%로 안정됐습니다. 엔화 강세로 일본발 미국 국채 매도 우려가 줄어든 점도 글로벌 금리 부담을 덜었습니다.\n\n주요 종목: 테슬라가 사이버캡 출시 행사와 프랑스 FSD 도로 테스트 소식에 5%대 오르며 대형주 상승을 주도했습니다. 팔란티어는 마이클 버리의 고평가 지적에도 7%대 급등했습니다. 브로드컴은 예상을 웃돈 실적에도 애매한 가이던스에 매물이 나왔으나, 바클레이즈와 미즈호 등 증권가는 AI 성장세를 근거로 목표가를 유지하거나 상향했습니다. 엔비디아는 오픈소스 AI 플랫폼 허깅페이스 인수로 하드웨어를 넘어 AI 전반으로의 확장을 예고했습니다. 마이크론은 중국 CXMT의 D램 점유율 확대 보도에 눌렸다가 강보합으로 마감했습니다.\n\n투자 심리: 금리 동결 기대에 VIX가 5.79% 하락한 14.32까지 내려오며 위험 선호가 살아났고, 금리 하락에 비트코인과 관련주도 급등했습니다. MSCI 한국지수가 0.95%, 야간선물이 1.85% 오르며 한국 증시도 반등이 기대됩니다. 전일 급락이 블록딜에 따른 수급 이슈로 확인된 만큼 과도한 우려는 완화될 전망입니다. 다만 중동 정세, 유가 90달러선, FOMC 전 고용 지표 확인 심리로 당분간 변동성이 이어질 수 있습니다. 기존 주도주와 정책·투자 관련주 중심의 종목 장세 대응이 유효해 보입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 4일 미국 증시: 월러의 비둘기 발언에 금리 하락, 3대 지수 일제히 상승",
+    "points": [
+      "매파로 분류되던 월러 연준 이사가 금리 동결을 시사했습니다. 국채 금리가 하락하고 9월 동결 확률이 50%까지 오르며 지수 상승을 이끌었습니다.",
+      "테슬라는 사이버캡 출시 행사 기대감에 5%대, 팔란티어는 7%대 급등했습니다. 반면 브로드컴은 호실적에도 가이던스 실망에 하락했습니다.",
+      "이란의 미군 기지 공격 등 중동 불안이 이어졌으나 유가 상승은 제한됐습니다. 여기에 엔화 강세가 더해지며 VIX가 14선으로 내려앉는 등 투자 심리가 빠르게 회복됐습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
+      "link": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Lululemon stock plunges 15% on disappointing earnings and outlook",
+      "link": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+      "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Is Prologis Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-stock-outperforming-p-500-131404123.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The private sector added 38,000 jobs last month, missing expectations, ADP says",
+      "link": "https://finance.yahoo.com/economy/article/the-private-sector-added-38000-jobs-last-month-missing-expectations-adp-says-123035565.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
+      "link": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
+      "source": "CNBC Business"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-04",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.6,
+        "delta": -0.01,
+        "price": 250000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.42,
+        "delta": -0.04,
+        "price": 1596000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.18,
+        "delta": 0.01,
+        "price": 958.16,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
