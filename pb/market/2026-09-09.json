@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-09",
+  "date_kr": "2026년 9월 9일",
+  "generated_at": "2026-09-09T06:17:11.137524+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 미국 증시는 노동절로 휴장했고, 직전 거래일은 고용 호조에 따른 금리 부담으로 3대 지수가 소폭 하락했습니다.\n② 다만 메모리 업황 기대가 강했습니다. 샌디스크(SNDK, +11.90%)와 마이크론(MU, +6.10%)이 급등하며 AI 인프라·메모리 중심 장세는 유지됐습니다.\n③ 이번 주는 CPI와 9월 FOMC 전까지 금리·유가 변동성을 보되, 반도체 주도 흐름이 꺾였는지보다 확산되는지를 점검할 구간입니다.\n\n📊 주요 지수\n\n다우 53,414.25 (-0.51%)\n나스닥 26,506.99 (-0.29%)\nS&P500 7,718.60 (-0.38%)\nMSCI 한국 ETF(EWY) 188.87 (+4.60%)\n달러인덱스 98.92 (-0.26%)\nWTI 92.70달러 (+1.33%)\n미국 10년물 금리 4.784%\nVIX 15.30 (+5.30%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +9.5%, Health Care +5.8%, Materials +0.8% / 하위: Real Estate -2.8%, Consumer Disc. -2.9%, Industrials -6.0%",
+  "valuation_line": "S&P500 Fwd P/E 41.4배 · 美10년 3.76% · VIX 15.3",
+  "full_narrative": "시장 총평: 후티 반군의 사우디 에너지 시설 공격과 이란 유조선 피격 소식에 브렌트유가 98달러 부근까지 오르며 중동발 인플레이션 우려가 시장을 압박했습니다. 여기에 캐나다가 미국산 치즈·목재에 관세를 부과하고 철강 관세를 50%로 인상하면서 무역 갈등까지 겹쳤습니다. 이에 에너지·유틸리티·부동산을 제외한 8개 업종이 하락했습니다. 구리 가격도 관세발 재고 부족으로 사상 최고치를 경신해 물가 자극 요인이 한층 늘었습니다.\n\n주요 종목: 반도체가 주도 업종으로 부각됐습니다. GPT-6 아스트라 출시로 AGI 시대 반도체 수요 확대 기대가 커진 가운데, 인텔은 10월 CPU 가격 인상 추진 소식까지 더해지며 9% 급등했습니다. 씨게이트와 AMD는 6% 안팎, SK하이닉스 ADR과 램리서치는 4%대 상승했습니다. 반면 세일즈포스·서비스나우 등 소프트웨어주는 아스트라발 사업 타격 우려에 약세를 보였고, 첫 폴더블폰 출시를 앞둔 애플도 소폭 하락했습니다.\n\n투자 심리: 실적보다 금리와 유가 뉴스에 민감한 국면입니다. CPI가 예상을 웃돌 경우 금리 인상 가능성이 부각될 수 있어 당분간 변동성에 유의해야 합니다. 다만 소시에테제네랄이 금리 인상 시 단기 조정 후 6개월 내 신고점 회복을 전망하는 등 조정 시 매수 의견도 이어지고 있습니다. 한국 증시는 MSCI 한국지수 0.55%, 야간선물 0.6% 상승으로 반도체 랠리의 온기가 이어질 전망입니다. SK하이닉스의 180만원 돌파와 안착 여부가 단기 방향을 가늠할 기준이 될 것으로 보입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 9일 미국 증시: 중동 불안과 미-캐나다 무역 갈등에 유가·금리 급등, 3대 지수 하락",
+    "points": [
+      "사우디 에너지 시설 피격과 이란 유조선 공격에 WTI가 94달러선까지 급등했습니다. 10년물 금리도 장중 4.8%를 넘어서며 다우가 1.18% 내리는 등 3대 지수가 일제히 하락했습니다.",
+      "오픈AI 아스트라가 촉발한 AI 수요 기대에 인텔 9%, 씨게이트·AMD 6%, SK하이닉스 ADR 4%대 상승 등 반도체주가 강세를 보이며 지수 낙폭을 제한했습니다.",
+      "CPI 발표를 앞두고 연준의 금리 인상 경계감이 높아진 가운데, 세일즈포스·서비스나우 등 소프트웨어주는 아스트라발 사업 타격 우려에 약세를 보였습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
+      "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
+      "link": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "This alternative energy stock is more popular than SpaceX in the options pits. Here's why",
+      "link": "https://www.cnbc.com/2026/09/08/bloom-energy-is-trading-more-options-than-spacex.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Is Emerson Electric Stock Outperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/emerson-electric-stock-outperforming-nasdaq-124025831.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Amazon Layoffs Continue: How to Play AMZN Stock Now in September 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-layoffs-continue-play-amzn-130002261.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-09",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.89,
+        "delta": 0.0,
+        "price": 269500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.79,
+        "delta": 0.02,
+        "price": 1793000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.45,
+        "delta": -0.11,
+        "price": 1000.26,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
