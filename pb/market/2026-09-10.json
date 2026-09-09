@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-10",
+  "date_kr": "2026년 9월 10일",
+  "generated_at": "2026-09-10T06:17:12.931794+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 미국장은 중동발 유가 급등과 미·캐나다 무역갈등, 10년물 금리 4.8% 근접 부담으로 3대 지수가 하락했습니다.  \n② 다만 AI 수요 기대와 CPU 가격 인상 이슈로 인텔(INTC, +9.05%), 씨게이트(STX, +6.49%), AMD(AMD, +5.90%), 램리서치(LRCX, +4.15%) 등 반도체가 강했습니다.  \n③ 반면 세일즈포스(CRM, -3.90%), 서비스나우(NOW, -4.99%) 등 소프트웨어는 AI 대체 우려로 약세였고, CPI 전까지는 유가·금리 변동성 점검이 필요합니다.\n\n📊 주요 지수\n\n다우 52,786.07 (-1.18%)\n\n나스닥 26,421.41 (-0.32%)\n\nS&P500 7,673.52 (-0.58%)\n\nMSCI 한국 ETF(EWY) 189.91 (+0.55%)\n\n달러인덱스 98.86 (-0.32%)\n\nWTI 94.25달러 (+3.03%)\n\n미국 10년물 금리 4.79%\n\nVIX 15.72 (+2.75%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +12.6%, Health Care +0.9%, Communication +0.2% / 하위: Real Estate -2.4%, Consumer Disc. -4.9%, Industrials -5.8%",
+  "valuation_line": "S&P500 Fwd P/E 41.4배 · 美10년 3.77% · VIX 15.7",
+  "full_narrative": "시장 총평: 중동 정세 악화로 유가와 국채 금리가 동반 급등하며 다우 0.77%, S&P500 0.48%, 나스닥 0.64% 하락했습니다. 11개 업종 가운데 에너지만 상승했습니다. 사우디 시설이 후티 공격을 받고 미국이 이란 유조선 5척을 파괴했다고 발표하는 등 확전 우려가 커지자, 삭소뱅크는 유가 100달러 돌파를 사태 장기화 신호로 해석했습니다. 재무부 바이백 규모가 기대치 100억달러에 못 미치는 60억달러로 발표됐고, 미국-캐나다 무역 갈등까지 겹치며 금리 상승 압력이 커졌습니다.\n\n주요 종목: SK하이닉스 ADR이 7% 급등하며 198달러를 돌파했고, 마이크론·마벨테크·AMD·샌디스크 등 메모리 반도체주가 동반 강세를 보이며 지수를 방어했습니다. UBS는 3분기 메모리 평균 판매가가 전분기 대비 20% 이상 오르고 D램·낸드 공급 부족이 이어질 것으로 전망했습니다. CLSA는 AMD 목표가를 575달러에서 710달러로 올렸습니다. 메타는 개인형 AI 에이전트 뮤즈의 초기 사용자 반응이 좋아 급등한 반면, 애플은 아이폰 신모델을 공개했음에도 발표 당일 하락 징크스대로 소폭 하락했습니다.\n\n투자 심리: VIX가 4.71% 오른 16.46을 기록했습니다. 오늘 밤부터 미국 물가 지표와 FOMC, 중동 정세가 겹치는 만큼 변동성이 커질 구간입니다. CPI가 예상을 크게 웃돌면 연속 금리 인상 구도가 부담이지만, 예상을 밑돌고 중동이 진정되면 분위기 반전도 가능합니다. 한국 증시는 야간선물이 0.35% 하락해 조정 출발이 예상되나, 반도체 업황 낙관론이 유효한 만큼 SK하이닉스 등 주도주 중심의 종목 장세가 이어질 전망입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 10일 미국 증시: 유가 100달러 돌파와 금리 급등에 하락, 반도체가 낙폭 방어",
+    "points": [
+      "사우디 에너지 시설 피격 등 중동 확전 우려에 브렌트유가 7월 이후 처음으로 100달러를 돌파했고, 3대 지수는 일제히 하락했습니다.",
+      "국채 바이백 규모에 대한 실망과 회사채 발행 집중이 겹치며 10년물 금리가 4.84%까지 급등해 금리 인상 경계감이 커졌습니다.",
+      "SK하이닉스 ADR이 7% 급등하며 198달러를 돌파하는 등 메모리 반도체주 강세가 지수 낙폭을 줄였습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Trump says oil and gas prices won't fall until 'right after' midterm election",
+      "link": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bessent’s political turn in GOP speech tests his bond-market credibility",
+      "link": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "DexCom Stock: Is DXCM Underperforming the Healthcare Sector?",
+      "link": "https://finance.yahoo.com/healthcare/articles/dexcom-stock-dxcm-underperforming-healthcare-123657602.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor",
+      "link": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-sept82026/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Sempra Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sempra-stock-underperforming-dow-123021118.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
+      "link": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
+      "source": "CNBC Business"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-10",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.9,
+        "delta": 0.01,
+        "price": 269500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.93,
+        "delta": 0.14,
+        "price": 1856000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.63,
+        "delta": 0.18,
+        "price": 1027.77,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
