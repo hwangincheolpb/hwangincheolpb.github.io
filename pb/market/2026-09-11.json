@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-11",
+  "date_kr": "2026년 9월 11일",
+  "generated_at": "2026-09-11T06:17:11.872301+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 9월 10일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 중동 확전 우려로 유가와 미국 10년물 금리가 동반 상승하며 위험자산 선호가 약해졌습니다.  \n② 다만 메모리 업황 기대가 이어지며 마이크론(MU, +2.75%), AMD(AMD, +3.04%), 마벨테크(MRVL, +4.26%), 샌디스크(SNDK, +1.51%) 등 반도체가 낙폭을 방어했습니다.  \n③ 오늘은 CPI·FOMC 경계와 중동 뉴스가 변동성 요인이고, 큰 그림에서는 메모리 중심 AI 인프라 뷰는 아직 유효해 보입니다.\n\n📊 주요 지수\n\n다우 52,380.66 (-0.77%)\n\n나스닥 26,253.34 (-0.64%)\n\nS&P500 7,636.36 (-0.48%)\n\nMSCI 한국(EWY) 190.78 (+0.46%)\n\n달러인덱스 98.77 (-0.02%)\n\nWTI 96.67달러 (+3.91%)\n\n미국 10년물 금리 4.85%\n\nVIX 16.46 (+4.71%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +13.6%, Health Care +0.5%, Technology -0.1% / 하위: Real Estate -3.5%, Consumer Disc. -6.2%, Industrials -7.2%",
+  "valuation_line": "S&P500 Fwd P/E 41.0배 · 美10년 3.81% · VIX 16.5",
+  "full_narrative": "시장 총평: 사우디 에너지 시설 피격에 이어 미국이 이란 유조선 파괴를 발표하는 등 중동 전선 확대 우려가 유가를 끌어올렸고, 3대 지수는 일제히 0.6% 안팎 하락했습니다. 유가 상승에 미-캐나다 무역 갈등, 재무부 바이백 규모에 대한 실망까지 겹치며 국채 금리가 급등했습니다. 11개 업종 중 에너지를 제외한 대부분이 약세였습니다. 오늘 밤 CPI를 시작으로 물가 지표 발표와 FOMC가 예정돼 있어, 시장은 금리 인상 가능성에 촉각을 곤두세우고 있습니다.\n\n주요 종목: SK하이닉스 ADR이 7% 급등한 가운데 마이크론, AMD, 마벨테크놀로지, 샌디스크 등 메모리 반도체주가 동반 강세를 보이며 지수를 방어했습니다. UBS는 D램·낸드 공급 부족이 2027년까지 이어질 것으로 전망했습니다. AMD CFO는 2030년 AI 시장이 2조달러 규모로 성장하는 슈퍼 사이클의 초입이라고 밝혔습니다. 메타는 개인형 AI 에이전트 '뮤즈'의 초기 사용자 반응이 좋다는 소식에 급등했습니다. 반면 애플은 아이폰 신모델 공개 당일 주가가 하락하는 징크스를 이어갔습니다.\n\n투자 심리: 유가 100달러 돌파와 금리 급등으로 VIX가 17선까지 오르며 단기 경계심리가 뚜렷해졌습니다. RBC 등 일부 기관은 중간선거 전 5~10% 조정 가능성을 경고했습니다. 다만 헤지펀드와 기관이 2주 연속 순매수를 이어가고 있고 실적 전망 상향 흐름도 유지되고 있어, 중기 낙관론은 여전히 유효합니다. 한국 증시는 반도체 업황 개선 기대가 유효합니다. 다만 오늘 선물·옵션 동시 만기와 KRX 반도체 지수 리밸런싱(SK하이닉스·삼성전자 매도 수급)이 겹치는 만큼 오후 수급 변동성에 유의할 필요가 있습니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 11일 미국 증시: 유가 급등·금리 상승에 3대 지수 하락, 반도체가 낙폭 방어",
+    "points": [
+      "중동 긴장 격화로 WTI 유가가 8% 넘게 급등해 배럴당 103달러를 돌파했고, 브렌트유도 100달러 선을 넘어섰습니다.",
+      "유가발 인플레이션 우려로 미국 10년물 금리가 4.94%까지 치솟았습니다. VIX도 8% 넘게 급등하며 경계감이 커졌습니다.",
+      "SK하이닉스 ADR이 7% 급등해 198달러를 돌파하는 등 메모리 반도체주 강세가 지수 낙폭을 제한했습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
+      "link": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles",
+      "link": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+      "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
+      "link": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
+      "source": "CNBC Business"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-11",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.89,
+        "delta": -0.01,
+        "price": 269000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.92,
+        "delta": -0.01,
+        "price": 1853000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.3,
+        "delta": -0.33,
+        "price": 977.41,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
