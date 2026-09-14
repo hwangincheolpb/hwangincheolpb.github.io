@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-15",
+  "date_kr": "2026년 9월 15일",
+  "generated_at": "2026-09-15T06:17:11.893772+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 8월 CPI가 예상에 부합하고 유가가 하락하면서, FOMC를 앞둔 물가·금리 부담이 일부 완화됐습니다.  \n② 델(DELL, +11.98%)은 AI 인프라 수혜 기대에 급등했고, 오라클(ORCL, -1.74%)은 클라우드 성장에도 차익실현으로 하락했습니다.  \n③ 애플(AAPL, +1.75%)은 폴더블폰 기대가 반영됐고, 엔비디아(NVDA, -0.03%)는 숨 고르기, 오클로(OKLO, -9.18%)는 주식 발행 부담으로 급락했습니다.\n\n📊 주요 지수\n\n- 다우 52,573.29 (+0.98%)\n- 나스닥 26,333.04 (+0.96%)\n- S&P500 7,656.98 (+0.86%)\n- MSCI 한국 ETF(EWY) 188.72 (+3.25%)\n- 달러인덱스 99.12 (+0.00%)\n- WTI 100.05달러\n- 미국 10년물 금리 4.97%\n- VIX 15.84 (-11.21%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +6.9%, Communication +1.2%, Technology +0.8% / 하위: Materials -4.3%, Consumer Disc. -5.3%, Industrials -7.2%",
+  "valuation_line": "S&P500 Fwd P/E 41.1배 · 美10년 3.91% · VIX 15.8",
+  "full_narrative": "시장 총평: AI 개발 속도 조절 논란에 유가·금리 상승이 겹치며 3대 지수가 일제히 하락했습니다. 다우 0.29%, S&P500 0.48%, 나스닥 0.56% 내렸고, 커뮤니케이션 서비스·헬스케어·필수소비재를 제외한 전 업종이 약세였습니다. 다만 장중 유가와 금리의 상승폭이 줄고 소프트웨어 대형주가 버티면서 낙폭은 제한적이었습니다.\n\n주요 종목: 아모데이 발언으로 촉발된 AI 속도조절 우려에 반도체 업종이 5% 이상 급락했습니다. 엔비디아는 앤트로픽·오픈AI 투자 지연에 따른 성장 둔화 우려까지 더해지며 하락했습니다. 반면 마이크로소프트·알파벳·메타 등 하이퍼스케일러는 기술 격차를 좁힐 기회라는 분석에 상승했고, AI 해킹 논란 속에 크라우드스트라이크·팔로알토 등 보안주도 강세를 보였습니다. 뱅크오브아메리카는 이번 논란을 \"일시적 소음\"으로 평가하며, 2030년까지 AI 자본지출 3조달러 전망과 반도체 강세 시각을 유지했습니다.\n\n투자 심리: 10년물 금리가 장중 5%를 터치하고 유가가 100달러대를 이어가는 가운데 FOMC 금리 인상 전망까지 더해지며 VIX가 8% 가까이 올랐습니다. MSCI 한국지수가 6.62% 급락하고 야간선물도 2.1% 하락해, 한국 증시는 반도체 중심의 하락 압력이 불가피해 보입니다. 다만 미국·일본 통화정책회의와 동시 만기가 겹친 주간인 만큼 뉴스에 대한 과잉 반응 성격이 커, 실적·정책·투자 관련주 중심으로 변동성을 활용하는 대응이 유효합니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 15일 미국 증시: AI 속도조절 논란에 반도체 급락, 3대 지수 하락",
+    "points": [
+      "아모데이의 AI 속도 조절론이 부각되며 반도체 업종 지수가 5% 이상 급락했고, 엔비디아 등 AI 하드웨어주가 약세를 주도했습니다.",
+      "미국 10년물 금리가 장중 5%에 도달하고 유가가 101달러 선을 유지하면서, 이번 주 FOMC 금리 인상은 기정사실로 받아들여지는 분위기입니다.",
+      "마이크로소프트·알파벳·메타 등 소프트웨어 대형주와 크라우드스트라이크 등 보안주가 강세를 보이며 지수 낙폭을 제한했습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+      "link": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "source": "CNBC Business"
+    },
+    {
+      "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+      "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+      "source": "CNBC Business"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-15",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.54,
+        "delta": -0.15,
+        "price": 249000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.6,
+        "delta": -0.25,
+        "price": 1697000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 5.92,
+        "delta": -0.33,
+        "price": 924.03,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
