@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-16",
+  "date_kr": "2026년 9월 16일",
+  "generated_at": "2026-09-16T06:17:12.888771+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약\n📅 2026년 9월 15일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① AI 개발 속도조절 논란에 금리·유가 부담이 겹치며 반도체가 크게 밀렸고, 3대 지수는 하락 마감했습니다.\n② 필라델피아반도체지수(-5.86%)와 엔비디아(NVDA, -3.36%)가 약세를 주도한 반면, 마이크로소프트(MSFT, +1.97%)·알파벳(GOOGL, +3.22%)·메타(META, +2.71%)는 강했습니다.\n③ 크라우드스트라이크(CRWD, +13.85%)·팔로알토(PANW, +13.09%) 등 보안주는 AI 리스크 수혜로 급등했고, 한국 증시는 반도체 중심 변동성 확대를 염두에 둘 필요가 있습니다.\n\n📊 주요 지수\n- 다우 52,421.20 (-0.29%)\n- 나스닥 26,186.41 (-0.56%)\n- S&P500 7,619.98 (-0.48%)\n- MSCI 한국 ETF(EWY) 176.22 (-6.62%)\n- 달러인덱스 99.45 (+0.33%)\n- WTI 101.89달러 (+1.84%)\n- 미국 10년물 금리 4.96%\n- VIX 17.10 (+7.95%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Energy +4.2%, Communication +1.9%, Health Care +0.2% / 하위: Real Estate -4.8%, Utilities -5.6%, Industrials -8.9%",
+  "valuation_line": "S&P500 Fwd P/E 40.9배 · 美10년 3.94% · VIX 17.1",
+  "full_narrative": "시장 총평: 리비아 시설경비대의 송유관 봉쇄와 사우디 홍해 안부항 원유 선적 중단 소식에 국제유가가 4%대 급등하며 증시 전반을 압박했습니다. 10년물 금리는 장중 2007년 이후 최고치인 5.0%에 도달했고, 이번 주 FOMC 금리 인상이 기정사실로 받아들여지며 에너지·소재를 제외한 9개 업종이 하락했습니다. 다만 금리가 5% 돌파 이후 정체된 점과 고점 인식 확산은 낙폭을 제한했습니다.\n\n주요 종목: AI 속도 조절 논란 속에서도 엔비디아와 메타가 소폭 상승했고, AMD, 마벨테크, ASML 등 반도체주가 반등했습니다. 미즈호는 반도체주 하락을 투자 기회로 평가했고, 뱅크오브아메리카는 2030년 반도체 산업 규모를 3.2조달러로 제시하며 성장 전망을 상향했습니다. 반면 시스코는 유상증자 보도에 매물이 출회됐고, 가상화폐 관련주는 글래리티 법안 통과 무산에 약세를 보였습니다. 보안 관련주는 강세를 이어갔습니다.\n\n투자 심리: FOMC와 미국 동시 만기가 겹친 주간으로, 뉴스에 대한 반응이 커질 수 있는 변동성 국면입니다. 다만 금리 인상은 이미 반영된 사안이고, 현재 인플레이션은 유가 등 공급 요인의 성격이 강해 추세 전환의 계기로 보기는 어렵다는 시각이 우세합니다. MSCI 한국지수는 0.15% 상승, 야간선물은 0.17% 하락해 한국 증시는 보합권 출발이 예상됩니다. 기존 주도주와 정책·투자 관련 종목군 중심의 대응이 유효해 보입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 16일 미국 증시: 유가 급등·금리 5% 도달, FOMC 앞둔 경계감에 하락",
+    "points": [
+      "리비아 송유관 가동 중단과 사우디 홍해 선적 차질로 국제유가가 4%대 급등해 105달러를 돌파하며 4개월 만에 최고치를 기록했습니다. 10년물 금리도 5.0%에 도달하며 3대 지수가 일제히 하락했습니다.",
+      "아모데이의 AI 속도 조절론 논란이 이어졌으나, 젠슨 황이 통제 불능 위험을 일축하고 뱅크오브아메리카가 반도체 산업 성장 전망을 상향하면서 엔비디아, AMD, ASML 등 반도체주는 반등했습니다.",
+      "시스코는 유상증자 보도에 하락했고, 가상화폐 관련주는 법안 통과 무산에 약세를 보였습니다. 반면 보안 관련주는 강세를 이어갔습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
+      "link": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Garmin Stock: Is GRMN Underperforming the Technology Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-stock-grmn-underperforming-technology-124945758.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-16",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.52,
+        "delta": -0.02,
+        "price": 248500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.59,
+        "delta": -0.01,
+        "price": 1690000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 5.94,
+        "delta": 0.02,
+        "price": 927.6,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
