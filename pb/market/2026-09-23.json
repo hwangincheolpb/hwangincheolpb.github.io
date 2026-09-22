@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-23",
+  "date_kr": "2026년 9월 23일",
+  "generated_at": "2026-09-23T06:17:08.304847+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 유가 하락과 10년물 금리 안정 속에 미국 3대 지수는 동반 상승했고, 특히 AI 관련주가 시장을 강하게 이끌었습니다.\n② 메타(META, +11.43%)의 AI 에이전트 ‘Muse’ 흥행 기대가 커지며 AMD(AMD, +9.95%), 인텔(INTC, +12.14%), 마이크론(MU, +2.77%) 등 반도체로 매수세가 확산됐습니다.\n③ 중동 외교 기대와 미중 대화 기대가 위험자산 선호를 키웠고, 국내 증시는 MSCI 한국 ETF(EWY, +4.33%) 강세를 감안하면 반도체·주도주 중심의 강세 출발이 예상됩니다.\n\n📊 주요 지수\n- 다우 52,048.83 (+0.71%)\n- 나스닥 27,122.09 (+2.26%)\n- S&P500 7,764.70 (+1.49%)\n- MSCI 한국(EWY) 189.16 (+4.33%)\n- 달러인덱스 100.40 (+0.18%)\n- WTI 95.49달러 (-4.80%)\n- 미국 10년물 금리 4.951%\n- VIX 14.87 (+0.41%)",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Technology +6.3%, Communication +3.0%, Energy -1.9% / 하위: Real Estate -5.5%, Industrials -5.7%, Materials -7.2%",
+  "valuation_line": "S&P500 Fwd P/E 40.9배 · 美10년 3.98% · VIX 14.9",
+  "full_narrative": "시장 총평: 유가와 금리가 동반 하락하고 기술주가 강세를 보이며 3대 지수가 모두 상승했습니다. 나스닥은 종가 기준 사상 최고치를 기록했습니다. 이란 대통령이 유엔 총회 참석을 확정하고 트럼프가 회동 가능성을 열어두며 대화 기대가 커졌고, 제프리스는 중동 긴장이 정점을 지났다고 평가했습니다. 미중 정상회담 일정이 확정되고 양국이 인공지능 대화 채널을 구축하기로 한 점도 관세 휴전 연장과 협력 기대를 키웠습니다.\n\n주요 종목: 메타의 에이전트 앱 뮤즈가 아이폰 앱 다운로드 1위에 오르며 메타가 12% 급등했습니다. 에이전트 시장 확대에 따른 반도체 수요 기대로 AMD와 인텔도 각각 10%, 12% 올랐습니다. 마벨과 램리서치 등 장비주가 동반 강세를 보였고, 마이크론은 2.7%, SK하이닉스 ADR은 0.7% 상승했습니다. 스티펠은 내년에도 공급 부족이 이어져 HBM4 가격이 크게 오를 것으로 전망했습니다. 반면 노보노디스크는 성장 전망 실망에, HP는 내년 PC 출하 전망 부진에 하락했습니다. 테슬라는 로드스터 예약 개시에 상승했고, 비트코인이 8만5천달러를 돌파하며 코인베이스 등 관련주가 강세를 보였습니다.\n\n투자 심리: 굴스비와 무살렘 등 연준 인사가 추가 인상 필요성을 언급해 단기 금리는 올랐으나, 유가 하락에 10년물 금리가 4.96%로 내려오며 부담이 완화됐습니다. 골드만삭스는 하이퍼스케일러 지출이 내년 1.4조달러에 이를 것으로 전망했고, 인공지능 속도 조절론은 공급 부족 서사로 전환됐습니다. MSCI 한국지수가 4.35%, 야간선물이 1.96% 오르며 국내 증시는 강세 출발이 예상됩니다. 금요일 매수로 돌아선 외국인 수급이 추세로 이어질지가 관건입니다. 코스피와 삼성전자, SK하이닉스가 박스 상단에 위치한 만큼, 미국 필라델피아 반도체 지수의 50일선 돌파 효과와 함께 주도주의 박스권 돌파 여부를 확인할 시점입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 22일 미국 증시: 유가 급락과 메타·AMD 등 AI주 급등에 나스닥 사상 최고치",
+    "points": [
+      "이란 대통령의 유엔 총회 참석과 미중 정상회담 일정 확정으로 중동 외교 해법 기대가 커지며 유가가 급락했습니다.",
+      "메타의 인공지능 에이전트 앱 뮤즈 흥행에 메타 12%, 인텔 12%, AMD 10% 급등했고, AMD는 시총 1조달러를 돌파했습니다.",
+      "연준 인사들의 추가 인상 발언에도 장기 금리는 하락했고, MSCI 한국지수가 4% 오르며 외국인 복귀 기대가 높아졌습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+      "link": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Interactive Brokers Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-stock-outperforming-p-124733322.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-23",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.92,
+        "delta": 0.03,
+        "price": 276500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.89,
+        "delta": -0.09,
+        "price": 1840000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.9,
+        "delta": 0.33,
+        "price": 1096.16,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
