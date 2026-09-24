@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-25",
+  "date_kr": "2026년 9월 25일",
+  "generated_at": "2026-09-25T06:17:10.501490+09:00",
+  "sihwang_body": "📈 미국 마감시황 요약  \n📅 2026년 9월 24일\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 유가와 금리가 다시 올라오면서 미국 증시는 3대 지수 모두 하락했습니다.  \n② 알파벳(GOOGL, -3.80%) 약세와 마이크론(MU, -2.22%)·엔비디아(NVDA, -1.47%) 등 AI 반도체 차익실현이 부담이었습니다.  \n③ 반면 마이크로소프트(MSFT, +0.52%), 메타(META, +1.02%), 테슬라(TSLA, +0.32%)는 선별적으로 버텼고, 국내 증시는 금리·유가·반도체 약세 영향을 확인할 필요가 있습니다.\n\n📊 주요 지수\n\n다우 51,511.59 (-0.68%)\n\n나스닥 26,936.04 (-1.13%)\n\nS&P 500 7,706.03 (-0.76%)\n\nMSCI 한국(EWY) 185.65 (-3.62%)\n\n달러인덱스 101.14 (+0.53%)\n\n국제유가(WTI) 92.71달러 (+2.42%)\n\n미국 10년물 금리 5.11%\n\n변동성(VIX) 15.18 (+6.83%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Technology +6.7%, Communication +1.4%, Energy -1.4% / 하위: Consumer Disc. -6.0%, Utilities -6.4%, Real Estate -6.4%",
+  "valuation_line": "S&P500 Fwd P/E 41.3배 · 美10년 4.03% · VIX 15.2",
+  "full_narrative": "시장 총평: 이란 대통령의 강경한 유엔 연설과 후티 반군의 사우디 정유시설 인근 공격 보도로 유가가 장중 5% 이상 급등했습니다. 이에 연동해 10년물 금리는 5.21%, 30년물은 5.49%까지 치솟으며 증시를 압박했습니다. 재무부 바이백 규모가 40억달러에 그쳐 개입 기대가 약했고, 전일 PMI 호조와 실업수당 청구 감소 등 강한 경기 지표가 인플레이션 우려를 자극한 점도 부담이었습니다. 다만 오후 들어 미국과 이란 고위급이 뉴욕에서 해협 재개방과 경제 봉쇄 해제를 놓고 단계적 합의를 시도한다는 로이터 보도가 나오면서 낙폭이 축소되었습니다. 다우는 0.31% 하락, 나스닥은 0.01% 상승으로 혼조 마감했습니다.\n\n주요 종목: 메타는 AI 에이전트 뮤즈와 연동되는 휴대 기기 '뮤즈 참'을 공개하며 매출 기대감에 4% 상승했습니다. 시티즌스는 뮤즈의 흥행을 챗GPT급 성과로 평가하며 목표주가를 885달러로 상향했습니다. 인텔 3.9%, 코어위브 3.7%, AMD 2.4%, 마이크론 0.8% 등 AI 관련주가 동반 상승했고, 아마존과 알파벳도 강세를 보였습니다. 반면 Arm은 CFO의 지분 매각 보도에 하락했습니다. 오라클은 뉴멕시코 데이터센터에 불가항력을 발동했다는 소식에 급락했으나, 일정 변경이 아닌 만약의 경우에 대비한 조치라는 해명이 나오면서 낙폭을 크게 줄였습니다.\n\n투자 심리: FedWatch 기준 10월 금리 인상 확률이 일주일 전 49%에서 75%를 넘어섰습니다. 비둘기파로 분류되는 윌리엄스 총재까지 연내 인상 가능성을 언급하면서 고금리 부담이 시장 심리를 짓누르고 있습니다. BoA는 연말 10년물 금리 전망을 5.0%로 상향했고, VIX도 15.67로 3% 이상 오르며 경계감이 커졌습니다. 다만 UBS는 인플레이션 충격이 성장을 훼손할 정도는 아니라며 증시 약세가 제한적일 것이라는 시각을 유지했습니다. 한국 증시는 MSCI 한국지수 1.68% 하락과 원/달러 환율 1,366원 급등이 부담 요인입니다. 코스피가 자사주 매입으로 박스권을 지탱하는 상황에서 외국인 매수가 추세로 이어지는지와 7,000선 안착 여부를 확인하며, 반도체와 기존 주도주 중심으로 대응하는 전략이 유효합니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 25일 미국 증시: 금리 급등에 밀렸다가 이란 협상 소식과 메타 강세로 혼조 마감",
+    "points": [
+      "미국 10년물 국채 금리가 5.21%로 2007년 이후 최고치를 기록하고 유가도 오르면서 3대 지수가 하락 출발했습니다.",
+      "오후 들어 미국과 이란이 뉴욕에서 호르무즈 해협 재개방을 논의 중이라는 보도에 낙폭을 줄이며 혼조로 마감했습니다.",
+      "메타가 뮤즈 연동 기기 공개로 4% 급등하며 지수를 방어했고, 인텔·코어위브·AMD 등 AI 관련주도 동반 강세를 보였습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Senate narrowly votes down resolution calling for end to Iran war",
+      "link": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-25",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 4.02,
+        "delta": 0.0,
+        "price": 285500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.94,
+        "delta": 0.0,
+        "price": 1862000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.79,
+        "delta": 0.05,
+        "price": 1080.53,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
