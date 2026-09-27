@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-28",
+  "date_kr": "2026년 9월 28일",
+  "generated_at": "2026-09-28T06:17:06.432065+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 미국 증시는 10년물 금리 5.21%와 WTI 94달러대 부담에 밀렸지만, 미국·이란 호르무즈 협상 보도 이후 낙폭을 줄이며 혼조 마감했습니다.  \n② 메타(META, +4.50%)가 AI 기기 기대감으로 강했고, 인텔(INTC, +3.91%)·코어위브(CRWV, +3.72%)·AMD(AMD, +2.38%) 등 AI 관련주도 지수를 방어했습니다.  \n③ 금리·유가 부담은 남아 있지만, AI 인프라 주도주는 여전히 버티는 흐름입니다. 반도체와 전력 인프라 중심 대응은 유지가 유효해 보입니다.\n\n📊 주요 지수\n\n다우 51,349.98 (-0.31%)\n\n나스닥 26,939.37 (+0.01%)\n\nS&P500 7,704.13 (-0.02%)\n\nMSCI 한국(EWY) 182.53 (-1.68%)\n\n달러인덱스 101.27 (+0.17%)\n\nWTI 94.76달러 (+2.82%)\n\n미국 10년물 금리 5.21%\n\nVIX 15.67 (+3.23%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Technology +8.1%, Energy +0.6%, Communication +0.1% / 하위: Materials -6.6%, Real Estate -7.6%, Utilities -8.1%",
+  "valuation_line": "S&P500 Fwd P/E 41.5배 · 美10년 4.07% · VIX 14.9",
+  "full_narrative": "시장 총평: 이번 주 증시를 짓눌렀던 요인은 유가와 금리였습니다. 이란 대통령의 강경 발언과 후티 반군의 사우디 정유시설 공격으로 10년물 금리가 2007년 이후 최고인 5.21%까지 치솟았으나, 이날 그 흐름이 되돌려졌습니다. 이란이 적대 행위를 중단하고 해협을 개방하기 위한 7일 계획을 제안했고, 트럼프 대통령도 \"잘 해낼 것\"이라며 낙관적 입장을 밝히자 유가가 하락했습니다. 경유 수출 금지 조치도 시행되지 않을 것으로 전해지며 안도감이 확산됐습니다. 미중 정상회담은 뚜렷한 성과 없이 현상 유지로 끝났지만, 양국이 AI 개발을 계속 추진한다는 점이 확인되면서 최근 제기된 AI 속도 조절론은 더욱 약해졌습니다.\n\n주요 종목: 메타는 뮤즈가 출시 12일 만에 챗GPT를 넘어서는 다운로드를 기록하며 키뱅크(900달러), 파이퍼샌들러(875달러) 등의 목표가 상향이 잇따랐습니다. 그러나 개인정보 보안 취약점 보도에 안전 경고 문구를 추가하면서 이날은 차익 매물이 출회됐습니다. 마이크로소프트는 코파일럿 신규 기능 공개에 강세를 보였고, 엔비디아는 머스크가 콜로서스2에 칩 투입을 늘리겠다고 언급하며 상승했습니다. 뮤즈 효과가 CPU 수요 기대로 확산되면서 AMD는 52주 신고가를 기록했고, 온세미컨덕터·마이크로칩·델도 동반 강세를 보였습니다. 다만 골드만삭스는 하이퍼스케일러가 손익분기를 맞추려면 수년 내 AI에서 3,000억달러 매출을 내야 한다며, 수주잔고 1.5조달러가 실제 매출로 전환되는지 확인해야 한다고 지적했습니다.\n\n투자 심리: 씨티는 9월 전통적 약세장에서도 미 증시가 유가·금리 부담을 잘 견뎠다며 조정 시 매수를 권고했고, 미국 다음 순위로 신흥 아시아를 추천했습니다. 반면 바클레이즈는 금리 상승으로 주식이 채권 대비 초과수익 임계점에 근접했다며 3분기 실적 시즌 전 변동성을 경고해 시각이 엇갈렸습니다. 모건스탠리도 고금리가 신용카드·자동차·모기지 부담으로 이어져 내년 실질 소비 성장이 둔화될 수 있다고 지적해 금리 경계감은 여전합니다. 한국 증시는 MSCI 한국지수 급등과 원화 강세가 맞물려 외국인 매수 유입에 우호적인 환경이 조성됐습니다. 8월 12일 이후 자사주 매입으로 버텨온 코스피 박스권에서 7,000포인트와 120일선 돌파·안착 여부가 이번 주 최대 관전 포인트입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 26일 미국 증시: 미-이란 협상 기대에 유가·금리 동반 하락, 3대 지수 상승",
+    "points": [
+      "이란이 호르무즈 해협 개방과 경제 봉쇄 해제를 단계적으로 논의한다는 소식에 WTI가 2% 넘게 하락했습니다. 10년물 금리도 5.16%대로 내려왔고, 다우가 0.9% 오르는 등 3대 지수가 일제히 상승했습니다.",
+      "뮤즈 돌풍으로 5주 연속 상승하며 시총 2조달러에 근접했던 메타는 보안 취약점 보도에 하락했습니다. 시총 상위 15개 종목 중 하락한 종목은 메타와 테슬라뿐이었습니다. 반면 AMD는 52주 신고가를 기록했고 엔비디아·마이크로소프트도 강세를 보이며 AI 주도주 순환이 이어졌습니다.",
+      "VIX는 5% 넘게 떨어져 14선까지 내려왔습니다. MSCI 한국지수가 2.55% 오르고 원/달러 환율도 1,355원으로 0.9% 하락하면서 한국 증시의 외국인 수급 회복 기대가 커졌습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Wall Street money takes back over from small investors as driving force of the stock market",
+      "link": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-28",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 4.0,
+        "delta": -0.02,
+        "price": 285500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.94,
+        "delta": 0.0,
+        "price": 1862000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.79,
+        "delta": 0.0,
+        "price": 1082.28,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
