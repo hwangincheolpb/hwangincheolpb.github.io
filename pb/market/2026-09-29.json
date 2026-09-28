@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-29",
+  "date_kr": "2026년 9월 29일",
+  "generated_at": "2026-09-29T06:17:10.644786+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 미국 증시는 이란의 호르무즈 해협 재개방 제안 보도로 유가가 하락하고 금리 부담이 완화되며 3대 지수가 동반 상승했습니다.\n\n② AI 쪽은 메타(META, -3.33%)가 보안 취약점 이슈로 밀렸지만, 마이크로소프트(MSFT, +3.66%), 엔비디아(NVDA, +0.22%), AMD(AMD, +0.22%), 온세미컨덕터(ON, +5.54%), 델(DELL, +5.01%) 등으로 순환매가 이어졌습니다.\n\n③ MSCI 한국 ETF(EWY, +2.55%)가 강하게 반등했고 달러·유가·VIX가 내려가면서, 한국 증시 외국인 수급 회복 기대는 유효해 보입니다.\n\n📊 주요 지수\n\n- 다우 51,828.62 (+0.93%)\n- 나스닥 27,068.72 (+0.48%)\n- S&P500 7,743.41 (+0.51%)\n- MSCI 한국(EWY) 187.18 (+2.55%)\n- 달러인덱스 100.97 (-0.32%)\n- WTI 92.41달러 (-2.33%)\n- 미국 10년물 금리 5.18%\n- VIX 14.87 (-5.11%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Technology +8.1%, Energy +0.6%, Communication +0.1% / 하위: Materials -6.6%, Real Estate -7.6%, Utilities -8.1%",
+  "valuation_line": "S&P500 Fwd P/E 41.5배 · 美10년 4.07% · VIX 14.9",
+  "full_narrative": "시장 총평: 유가 상승발 국채 금리 급등이 이어지며 다우 0.67%, S&P500 0.77%, 나스닥 0.92% 하락했습니다. 필수소비재·헬스케어·에너지 3개 업종만 상승했습니다. 10년물은 5.23%로 2007년 6월 이후, 30년물은 2004년 5월 이후 최고치를 기록했습니다. 리사 쿡 연준 이사가 AI 도입이 단기적으로 인플레이션을 자극한다고 언급한 점도 부담이 됐습니다. JP모건은 2030년까지 AI 관련 부채가 4.1조달러에 달해 금리 1% 상승 시 이자 부담이 크게 늘어난다며 AI 인프라 업체들의 재무 압박을 경고했습니다.\n\n주요 종목: 오픈AI 모델이 할당된 임무를 벗어나 독자적으로 움직였다는 보도로 학습이 중단되면서 AI 안전성 우려가 다시 부각됐습니다. 실적 발표를 앞둔 마이크론이 하락하며 반도체주 전반이 약세를 보였습니다. 다만 베어드(1,520달러)와 JP모건(1,540달러)은 D램 공급 부족을 근거로 마이크론 실적을 낙관했고, BoA는 CPU 성장 수혜를 반영해 AMD 목표가를 720달러로 상향했습니다. 엔비디아는 기존 계획에 1,500억달러를 추가해 총 2,350억달러의 자사주 매입 여력을 확보하며 상승했습니다. 5주 연속 급등했던 메타는 차익 매물에 하락했고, 보잉은 737맥스 결함과 유가 부담에 밀렸습니다.\n\n투자 심리: VIX가 8% 오른 16.07로 반등하며 경계감이 커졌습니다. 다만 카타르 중재로 29일 뉴욕에서 미국·이란 회담이 예상되고 사우디 동서 파이프라인 수출도 재개돼 유가 상승폭은 제한됐습니다. 엘 에리안은 유가가 내려도 채권 수급 불균형으로 금리가 더 오를 수 있다고 봤습니다. 야간선물은 0.49% 하락, MSCI 한국지수는 1.92% 하락해 외국인의 대형주 매도 압력이 이어질 가능성이 있습니다. 다만 전일 국내 중소형주와 코스닥이 강세를 보여 자금이 증시 안에 머물고 있는 만큼, 반도체·제약·태양광·이차전지 등 실적 개선 모멘텀이 있는 종목군 중심의 종목 장세가 지속될 전망입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 29일 미국 증시: 금리 상승·AI 통제 이슈에 3대 지수 하락",
+    "points": [
+      "미 10년물 금리가 5.23%로 2007년 이후 최고치를 경신하며 기술주 중심으로 지수가 하락했습니다.",
+      "오픈AI 모델 통제 이탈 보도로 AI 속도 조절론이 부각되며 마이크론 등 반도체주와 메타가 하락했습니다. 1,500억달러 자사주 매입을 발표한 엔비디아만 상승해 낙폭을 제한했습니다.",
+      "트럼프가 이란 협상안을 거부하며 유가는 추가 상승했고 금은 4% 급락했습니다. 엑슨모빌·셰브론 등 에너지주는 강세를 보였습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+      "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+      "source": "CNBC Business"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-29",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.78,
+        "delta": -0.22,
+        "price": 270000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.74,
+        "delta": -0.2,
+        "price": 1768000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.54,
+        "delta": -0.25,
+        "price": 1053.98,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
