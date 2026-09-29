@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-30",
+  "date_kr": "2026년 9월 30일",
+  "generated_at": "2026-09-30T06:17:06.338725+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 핵심은 유가 상승과 미 10년물 5.24% 재진입이 맞물리며 기술주 중심으로 부담이 커진 점입니다.  \n② 오픈AI 안전성 이슈로 AI 속도 조절 우려가 부각됐고, 마이크론(MU, -2.61%)·메타(META, -4.79%)가 약세였지만 엔비디아(NVDA, +1.68%)는 1,500억달러 추가 자사주 매입으로 방어했습니다.  \n③ 큰 AI 인프라 방향이 꺾였다기보다는 금리·유가 부담 속에서 반도체/전력/에너지 내부 로테이션 점검이 필요한 장세로 보입니다.\n\n📊 주요 지수\n\n다우 51,481.51 (-0.67%)\n\n나스닥 26,820.38 (-0.92%)\n\nS&P 500 7,683.69 (-0.77%)\n\nMSCI 한국(EWY) 183.58 (-1.92%)\n\n달러인덱스 101.20 (+0.22%)\n\n국제유가(WTI) 93.29달러 (+0.95%)\n\n미국 10년물 금리 5.24%\n\n변동성(VIX) 16.07 (+8.07%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Technology +4.9%, Health Care +0.4%, Energy -0.3% / 하위: Materials -6.5%, Consumer Disc. -6.8%, Utilities -7.5%",
+  "valuation_line": "S&P500 Fwd P/E 41.2배 · 美10년 4.06% · VIX 16.1",
+  "full_narrative": "시장 총평: 아람코가 얀부항을 통한 선적 일정을 고객사에 통보하고 호르무즈 해협 경유 수출도 늘면서, 9월 중동 원유 수출은 하루 1,633만 배럴로 미국-이란 전쟁 이후 최대치를 기록했습니다. 이에 유가는 급락했습니다. 그러나 인플레이션 압력과 파라마운트의 320억달러 회사채 발행 등 채권 공급 부담으로 10년물 금리는 5.25%까지 상승했습니다. 바 연준 이사가 추가 인상 필요성을 언급한 점도 부담으로 작용했습니다. 유틸리티 등 4개 업종만 오르고 에너지 등 7개 업종이 내리며 3대 지수는 소폭 하락 마감했습니다.\n\n주요 종목: 마이크론은 메모리 가격 상승으로 가이던스가 예상을 웃돌 것이라는 제이피모건의 전망(목표가 1,540달러)에 실적 기대가 더해지며 상승했습니다. 엔비디아는 대규모 자사주 매입에 긍정적 평가가 이어졌으나 주가는 소폭 하락했습니다. 메타는 뮤즈의 중소기업용 서비스 확대 보도에 올랐습니다. 상장을 준비 중인 앤트로픽의 투자설명서에서 시가총액 2조달러와 5,180억달러 규모의 인프라 투자 계획이 드러나며 인공지능 관련주 전반에 관심이 쏠렸습니다. 반면 애플은 뮤즈가 별도 앱 없이 작동해 앱스토어 이용자를 줄일 수 있다는 분석에 약세를 보였습니다. 테슬라는 제한속도 초과 주행 의혹으로 유럽 자율주행 승인이 지연된다는 보도에 하락했습니다.\n\n투자 심리: 변동성지수는 16선에서 안정을 유지했습니다. 다만 9월 컨퍼런스보드 소비자신뢰지수가 81.9로 예상치 89.2를 크게 밑돌아 소비 둔화 우려가 남아 있습니다. 목요일 마이크론 실적과 개인소비지출 물가 발표를 앞두고 변동성이 확대될 가능성도 큽니다. 국내 증시는 MSCI 한국지수가 1.90%, 야간선물이 0.95% 상승해 전일 과매도권에 진입한 코스피의 반등이 기대됩니다. 다만 분기 마지막 날 장 막판 리밸런싱으로 대형주 수급이 요동칠 수 있습니다. 반도체 실적 기대와 인공지능 관련 뉴스 증가 속에 종목 장세가 이어지는 환경인 만큼, 기존 주도주와 정책·투자 모멘텀이 있는 종목군 중심의 대응이 유효해 보입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 9월 30일 미국 증시: 유가 급락에도 금리 상승 부담에 3대 지수 소폭 하락",
+    "points": [
+      "중동 산유국의 원유 수출 증가와 이란 협상 진전 기대로 국제유가가 4% 가까이 급락했습니다. 그러나 10년물 국채 금리가 5.25%로 다시 오르며 지수를 압박했습니다.",
+      "마이크론이 실적 발표를 앞두고 메모리 가격 상승 기대에 강세를 보이며 반도체주가 지수 낙폭을 제한했습니다. 앤트로픽의 상장 설명서 공개로 인공지능 인프라 투자에도 관심이 집중됐습니다.",
+      "유가 하락에 카니발, 로얄캐리비안 등 여행주가 급등했습니다. 반면 애플은 메타 뮤즈의 앱스토어 잠식 우려로, 테슬라는 유럽 자율주행 승인 지연 보도로 하락했습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "30-year Treasury bond yield scales to highest level since 2002",
+      "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-09-30",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.82,
+        "delta": 0.04,
+        "price": 272500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.74,
+        "delta": 0.0,
+        "price": 1765000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.6,
+        "delta": 0.06,
+        "price": 1065.08,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
