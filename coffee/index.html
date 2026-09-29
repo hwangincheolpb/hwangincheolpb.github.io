@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>☕ 무료 음료 받기 · 신한 슈퍼SOL</title>
+<meta name="description" content="신한 슈퍼SOL 가입하면 무료 음료 — 앱 가입 1잔, 계좌 개설까지 하면 한 잔 더">
+<meta property="og:title" content="☕ 무료 음료 받는 법 · 신한 슈퍼SOL">
+<meta property="og:description" content="질문 2개 → 앱 가입 1잔 · 계좌 개설 +1잔">
+<style>
+  :root{ color-scheme: dark; }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+    background:
+      radial-gradient(120% 55% at 80% -5%, rgba(41,108,255,.55), transparent 55%),
+      linear-gradient(165deg,#0A1836 0%,#0E2A63 62%,#123A86 100%);
+    color:#fff; min-height:100dvh; -webkit-font-smoothing:antialiased;
+    display:flex; justify-content:center;
+  }
+  .wrap{ width:100%; max-width:440px; padding:36px 24px 40px; display:flex; flex-direction:column; }
+  .eyebrow{
+    text-align:center;font-size:14px;font-weight:800;letter-spacing:.02em;color:#0A1836;
+    background:#F5B841;align-self:center;padding:8px 18px;border-radius:999px;margin-bottom:14px;
+  }
+  h1{ text-align:center;font-size:22px;font-weight:800;letter-spacing:-.02em;margin-bottom:6px; }
+  .sub{ text-align:center;font-size:13px;color:#AEBCDD;margin-bottom:20px;line-height:1.5; }
+  .prog{ text-align:center;font-size:11.5px;font-weight:700;color:#7E8DB2;letter-spacing:.08em;margin-bottom:12px; }
+
+  .card{ display:none; }
+  .card.on{ display:block; animation:fade .25s ease; }
+  @keyframes fade{ from{opacity:0;transform:translateY(6px);} to{opacity:1;transform:none;} }
+
+  .q{ font-size:18px;font-weight:800;text-align:center;margin-bottom:16px;line-height:1.45; }
+  .q small{ display:block;font-size:12.5px;font-weight:500;color:#AEBCDD;margin-top:6px;line-height:1.5; }
+  .opts{ display:flex;flex-direction:column;gap:11px; }
+  button.opt{
+    width:100%;text-align:left;display:flex;align-items:center;gap:14px;cursor:pointer;
+    background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);
+    border-radius:16px;padding:17px 18px;color:#fff;font-size:15.5px;font-weight:700;
+    font-family:inherit;transition:transform .12s ease, background .12s ease;
+  }
+  button.opt:active{ transform:scale(.98);background:rgba(255,255,255,.12); }
+  button.opt .oe{ font-size:20px;flex:none; }
+  button.opt small{ display:block;font-size:12px;font-weight:400;color:#AEBCDD;margin-top:2px;line-height:1.4; }
+  .ghost{
+    background:none;border:none;color:#7E8DB2;font-size:13px;font-family:inherit;
+    margin:18px auto 0;display:block;cursor:pointer;text-decoration:underline;text-underline-offset:3px;
+  }
+
+  a.act{
+    display:flex;align-items:center;gap:15px;text-decoration:none;color:#fff;
+    background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);
+    border-radius:18px;padding:18px 20px;margin-bottom:12px;
+    transition:transform .12s ease;
+  }
+  a.act:active{ transform:scale(.98); }
+  a.act.primary{ background:linear-gradient(100deg,rgba(245,184,65,.22),rgba(245,184,65,.09));border-color:rgba(245,184,65,.5); }
+  .ic{ width:44px;height:44px;flex:none;border-radius:12px;background:rgba(28,92,255,.25);
+    display:flex;align-items:center;justify-content:center;font-size:19px;font-weight:800; }
+  .act.primary .ic{ background:rgba(245,184,65,.22); }
+  .bt b{ display:block;font-size:16px;font-weight:700;letter-spacing:-.01em; }
+  .bt span{ display:block;font-size:12.5px;color:#AEBCDD;margin-top:2px;line-height:1.45; }
+  .arw{ margin-left:auto;font-size:20px;color:#7E8DB2;flex:none; }
+
+  .gain{
+    background:rgba(245,184,65,.1);border:1px solid rgba(245,184,65,.3);
+    border-radius:16px;padding:15px 17px;margin-bottom:16px;
+  }
+  .gain h3{ font-size:13px;color:#FFD277;margin-bottom:9px;font-weight:800; }
+  .gain ul{ list-style:none; }
+  .gain li{ font-size:13.5px;line-height:1.75;color:#FFE9C4;display:flex;gap:8px; }
+  .gain li b{ color:#FFD277; }
+  .tip{ font-size:12px;color:#AEBCDD;margin-top:9px;line-height:1.55;border-top:1px solid rgba(245,184,65,.18);padding-top:9px; }
+
+  .last{
+    display:flex;align-items:center;gap:15px;
+    background:rgba(255,255,255,.07);border:1px dashed rgba(255,255,255,.3);
+    border-radius:18px;padding:18px 20px;margin-bottom:12px;
+  }
+  .pin{
+    margin-top:14px;background:rgba(245,184,65,.12);border:1px solid rgba(245,184,65,.35);
+    border-radius:14px;padding:14px 16px;font-size:13.5px;line-height:1.55;color:#FFE1A0;text-align:center;font-weight:600;
+  }
+  .cond{
+    margin-top:14px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);
+    border-radius:14px;padding:13px 16px;font-size:11.5px;line-height:1.65;color:#AEBCDD;
+  }
+  .foot{ margin-top:20px;text-align:center;font-size:11.5px;line-height:1.6;color:#7E8DB2; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="eyebrow" id="eyebrow">☕ 신한 슈퍼SOL × 카페 이벤트</div>
+  <h1 id="h1">무료 음료, 3분이면 받아요</h1>
+  <div class="sub" id="sub">앱 가입 1잔 · 계좌 개설까지 하면 한 잔 더 — 질문 2개만 답해주세요</div>
+
+  <!-- Q1 은행 -->
+  <div class="card on" id="q1">
+    <div class="prog">질문 1 / 2</div>
+    <div class="q">신한 슈퍼SOL(구 SOL뱅크) 앱,<br>써보신 적 있나요?</div>
+    <div class="opts">
+      <button class="opt" onclick="ans('bank','new')"><span class="oe">🆕</span><span>아니요, 처음이에요</span></button>
+      <button class="opt" onclick="ans('bank','old')"><span class="oe">✅</span><span>네, 써봤어요 <small>예전에 SOL뱅크 가입만 했던 것도 포함돼요</small></span></button>
+      <button class="opt" onclick="ans('bank','unknown')"><span class="oe">🤔</span><span>잘 모르겠어요 <small>30초 본인인증으로 정확히 확인할 수 있어요</small></span></button>
+    </div>
+  </div>
+
+  <!-- Q2 증권 -->
+  <div class="card" id="q2">
+    <div class="prog">질문 2 / 2</div>
+    <div class="q">신한투자증권 계좌가 있나요?<small>오래전에 만들어둔 것도 포함이에요</small></div>
+    <div class="opts">
+      <button class="opt" onclick="ans('sec','new')"><span class="oe">🆕</span><span>아니요, 없어요</span></button>
+      <button class="opt" onclick="ans('sec','old')"><span class="oe">✅</span><span>네, 있어요</span></button>
+      <button class="opt" onclick="ans('sec','unknown')"><span class="oe">🤔</span><span>잘 모르겠어요 <small>개설 과정에서 자동으로 걸러줘요 — '없어요'처럼 진행하면 돼요</small></span></button>
+    </div>
+    <button class="ghost" onclick="back()">← 이전 질문</button>
+  </div>
+
+  <!-- 은행 모르겠음: 본인인증 확인 -->
+  <div class="card" id="check">
+    <div class="q">30초 본인인증으로<br>정확히 확인해드려요<small>'이벤트 신청하기' → 본인인증을 하면<br>신규 가입 대상인지 그 자리에서 알려줘요</small></div>
+    <a class="act primary" href="https://open.shinhansec.com/m/event2/260422_superSol_mo/event.jsp" target="_blank" rel="noopener noreferrer">
+      <span class="ic">🔍</span>
+      <span class="bt"><b>가입 대상 확인하기</b><span>본인인증 → 대상 여부 즉시 안내 (이벤트 신청도 같이 완료!)</span></span>
+      <span class="arw">→</span>
+    </a>
+    <div class="q" style="font-size:14px;margin:18px 0 12px;">확인 결과가 어떻게 나왔나요?</div>
+    <div class="opts">
+      <button class="opt" onclick="ans('bank','new')"><span class="oe">🆕</span><span>신규 가입 대상이래요</span></button>
+      <button class="opt" onclick="ans('bank','old')"><span class="oe">✅</span><span>이미 가입 이력이 있대요</span></button>
+    </div>
+    <button class="ghost" onclick="back()">← 처음으로</button>
+  </div>
+
+  <!-- 결과 -->
+  <div class="card" id="result">
+    <div class="q" id="rTitle"></div>
+    <div class="gain" id="rGain"></div>
+    <div id="rActs"></div>
+    <div class="last" id="rLast">
+      <span class="ic" id="rLastIc">☕</span>
+      <span class="bt" id="rLastTxt"><b>마지막! 카운터에 완료 화면 보여주기</b><span>이름·연락처 남겨주시면 확인 후 무료 음료 쿠폰을 문자로 드려요</span></span>
+    </div>
+    <div class="pin" id="rPin">⭐ 가입/개설 중간에 <b>권유직원 → 황인철(214175)</b> 꼭 확인해주세요! 비어있으면 '황인철'로 검색해 넣으시면 됩니다 🙏</div>
+    <button class="ghost" onclick="back()">← 처음부터 다시</button>
+  </div>
+
+  <div class="cond">
+    <b>가입 대상</b> · 만 14세 이상 중 아래 하나에 해당<br>
+    – 기존 신한 SOL뱅크 가입 이력이 없는 분 (2018.2.22 이후 로그인 수단 설정 이력 없음)<br>
+    – 2026.5.31 이전에 기존 SOL뱅크를 정식 탈퇴하신 분 (단순 앱 삭제 제외)<br>
+    ※ 계좌 개설은 만 19세 이상 · 투자쿠폰은 증권 신규·휴면 고객 대상
+  </div>
+
+  <div class="foot">신한 슈퍼SOL 출시 이벤트 · ~2026.9.30<br>계좌는 안 쓰셔도 유지 부담 없어요 · 투자 전 상품설명서·약관 확인, 원금손실 가능<br>신한투자증권 황인철</div>
+</div>
+
+<script>
+const LINKS = {
+  check: "https://open.shinhansec.com/m/event2/260422_superSol_mo/event.jsp",
+  app:   "https://SNRyhPIaqEWCErBZXy2iWA.adtouch.adbrix.io/api/v1/click/y9XvBoqAIEqatgehUbiJhg?deeplink_custom_path=supersol%3A%2F%2FCO0605H0011F01%3Fgroup%3DS011%26hwno%3D214175",
+  acct:  "https://nssol.shinhan.com/link.html?pr_id=PR1002S0011F01&prdGubun=1&prdCode=110007801&group=S011&hwno=214175"
+};
+
+// 카페 버전: 음료 보상 티어 — 앱 가입 1잔, 계좌 개설 +1잔 (변경 시 여기만 수정)
+const DRINK = { app: 1, acct: 1 };
+
+const st = { bank:null, sec:null };
+
+function show(id){
+  document.querySelectorAll('.card').forEach(c=>c.classList.remove('on'));
+  document.getElementById(id).classList.add('on');
+  window.scrollTo({top:0});
+}
+function back(){ st.bank=null; st.sec=null; show('q1'); }
+
+function ans(k,v){
+  st[k]=v;
+  if(k==='bank'){
+    if(v==='unknown'){ show('check'); return; }
+    show('q2'); return;
+  }
+  render();
+}
+
+function actBtn(href, ic, title, sub, primary){
+  return `<a class="act${primary?' primary':''}" href="${href}" target="_blank" rel="noopener noreferrer">
+    <span class="ic">${ic}</span><span class="bt"><b>${title}</b><span>${sub}</span></span><span class="arw">→</span></a>`;
+}
+
+function render(){
+  const bank=st.bank, sec=(st.sec==='unknown')?'new':st.sec;
+  const T=document.getElementById('rTitle'), G=document.getElementById('rGain'), A=document.getElementById('rActs');
+  const last=document.getElementById('rLast'), pin=document.getElementById('rPin');
+  last.style.display='flex'; pin.style.display='block';
+
+  const cups = n => `<li>☕ <span>무료 음료 <b>${n}잔</b>${n>1?' (앱 1잔 + 계좌 1잔)':''}</span></li>`;
+
+  if(bank==='new' && sec==='new'){
+    T.innerHTML = "음료 2잔 코스예요 🎉<small>앱 가입 + 계좌 개설, 혜택도 전부 받아요</small>";
+    G.innerHTML = `<h3>받는 것 전부 — 혜택 2.8만원 + 음료 2잔</h3><ul>
+      ${cups(DRINK.app + DRINK.acct)}
+      <li>📱 <span>앱 가입 → 웰컴포인트 <b>5,000P</b> (선착순 30만명)</span></li>
+      <li>💰 <span>계좌 개설 → 투자쿠폰 <b>2만원</b> 즉시 지급</span></li>
+      <li>🎁 <span>마이신한포인트 <b>3천~100만원</b> 랜덤</span></li></ul>
+      <div class="tip">💡 계좌 개설 후 '이벤트 신청' 버튼까지 눌러야 쿠폰이 지급돼요</div>`;
+    A.innerHTML = actBtn(LINKS.app,'1','슈퍼SOL 앱 설치·가입','은행 · 가입 중 권유직원 확인!',true)
+                + actBtn(LINKS.acct,'2','SOL LINK 계좌 개설','증권 · 앱 가입 후 이어서 (만 19세 이상)',false)
+                + actBtn(LINKS.check,'3','이벤트 신청하기','본인인증 · 이거 눌러야 혜택이 지급돼요',false);
+  } else if(bank==='new' && sec==='old'){
+    T.innerHTML = "앱 가입만 하면 돼요 📱<small>증권 계좌는 이미 있으니 앱 혜택 + 음료 1잔</small>";
+    G.innerHTML = `<h3>받는 것</h3><ul>
+      ${cups(DRINK.app)}
+      <li>📱 <span>앱 가입 → 웰컴포인트 <b>5,000P</b> (선착순 30만명)</span></li></ul>`;
+    A.innerHTML = actBtn(LINKS.app,'1','슈퍼SOL 앱 설치·가입','가입 중 권유직원 확인!',true)
+                + actBtn(LINKS.check,'2','이벤트 신청하기','본인인증 · 이거 눌러야 혜택이 지급돼요',false);
+  } else if(bank==='old' && sec==='new'){
+    T.innerHTML = "계좌 개설 코스예요 💳<small>앱은 이미 쓰고 계시니 SOL LINK 계좌만 열면 돼요</small>";
+    G.innerHTML = `<h3>받는 것</h3><ul>
+      ${cups(DRINK.acct)}
+      <li>💰 <span>계좌 개설 → 투자쿠폰 <b>2만원</b> 즉시 지급 (신규·휴면 대상)</span></li>
+      <li>🎁 <span>마이신한포인트 <b>3천~100만원</b> 랜덤</span></li></ul>
+      <div class="tip">💡 개설 후 '이벤트 신청' 버튼까지 눌러야 쿠폰 지급 · 계좌는 안 쓰셔도 유지 부담 없어요</div>`;
+    A.innerHTML = actBtn(LINKS.acct,'1','SOL LINK 계좌 개설','개설 중 권유직원 확인! (만 19세 이상)',true)
+                + actBtn(LINKS.check,'2','이벤트 신청하기','본인인증 · 이거 눌러야 혜택이 지급돼요',false);
+  } else {
+    T.innerHTML = "이미 두 곳 다 고객이시네요 🙏<small>이번 신규 가입 혜택 대상은 아니에요.<br>대신 슈퍼SOL 앱 안의 친구 초대 이벤트는 참여할 수 있어요!</small>";
+    G.innerHTML = `<h3>그래도 챙길 것</h3><ul>
+      <li>👥 <span>슈퍼SOL 앱 → 이벤트 → <b>친구 초대</b>로 리워드 받기</span></li></ul>`;
+    A.innerHTML = '';
+    last.style.display='none'; pin.style.display='none';
+  }
+  show('result');
+}
+</script>
+</body>
+</html>
