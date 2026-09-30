@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-01",
+  "date_kr": "2026년 10월 1일",
+  "generated_at": "2026-10-01T06:17:11.687011+09:00",
+  "sihwang_body": "신한투자증권 서울금융센터 황인철PB입니다.\n\n① 오늘 가장 중요한 한 줄: 유가 급락보다 미국 10년물 금리 5.23%대 부담이 더 크게 작용하며 3대 지수는 소폭 약세였습니다.\n\n② 마이크론(MU, +1.05%)은 메모리 가격·실적 기대, 메타(META, +3.24%)는 Muse 확장, 카니발(CCL, +13.41%)·로얄캐리비안(RCL, +7.45%)은 유가 하락과 실적 기대가 붙었습니다.\n\n③ 애플(AAPL, -2.66%)·테슬라(TSLA, -1.29%)는 개별 악재로 밀렸지만, 앤트로픽의 5,180억달러 AI 인프라 투자 이슈까지 보면 메모리·AI 인프라 중심 관점은 아직 유효해 보입니다.\n\n📊 주요 지수\n\n다우 51,349.92 (-0.26%)\n\n나스닥 26,797.54 (-0.09%)\n\nS&P500 7,670.84 (-0.17%)\n\nMSCI 한국 ETF(EWY) 187.10 (+1.92%)\n\n달러인덱스 101.40 (+0.20%)\n\nWTI 88.94달러 (-3.95%)\n\n미국 10년물 금리 5.23%\n\nVIX 16.04 (-0.19%)",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Technology +4.9%, Health Care +0.1%, Communication -1.0% / 하위: Consumer Disc. -6.7%, Financials -6.7%, Materials -7.2%",
+  "valuation_line": "S&P500 Fwd P/E 41.1배 · 美10년 4.07% · VIX 16.0",
+  "full_narrative": "시장 총평: 8월 PCE는 전월 대비 0.3%, 전년 대비 3.4%로 예상치(0.4%, 3.7%)를 하회했습니다. 근원 PCE도 3.0%로 예상을 밑돌아 장 초반은 인플레이션 우려 완화에 상승 출발했습니다. 존 윌리엄스의 신중론까지 더해지며 10월 인상 확률은 주초 70%에서 37%로 급락했습니다. 그러나 개인지출이 0.9% 증가하고 ADP 고용과 GDP 확정치가 호조를 보이면서 금리는 상승 전환했습니다. 유가까지 오르며 테크와 임의소비재를 제외한 9개 업종이 하락했습니다. 다만 이번 PCE에는 소프트웨어·자산관리 서비스 산정 방식 변경 영향이 0.1~0.2%p 반영된 것으로 분석됩니다. 실질적으로는 예상치와 비슷했다는 해석도 나옵니다.\n\n주요 종목: 마이크론은 장 마감 후 매출 542억달러(예상 510억), EPS 33.42달러(예상 31.6)를 발표했습니다. 다음 분기 매출 615억달러, EPS 38.15달러를 제시해 월가 전망을 모두 넘기며 반도체 호황을 재확인했습니다. 정규장에서도 AMD·인텔과 함께 상승했습니다. 엔비디아·애플·MS·아마존·알파벳 등 대형주도 올랐습니다. 엔트로픽 투자설명서에 담긴 시총 2조달러와 5,180억달러 인프라 투자 계획은 AI 성장 의지로 긍정 해석됐습니다. TD코웬은 델의 AI 수주잔고 950억달러를 근거로 목표가를 550달러로 상향했습니다. 개별 종목에서는 게임스탑이 CEO 지분 매입에 강세를 보였고, 보잉은 차세대 전투기 개발 계약에 상승했습니다. 반면 모더나는 몬산토 특허소송 패배 등을 이유로 씨티가 중립에서 매도로 하향하며 약세를 보였습니다.\n\n투자 심리: 이란이 미국의 7일 합의 제안을 받아 내부 논의에 들어갔으나, 어느 쪽이 먼저 이행할지를 둘러싼 불신은 여전합니다. 미국 휘발유 재고는 예상(50만 배럴)을 크게 넘는 168만 배럴 감소했습니다. 이에 유가가 90달러대로 반등했고 VIX도 16.34로 소폭 올랐습니다. 골드만삭스는 걸프 지역 석유 수출이 9월 두 배로 늘었다며 연말 브렌트유 85달러를 전망했습니다. 웰스파고는 내년 미 증시 8,700포인트를 제시했습니다. 중장기 시각은 여전히 우호적입니다. 한국 증시는 MSCI 한국지수 2.31% 하락, 야간선물 0.2% 하락으로 약세 출발이 예상됩니다. 다만 3분기 코스피가 19% 하락해 과매도권에 진입한 상태입니다. 마이크론 호실적이 삼성전자·SK하이닉스 수급 회복의 계기가 될지가 관건입니다. 정책·투자 관련주 중심의 종목 장세는 이어질 전망입니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 10월 1일 미국 증시: PCE 안도에도 유가·금리 반등에 혼조, 마이크론 장 마감 후 호실적",
+    "points": [
+      "8월 PCE가 예상을 하회하며 상승 출발했으나, 유가와 10년물 금리(5.29%)가 다시 오르면서 다우와 S&P500은 하락했습니다. 나스닥만 소폭 상승 마감했습니다.",
+      "마이크론은 장 마감 후 매출 542억달러, 다음 분기 가이던스 615억달러를 발표해 예상치를 크게 상회했습니다. 정규장에서도 마이크론·AMD·인텔 등 반도체주와 엔비디아·애플·MS 등 대형 기술주가 강세를 보였습니다. 반면 모더나는 씨티의 매도 하향에 급락했습니다.",
+      "이란이 미국의 7일 합의 제안을 수령했으나 상호 불신은 여전합니다. 미국 휘발유 재고 급감으로 유가가 반등했고, 연기금의 분기말 330억달러 매도 추정까지 겹치며 투자 심리가 위축됐습니다. MSCI 한국지수는 2.31% 하락했습니다."
+    ]
+  },
+  "news": [
+    {
+      "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+      "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+      "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
+      "link": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
+      "source": "CNBC Business"
+    }
+  ],
+  "memval": {
+    "date": "2026-10-01",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.78,
+        "delta": -0.04,
+        "price": 268500.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.78,
+        "delta": 0.04,
+        "price": 1776000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 6.6,
+        "delta": 0.0,
+        "price": 1065.11,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
