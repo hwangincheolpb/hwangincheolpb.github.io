@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-06",
+  "date_kr": "2026년 10월 6일",
+  "generated_at": "2026-10-06T06:17:10.131085+09:00",
+  "sihwang_body": "🇺🇸 미국 마감시황 요약\n\n신한투자증권 서울금융센터 황인철PB입니다.\n\n① 9월 비농업고용이 2.9만 명 증가에 그치며 경기 둔화 우려보다 10월 금리 동결 기대가 더 크게 반영됐습니다.  \n② 엔비디아(NVDA, +1.36%)는 AI 수요 기대에 강세, 테슬라(TSLA, +4.68%)는 3분기 인도량 48.7만 대로 예상치를 웃돌며 상승했습니다.  \n③ 다만 씨게이트(STX, -10.21%), 웨스턴디지털(WDC, -10.20%), 마이크론(MU, -2.09%)은 도시바 HDD 증설 이슈로 조정받아 종목별 선별 대응이 필요합니다.\n\n📊 주요 지수\n\n다우 51,176.96 (+0.49%)\n\n나스닥 27,190.86 (+1.19%)\n\nS&P500 7,722.72 (+0.73%)\n\nMSCI 한국(EWY) 191.88 (+3.10%)\n\n달러인덱스 101.93 (-0.17%)\n\nWTI 91.11달러 (-1.90%)\n\n미국 10년물 금리 5.28%\n\nVIX 15.31 (-6.59%)\n\n감사합니다.",
+  "sihwang_status": "stale",
+  "sector_line": "섹터 1M 상위: Technology +9.0%, Industrials -1.4%, Communication -1.5% / 하위: Utilities -6.0%, Financials -6.9%, Materials -7.3%",
+  "valuation_line": "S&P500 Fwd P/E 41.4배 · 美10년 3.99% · VIX 15.3",
+  "full_narrative": "시장 총평: 유가 하락이 안도감을 주는 가운데 기술주 매수세가 유입되며 3대 지수가 모두 상승했습니다. 나스닥은 1% 넘게 올라 사상 최고치를 경신했습니다. 중동 산유국의 9월 일평균 원유 수출이 1,830만 배럴로 전쟁 전 수준을 넘어섰고, 호르무즈 해협 통과 물량도 전쟁 전의 80%까지 회복되며 공급 우려가 완화됐습니다. 다만 트럼프의 5,000달러 지급 공약, 프랑스 부채 문제, 4년 2개월 만에 최고치를 기록한 서비스업 물가 지표가 겹치며 금리는 상승했습니다. 이 영향으로 부동산 업종만 유일하게 하락했습니다.\n\n주요 종목: 엔비디아는 강한 성장이 금리 민감도를 낮춘다는 평가 속에 사상 최고가로 마감했습니다. 골드만삭스는 이번 어닝 시즌에서 엔비디아와 마이크론이 S&P500 이익 증가분의 3분의 1을 차지할 것으로 전망했습니다. 머스크의 테라펩이 TSMC와 협력을 논의 중이라는 보도에 TSMC는 상승한 반면 인텔은 약세를 보였습니다. 마이크론은 이익률 지속성에 대한 의문으로 소폭 하락했습니다. 메타는 저커버그 등 경영진의 자사주 매도 보도에도 상승했으며, 웰스파고와 할리데이비슨, 에스티로더는 증권사의 긍정적 평가에 힘입어 올랐습니다.\n\n투자 심리: 금리 상승에도 AI 호황이 우려를 누르고 있다는 평가가 우세합니다. UBS는 미국과 유럽, 아시아 전반의 주식 매수를 권고했고, 10월이 역사적으로 평균 1.9% 오르는 강세 달이라는 점도 긍정적입니다. 다만 10년물이 5.5%를 넘기면 밸류에이션 재평가가 불가피하다는 경고가 나오고 있어 금리 수준이 단기 핵심 변수입니다. 한국 증시는 연휴 중 해외 시장이 양호했으나, 9월 이후 삼성전자와 SK하이닉스가 마이크론과 하이닉스 ADR 대비 소외됐습니다. 삼성전자 잠정 실적 전후 외국인 수급 회복 여부가 관건이며, 코스닥 소부장과 통신장비, 이차전지 중심의 종목 장세는 이어질 가능성이 높습니다.",
+  "issues_md": "",
+  "headline_points": {
+    "headline": "2026년 10월 6일 미국 증시: 유가 하락과 엔비디아 사상 최고치에 나스닥 신고가",
+    "points": [
+      "엔비디아가 사상 최고가로 마감하고 마이크로소프트, 알파벳, 브로드컴, 메타 등 AI 대형주가 일제히 오르며 나스닥이 최고치를 경신했습니다",
+      "중동 산유국 수출이 전쟁 전 수준을 회복하고 사우디가 아시아향 공급가를 인하하면서 WTI가 2% 가까이 하락해 투자 심리를 지지했습니다",
+      "유가 하락에도 미국 10년물 금리는 5.31%까지 올랐습니다. 서비스업 물가 지표 상승과 프랑스 재정 불안이 새로운 부담 요인으로 부각됐습니다"
+    ]
+  },
+  "news": [
+    {
+      "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+      "link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+      "link": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+      "source": "CNBC"
+    },
+    {
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "memval": {
+    "date": "2026-10-06",
+    "rows": [
+      {
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "fpe": 3.91,
+        "delta": 0.0,
+        "price": 276000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "fpe": 3.91,
+        "delta": 0.0,
+        "price": 1841000.0,
+        "currency": "KRW"
+      },
+      {
+        "ticker": "MU",
+        "name": "마이크론",
+        "fpe": 5.15,
+        "delta": -0.07,
+        "price": 1063.96,
+        "currency": "USD"
+      }
+    ]
+  },
+  "view": ""
+}
