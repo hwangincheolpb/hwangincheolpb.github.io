@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>관리점 변경 · 컨설턴트 지정 안내 | 황인철 PB</title>
+<meta name="description" content="신한 SOL증권 앱에서 관리점과 담당 컨설턴트를 지정하는 방법. 신한투자증권 서울금융센터 황인철 PB." />
+<meta property="og:title" content="관리점 변경 · 컨설턴트 지정 안내" />
+<meta property="og:description" content="신한 SOL증권 앱 → 상담/문의 → 관리점/컨설턴트 신청. 관리점 서울금융센터 · 컨설턴트 황인철." />
+<meta property="og:type" content="website" />
+<link rel="preconnect" href="https://cdn.jsdelivr.net" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+<style>
+  :root{
+    --bg:#07122a;
+    --bg-2:#0b1c3f;
+    --surface:rgba(255,255,255,.06);
+    --line:rgba(255,255,255,.12);
+    --ink:#f4f7fb;
+    --ink-2:#b7c4db;
+    --ink-3:#8796b3;
+    --accent:#f5b841;
+    --accent-soft:#ffe1a0;
+    --blue:#2f6bff;
+    --ok:#6fae8f;
+    --mono:"SFMono-Regular",ui-monospace,Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    min-height:100dvh;color:var(--ink);
+    font-family:"Pretendard Variable",Pretendard,-apple-system,system-ui,"Apple SD Gothic Neo",sans-serif;
+    letter-spacing:-.01em;-webkit-font-smoothing:antialiased;
+    background:
+      radial-gradient(120% 60% at 85% -8%, rgba(47,107,255,.42), transparent 58%),
+      radial-gradient(90% 50% at 10% 100%, rgba(245,184,65,.12), transparent 55%),
+      linear-gradient(165deg,var(--bg) 0%,var(--bg-2) 58%,#123a86 100%);
+  }
+  a{color:inherit}
+  .wrap{
+    width:100%;max-width:460px;margin:0 auto;
+    padding:36px 22px calc(40px + env(safe-area-inset-bottom));
+  }
+  .brand{
+    display:inline-flex;align-items:center;gap:8px;
+    font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--accent-soft);font-weight:700;
+    border:1px solid rgba(245,184,65,.35);border-radius:999px;
+    padding:7px 12px;background:rgba(245,184,65,.12);
+    margin-bottom:18px;
+  }
+  h1{
+    font-size:clamp(26px,7vw,34px);font-weight:800;letter-spacing:-.03em;line-height:1.2;
+    margin-bottom:10px;
+  }
+  .lead{font-size:15px;line-height:1.65;color:var(--ink-2);margin-bottom:22px}
+  .target{
+    border:1px solid rgba(245,184,65,.4);
+    background:linear-gradient(135deg,rgba(245,184,65,.16),rgba(47,107,255,.08));
+    border-radius:18px;padding:16px 16px 14px;margin-bottom:22px;
+  }
+  .target .label{font-size:12px;color:var(--accent-soft);font-weight:700;margin-bottom:10px}
+  .row{
+    display:flex;align-items:center;justify-content:space-between;gap:10px;
+    padding:10px 0;border-top:1px solid rgba(255,255,255,.08);
+  }
+  .row:first-of-type{border-top:0;padding-top:0}
+  .row .k{font-size:13px;color:var(--ink-3)}
+  .row .v{font-size:16px;font-weight:700;letter-spacing:-.02em}
+  .copy{
+    flex:none;border:1px solid var(--line);background:rgba(255,255,255,.05);
+    color:var(--ink-2);border-radius:999px;padding:7px 11px;font-size:12px;font-weight:600;
+    font-family:inherit;cursor:pointer;
+  }
+  .copy:active{transform:scale(.97)}
+  .copy.done{color:#0a1836;background:var(--accent);border-color:transparent}
+
+  .steps{display:flex;flex-direction:column;gap:12px;margin-bottom:22px}
+  .step{
+    display:grid;grid-template-columns:42px 1fr;gap:12px;align-items:start;
+    background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:16px;
+  }
+  .num{
+    width:42px;height:42px;border-radius:14px;
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--mono);font-weight:700;font-size:15px;
+    background:rgba(47,107,255,.22);color:#d7e4ff;
+  }
+  .step h2{font-size:16px;font-weight:750;letter-spacing:-.02em;margin-bottom:4px}
+  .step p{font-size:13.5px;line-height:1.55;color:var(--ink-2)}
+  .path{
+    margin-top:8px;display:inline-block;
+    font-family:var(--mono);font-size:12px;line-height:1.5;color:var(--accent-soft);
+    background:rgba(245,184,65,.1);border:1px solid rgba(245,184,65,.25);
+    border-radius:10px;padding:8px 10px;
+  }
+
+  .links{display:flex;flex-direction:column;gap:10px;margin-bottom:22px}
+  .btn{
+    display:flex;align-items:center;gap:12px;text-decoration:none;
+    background:rgba(255,255,255,.07);border:1px solid var(--line);
+    border-radius:16px;padding:15px 16px;transition:transform .12s ease, background .12s ease;
+  }
+  .btn:active{transform:scale(.985);background:rgba(255,255,255,.11)}
+  .btn.primary{
+    background:linear-gradient(100deg,rgba(245,184,65,.24),rgba(245,184,65,.08));
+    border-color:rgba(245,184,65,.45);
+  }
+  .ic{
+    width:40px;height:40px;border-radius:12px;flex:none;
+    display:flex;align-items:center;justify-content:center;
+    background:rgba(47,107,255,.22);font-size:18px;
+  }
+  .btn.primary .ic{background:rgba(245,184,65,.2)}
+  .btn b{display:block;font-size:15px;font-weight:700}
+  .btn span{display:block;font-size:12px;color:var(--ink-3);margin-top:2px}
+  .arw{margin-left:auto;color:var(--ink-3);font-size:18px}
+
+  .note{
+    border:1px solid var(--line);background:rgba(0,0,0,.16);
+    border-radius:16px;padding:14px 15px;margin-bottom:18px;
+  }
+  .note h3{font-size:13px;font-weight:700;color:var(--ok);margin-bottom:8px}
+  .note ul{padding-left:16px;color:var(--ink-2);font-size:13px;line-height:1.6}
+  .note li{margin:4px 0}
+  .note a{color:var(--accent-soft);text-decoration:underline;text-underline-offset:2px}
+
+  footer{
+    font-size:11.5px;line-height:1.6;color:var(--ink-3);text-align:left;
+  }
+  footer a{color:var(--ink-2);text-decoration:underline;text-underline-offset:2px}
+  .toast{
+    position:fixed;left:50%;bottom:calc(24px + env(safe-area-inset-bottom));
+    transform:translateX(-50%) translateY(12px);opacity:0;pointer-events:none;
+    background:#10244d;color:#fff;border:1px solid rgba(255,255,255,.18);
+    border-radius:999px;padding:10px 16px;font-size:13px;font-weight:600;
+    transition:.2s ease;z-index:20;
+  }
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="brand">Shinhan · SOL Guide</div>
+    <h1>관리점 변경 ·<br>컨설턴트 지정</h1>
+    <p class="lead">
+      계좌마다 관리점과 담당 컨설턴트를 지정하면, 지점 PB가 잔고·일정·상담을 이어서 도와드립니다.
+      앱에서 아래 순서대로 진행해 주세요.
+    </p>
+
+    <section class="target" aria-label="지정할 값">
+      <div class="label">앱에서 이렇게 지정하세요</div>
+      <div class="row">
+        <div>
+          <div class="k">관리점</div>
+          <div class="v" id="branch">서울금융센터</div>
+        </div>
+        <button class="copy" type="button" data-copy="서울금융센터">복사</button>
+      </div>
+      <div class="row">
+        <div>
+          <div class="k">컨설턴트</div>
+          <div class="v" id="consultant">황인철</div>
+        </div>
+        <button class="copy" type="button" data-copy="황인철">복사</button>
+      </div>
+      <div class="row">
+        <div>
+          <div class="k">사번(검색용)</div>
+          <div class="v" id="empno">214175</div>
+        </div>
+        <button class="copy" type="button" data-copy="214175">복사</button>
+      </div>
+    </section>
+
+    <section class="steps" aria-label="진행 순서">
+      <article class="step">
+        <div class="num">01</div>
+        <div>
+          <h2>신한 SOL증권 앱 실행</h2>
+          <p>앱이 없으면 아래 버튼으로 설치한 뒤 로그인합니다.</p>
+        </div>
+      </article>
+      <article class="step">
+        <div class="num">02</div>
+        <div>
+          <h2>메뉴 이동</h2>
+          <p>화면에서 아래 경로로 들어갑니다.</p>
+          <div class="path">상담/문의 → 관리점/컨설턴트 신청</div>
+        </div>
+      </article>
+      <article class="step">
+        <div class="num">03</div>
+        <div>
+          <h2>계좌별 지정</h2>
+          <p>
+            변경할 계좌를 선택한 뒤 관리점을 <b>서울금융센터</b>로,
+            컨설턴트를 <b>황인철</b>(또는 사번 <b>214175</b>)로 지정합니다.
+            계좌가 여러 개면 각각 반복합니다.
+          </p>
+        </div>
+      </article>
+      <article class="step">
+        <div class="num">04</div>
+        <div>
+          <h2>완료 확인</h2>
+          <p>지정 완료 후 가능하면 한 줄만 알려 주세요. 확인 후 이어서 도와드리겠습니다.</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="links" aria-label="바로가기">
+      <a class="btn primary" href="https://apps.apple.com/kr/app/%EC%8B%A0%ED%95%9C-sol%EC%A6%9D%EA%B6%8C-%EB%8C%80%ED%91%9Cmts/id1168512940" target="_blank" rel="noopener noreferrer">
+        <span class="ic"></span>
+        <span><b>iPhone · App Store</b><span>신한 SOL증권 설치</span></span>
+        <span class="arw">→</span>
+      </a>
+      <a class="btn primary" href="https://play.google.com/store/apps/details?id=com.shinhaninvest.nsmts&hl=ko" target="_blank" rel="noopener noreferrer">
+        <span class="ic">▶</span>
+        <span><b>Android · Google Play</b><span>신한 SOL증권 설치</span></span>
+        <span class="arw">→</span>
+      </a>
+      <a class="btn" href="https://m.shinhansec.com/mweb/svif/csif/scsif2001" target="_blank" rel="noopener noreferrer">
+        <span class="ic">📍</span>
+        <span><b>영업점 안내</b><span>서울금융센터 위치·전화 확인</span></span>
+        <span class="arw">→</span>
+      </a>
+      <a class="btn" href="tel:15880365">
+        <span class="ic">☎</span>
+        <span><b>고객지원센터 1588-0365</b><span>앱 진행이 어려우면 유선 신청</span></span>
+        <span class="arw">→</span>
+      </a>
+    </section>
+
+    <section class="note">
+      <h3>알아두면 좋은 점</h3>
+      <ul>
+        <li>공식 안내 기준 경로는 <b>신한 SOL증권 앱 → 상담/문의 → 관리점/컨설턴트 신청</b>입니다. (자녀계좌 가이드에 동일 메뉴 명시)</li>
+        <li>관리점·컨설턴트는 <b>계좌마다</b> 지정합니다. 한 계좌만 바꾸면 다른 계좌는 그대로일 수 있습니다.</li>
+        <li>일부 비대면·특수 수수료 계좌는 지점 컨설턴트 등록이 제한될 수 있습니다. 메뉴에서 안 되면 연락 주세요.</li>
+        <li>자산 규모에 따라 전담관리자 지정 가능 여부가 다를 수 있습니다. 참고: <a href="https://open.shinhansec.com/mobilealpha/html/CS/AP8530M25.html" target="_blank" rel="noopener noreferrer">나만의 맞춤상담 가이드</a></li>
+        <li>앱 대신 고객지원센터(1588-0365) 또는 지점 방문으로도 신청할 수 있습니다.</li>
+      </ul>
+    </section>
+
+    <footer>
+      신한투자증권 서울금융센터 황인철 PB · 본 페이지는 고객 안내 목적입니다.<br>
+      투자자는 금융투자상품에 대해 충분한 설명을 받을 권리가 있으며, 투자 전 상품설명서와 약관을 확인해 주세요.
+      금융투자상품은 원금 손실이 발생할 수 있으며 그 손실은 투자자에게 귀속됩니다.<br>
+      출처:
+      <a href="http://open.shinhansec.com/mobilealpha/html/CS/infoKidsAccount.html" target="_blank" rel="noopener noreferrer">자녀계좌 가이드(관리점/컨설턴트 신청 메뉴)</a> ·
+      <a href="https://www.shinhansec.com/siw/customer-center/advise/counsult_info/view.do" target="_blank" rel="noopener noreferrer">상담/문의 안내</a> ·
+      <a href="/pb/">황인철 PB</a>
+    </footer>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite">복사했습니다</div>
+
+  <script>
+    (function () {
+      var params = new URLSearchParams(location.search);
+      var map = {
+        branch: ["branch", "서울금융센터"],
+        consultant: ["consultant", "황인철"],
+        empno: ["empno", "214175"]
+      };
+      Object.keys(map).forEach(function (id) {
+        var key = map[id][0];
+        var fallback = map[id][1];
+        var val = (params.get(key) || fallback).trim();
+        var el = document.getElementById(id);
+        if (el) el.textContent = val;
+        document.querySelectorAll('.copy[data-copy]').forEach(function (btn) {
+          if (btn.getAttribute("data-copy") === fallback) btn.setAttribute("data-copy", val);
+        });
+      });
+
+      var toast = document.getElementById("toast");
+      var timer;
+      function showToast(msg) {
+        toast.textContent = msg;
+        toast.classList.add("show");
+        clearTimeout(timer);
+        timer = setTimeout(function () { toast.classList.remove("show"); }, 1400);
+      }
+
+      document.querySelectorAll(".copy").forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var text = btn.getAttribute("data-copy") || "";
+          var done = function () {
+            btn.classList.add("done");
+            btn.textContent = "됨";
+            showToast("복사했습니다");
+            setTimeout(function () {
+              btn.classList.remove("done");
+              btn.textContent = "복사";
+            }, 1200);
+          };
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(text).then(done).catch(function () {
+              window.prompt("복사할 내용", text);
+            });
+          } else {
+            window.prompt("복사할 내용", text);
+          }
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
